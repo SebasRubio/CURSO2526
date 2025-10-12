@@ -1,0 +1,1001 @@
+customer_id,product_name,product_category,price,quantity,total_price,purchase_date,shipping_address,payment_method,status
+1,Cacao Nibs,Food - Baking,198.05,18,3564.9,4/19/2020,99 Eastwood Court,cash on delivery,pending
+2,Feta Cheese Crumbles,Food - Dairy,29.45,17,500.65,5/6/2020,83 Butterfield Court,credit card,pending
+3,Wireless Charger,Accessories,365.01,81,29565.81,11/13/2021,3146 Sycamore Parkway,cash on delivery,pending
+4,Balsamic Glaze,Food - Condiments,61.43,14,860.02,6/7/2020,9074 Mallard Lane,credit card,delivered
+5,Garlic Parmesan Wings,Food - Frozen Foods,943.71,20,18874.2,12/3/2022,964 Myrtle Place,PayPal,shipped
+6,Pet Bed with Removable Cover,Pets,800.93,13,10412.09,5/7/2022,3 Miller Drive,cash on delivery,delivered
+7,Portable Air Purifier,Health,545.52,53,28912.56,4/7/2022,9157 Talisman Parkway,credit card,delivered
+8,Sweet BBQ Dipping Sauce,Food - Condiments,48.35,42,2030.7,11/4/2022,37640 Northland Circle,PayPal,pending
+9,Canned Black Beans,Food - Canned Goods,120.3,91,10947.3,12/23/2020,5 Vera Plaza,cash on delivery,shipped
+10,LED Flashing Pet Collar,Pets,936.68,75,70251.0,4/28/2020,1 Heffernan Junction,cash on delivery,delivered
+11,Kids' Dinosaur-Themed Lunchbox,Accessories,328.42,47,15435.74,10/8/2021,1 Jay Terrace,cash on delivery,delivered
+12,Board Game,Toys,330.55,7,2313.85,11/29/2021,1089 Waubesa Plaza,PayPal,delivered
+13,Ground Cinnamon,Food - Spices,845.18,94,79446.92,11/14/2022,9 Ryan Hill,cash on delivery,pending
+14,Comfortable Bed Pillow,Home,860.95,100,86095.0,2/1/2021,93 Lunder Road,PayPal,pending
+15,Cranberry Orange Oatmeal,Food - Breakfast,676.02,28,18928.56,3/15/2021,76 Packers Court,credit card,shipped
+16,Sweetened Condensed Milk,Food - Baking Goods,190.2,76,14455.2,8/8/2021,087 Blaine Place,credit card,pending
+17,Folding Backpack Chair,Outdoor,726.97,31,22536.07,1/1/2020,0 Graceland Trail,cash on delivery,pending
+18,Essential Oil Diffuser,Health,501.17,85,42599.45,12/18/2022,65307 Quincy Lane,credit card,pending
+19,Smartphone Holder for Car,Automotive,852.99,50,42649.5,10/18/2022,02 Sunnyside Place,cash on delivery,pending
+20,Chewy Granola Bars,Food - Snacks,301.57,75,22617.75,8/16/2020,560 Amoth Pass,credit card,delivered
+21,Microfiber Cleaning Cloth Set,Home,843.06,99,83462.94,1/8/2022,078 Green Ridge Lane,PayPal,delivered
+22,Canvas Tote Bag,Clothing - Accessories,187.71,82,15392.22,11/1/2021,948 Mayfield Hill,credit card,pending
+23,Pet Leash,Pets,207.34,21,4354.14,2/24/2021,08497 Center Plaza,credit card,shipped
+24,Portable USB-C Monitor,Electronics,778.07,9,7002.63,5/15/2021,2 Jenifer Point,cash on delivery,delivered
+25,Hot Dog Buns,Food - Bakery,290.37,72,20906.64,12/4/2021,4 Raven Street,credit card,delivered
+26,Sweet and Sour Sauce,Food - Condiments,222.27,86,19115.22,5/18/2020,87360 Canary Place,cash on delivery,processing
+27,Wine Decanter,Home,243.1,8,1944.8,4/25/2021,88 Sundown Park,cash on delivery,pending
+28,Teriyaki Stir-Fry Sauce,Food - Condiments,774.4,86,66598.4,5/25/2021,37852 Kennedy Alley,credit card,shipped
+29,Travel Mug,Kitchen,599.41,15,8991.15,6/3/2020,2 Dottie Place,cash on delivery,pending
+30,Brown Sugar,Food - Baking,374.7,43,16112.1,8/21/2020,151 Ridge Oak Park,credit card,processing
+31,LED Strip Lights with Remote Control,Home,69.74,16,1115.84,3/20/2020,9147 Eagan Center,cash on delivery,shipped
+32,Tailgating Set,Outdoor,537.34,22,11821.48,2/5/2021,9 Grim Parkway,PayPal,shipped
+33,Granola Cereal,Food - Breakfast,889.52,24,21348.48,10/5/2022,7852 Hallows Parkway,PayPal,pending
+34,Fruit and Nut Energy Bites,Food - Snacks,261.56,48,12554.88,11/11/2022,016 Knutson Lane,credit card,processing
+35,Vegetable Fried Rice Mix,Food - Frozen Food,459.79,93,42760.47,12/3/2022,1 Fuller Parkway,credit card,shipped
+36,Window A/C Unit,Home Appliances,210.16,94,19755.04,7/3/2021,2 Bartelt Lane,PayPal,pending
+37,LED Desk Lamp with USB Charging Port,Office,791.94,73,57811.62,4/3/2021,0731 Warner Plaza,PayPal,pending
+38,Apple Cinnamon Oatmeal,Food - Breakfast,766.38,13,9962.94,9/15/2022,16 Ridge Oak Terrace,cash on delivery,shipped
+39,Stylish Wide-Leg Trousers,Clothing - Bottoms,953.26,35,33364.1,2/17/2021,23992 Prairie Rose Terrace,credit card,delivered
+40,Organic Green Apples,Food - Produce,745.15,82,61102.3,11/16/2021,1513 Iowa Lane,credit card,processing
+41,Pet Safety Harness,Pets,296.35,1,296.35,8/14/2020,48999 Lawn Point,PayPal,shipped
+42,Vegan Chocolate Cake Mix,Food - Baking,504.63,79,39865.77,6/5/2021,0 Lunder Crossing,PayPal,processing
+43,Instant Mashed Potatoes,Food - Sides,46.46,81,3763.26,11/29/2022,69 Everett Plaza,PayPal,shipped
+44,Robot Vacuum Cleaner,Home Appliances,53.4,62,3310.8,12/26/2022,01 Pine View Alley,PayPal,processing
+45,Garden Kneeler and Seat,Garden,615.57,77,47398.89,11/17/2020,26611 Susan Hill,PayPal,shipped
+46,Wooden Children's Play Kitchen,Toys,228.05,79,18015.95,3/24/2022,3164 Di Loreto Drive,credit card,pending
+47,Luminous Night Light,Home,236.87,53,12554.11,12/14/2021,92 Talisman Road,PayPal,processing
+48,Vegetable Sushi Rolls,Food - Prepared Meals,667.78,80,53422.4,7/6/2022,402 Lillian Terrace,PayPal,delivered
+49,Magic Color-Changing Mug,Kitchen,986.12,49,48319.88,9/3/2021,5967 Luster Center,cash on delivery,shipped
+50,Luminous Night Light,Home,280.34,34,9531.56,1/11/2020,0 Elgar Street,cash on delivery,processing
+51,Mini Air Hockey Table,Toys,550.0,86,47300.0,11/14/2021,75064 Merry Plaza,cash on delivery,delivered
+52,Smartphone Projector Kit,Electronics,781.38,96,75012.48,10/7/2021,04 Eastwood Terrace,PayPal,shipped
+53,Herbal Tea Sampler Box,Food,928.61,80,74288.8,4/26/2022,2878 Lyons Street,cash on delivery,delivered
+54,Handcrafted Wooden Coasters,Home,136.38,25,3409.5,6/25/2020,30363 Hooker Way,cash on delivery,delivered
+55,Chicken Breasts,Food - Meat,414.3,29,12014.7,6/11/2020,12787 Gulseth Plaza,credit card,delivered
+56,Printed Maxi Skirt,Clothing - Skirts,658.76,18,11857.68,7/17/2021,86787 Dorton Point,cash on delivery,delivered
+57,Asian Stir-Fry Vegetables,Food - Frozen Foods,962.55,20,19251.0,3/6/2022,6351 Northport Alley,credit card,shipped
+58,Gaming Mousepad,Gaming,964.44,97,93550.68,7/2/2021,36 La Follette Road,cash on delivery,pending
+59,Wireless Car Charger,Automotive,483.97,65,31458.05,12/30/2022,8787 New Castle Drive,cash on delivery,shipped
+60,Reflective Safety Vest,Safety,579.26,45,26066.7,7/10/2020,329 Maryland Drive,cash on delivery,delivered
+61,Corn Tortillas,Food - Bakery,427.38,83,35472.54,8/24/2021,524 4th Pass,PayPal,processing
+62,Pet Grooming Gloves,Pets,693.31,92,63784.52,2/20/2021,877 Brentwood Lane,credit card,pending
+63,Toilet Paper (12 rolls),Food - Household,731.18,8,5849.44,10/20/2022,76 Union Street,cash on delivery,pending
+64,Silicone Baking Molds,Kitchen,950.23,74,70317.02,2/25/2020,580 Garrison Drive,PayPal,shipped
+65,Artisan Flatbreads,Food - Bakery,278.53,59,16433.27,3/29/2021,659 Toban Road,credit card,pending
+66,Granulated Sugar,Food - Baking,147.15,58,8534.7,3/24/2020,95073 Waywood Alley,PayPal,processing
+67,Athletic Sports Bra,Clothing - Activewear,955.09,83,79272.47,1/18/2022,6901 Annamark Trail,cash on delivery,pending
+68,Peanut Butter Filled Pretzels,Food - Snacks,306.69,84,25761.96,2/5/2020,32 Cardinal Circle,PayPal,processing
+69,Sweet and Sour Sauce,Food - Condiments,287.32,14,4022.48,9/26/2022,52 Veith Pass,PayPal,processing
+70,Salsa Verde,Food - Condiments,782.38,100,78238.0,8/16/2022,31 Swallow Park,PayPal,pending
+71,Biodegradable Phone Case,Accessories,798.47,10,7984.7,12/22/2022,5 Mockingbird Street,cash on delivery,delivered
+72,Voice-Controlled Speaker,Audio,830.18,33,27395.94,5/1/2022,26 Ridgeview Street,cash on delivery,pending
+73,LED Strip Lights Kit,Home,514.7,5,2573.5,2/19/2022,5 Merrick Avenue,cash on delivery,shipped
+74,Set of Decorative Storage Bins,Home,434.88,48,20874.24,2/26/2020,99444 Chinook Way,credit card,shipped
+75,Bamboo Bathtub Caddy,Home,218.1,79,17229.9,2/12/2022,14 Coolidge Junction,PayPal,shipped
+76,Spinach Pizza Rolls,Food - Frozen Foods,470.24,43,20220.32,5/23/2020,193 Westend Hill,cash on delivery,processing
+77,Self-Inflating Camping Mattress,Outdoor,954.0,45,42930.0,7/24/2020,45450 David Plaza,cash on delivery,delivered
+78,Adjustable Pet Grooming Table,Pets,657.89,68,44736.52,3/10/2022,2 Corscot Park,credit card,pending
+79,High-Speed Hand Blender,Kitchen,568.22,51,28979.22,10/20/2022,866 Pearson Court,cash on delivery,processing
+80,Chocolate Fudge Ice Cream,Food - Frozen Desserts,747.13,94,70230.22,11/10/2022,006 Debra Court,credit card,shipped
+81,Pet Grooming Glove,Pets,631.94,82,51819.08,10/21/2021,58 Ridgeview Lane,credit card,delivered
+82,Photo Album,Home,211.04,39,8230.56,2/29/2020,9141 Mallard Avenue,PayPal,pending
+83,Beard Grooming Kit,Grooming,149.67,26,3891.42,10/28/2022,3166 Spenser Junction,cash on delivery,pending
+84,Walnut Halves,Food - Nuts,893.04,94,83945.76,11/3/2022,77 Muir Lane,credit card,processing
+85,Foot Massager,Health,984.92,41,40381.72,11/7/2021,58 Straubel Terrace,PayPal,processing
+86,Lockable Bicycle Chain,Outdoor,747.75,5,3738.75,5/27/2022,2 Mayer Hill,credit card,delivered
+87,Almond Coconut Granola,Food - Breakfast Foods,710.7,36,25585.2,10/12/2022,9 Independence Center,cash on delivery,processing
+88,Banana Chips,Food - Snacks,152.26,32,4872.32,6/9/2022,93 Nevada Avenue,cash on delivery,delivered
+89,Creamy Ranch Dressing,Food - Dressings,894.4,95,84968.0,11/25/2020,784 Jenna Junction,cash on delivery,processing
+90,Fresh Strawberries,Food - Produce,382.98,28,10723.44,11/11/2020,647 Heath Center,cash on delivery,pending
+91,Chocolate Chip Cliff Bars,Food - Snacks,794.29,90,71486.1,5/23/2022,3 Linden Drive,credit card,processing
+92,Portable Grill Cover,Outdoor,426.06,28,11929.68,5/12/2021,6 Roxbury Crossing,cash on delivery,shipped
+93,Shredded Cheese,Food - Dairy,682.11,91,62072.01,4/18/2020,42633 Dottie Circle,PayPal,processing
+94,Lightweight Rain Jacket,Clothing - Outerwear,900.64,74,66647.36,2/4/2022,64 Towne Circle,credit card,processing
+95,Chia Seeds,Food - Grains,345.09,25,8627.25,10/2/2020,7000 Burning Wood Plaza,PayPal,processing
+96,Garden Hoses with Expandable Features,Garden,150.98,93,14041.14,12/6/2020,5 Clemons Plaza,cash on delivery,processing
+97,Ergonomic Gaming Chair,Gaming,582.58,8,4660.64,7/4/2022,7492 Gateway Plaza,PayPal,delivered
+98,Ramen Noodle Soup Cups,Food - Prepared Meals,598.94,79,47316.26,1/18/2022,74107 Kenwood Drive,credit card,delivered
+99,Hydration Backpack,Outdoor,774.22,24,18581.28,9/11/2020,52950 Grayhawk Crossing,credit card,shipped
+100,Travel Pillow,Travel,154.24,90,13881.6,4/5/2020,67 Lakewood Gardens Alley,cash on delivery,processing
+101,Ginger Tea,Food - Beverages,988.42,3,2965.26,9/23/2020,47131 Transport Hill,cash on delivery,shipped
+102,Avocado Oil,Food - Oils,462.39,31,14334.09,10/11/2021,4 Northland Road,cash on delivery,shipped
+103,Teriyaki Chicken Wings,Food - Frozen Food,651.45,79,51464.55,7/29/2021,737 Sugar Trail,credit card,pending
+104,Chocolate Chip Pancake Mix,Food - Bakery,986.25,22,21697.5,4/21/2022,068 Blue Bill Park Drive,cash on delivery,processing
+105,Classic Baseball Cap,Clothing - Accessories,377.78,41,15488.98,5/2/2021,090 Prentice Circle,credit card,shipped
+106,Portable Bluetooth Keyboard,Electronics,525.18,16,8402.88,1/25/2021,777 Granby Alley,PayPal,pending
+107,Organic Coconut Flour,Food - Baking,651.05,83,54037.15,3/10/2020,879 Doe Crossing Terrace,cash on delivery,shipped
+108,Compact Pop-Up Tent,Outdoor,305.01,55,16775.55,9/25/2022,244 Amoth Trail,PayPal,pending
+109,Inflatable Paddle Board,Outdoor,669.06,12,8028.72,3/16/2020,39991 Waywood Parkway,credit card,delivered
+110,Wireless Keyboard and Mouse Combo,Electronics,577.2,58,33477.6,11/27/2020,5 Carberry Crossing,cash on delivery,shipped
+111,Wireless Charging Station,Electronics,821.29,39,32030.31,3/19/2020,752 Moulton Point,credit card,processing
+112,Grilled Vegetable Medley,Food - Vegetables,763.67,36,27492.12,6/17/2020,70059 Mayfield Road,PayPal,processing
+113,Instant Camera,Photography,709.07,66,46798.62,9/2/2020,4678 Rigney Plaza,PayPal,delivered
+114,Warm Wool Sweater,Clothing - Tops,800.07,51,40803.57,8/26/2021,133 School Avenue,cash on delivery,processing
+115,Teriyaki Chicken Bowl,Food - Prepared Meals,192.36,56,10772.16,1/16/2021,2 Barby Court,credit card,delivered
+116,Chickpea Pasta,Food - Pasta,452.58,40,18103.2,11/20/2022,21518 Continental Lane,cash on delivery,processing
+117,Vegan Mac & Cheese,Food - Frozen,828.75,14,11602.5,12/20/2022,72 Kings Center,credit card,processing
+118,Coconut Almond Granola,Food - Breakfast,60.4,90,5436.0,3/11/2022,76130 Annamark Pass,PayPal,processing
+119,Mesh Laundry Bags Set,Home,622.85,77,47959.45,12/5/2022,67 Manitowish Road,credit card,delivered
+120,Chocolate Avocado Pudding,Food - Desserts,11.49,24,275.76,5/14/2020,43 Eagan Junction,cash on delivery,delivered
+121,Foldable Electric Scooter,Outdoor,504.42,63,31778.46,8/21/2022,6 Hintze Drive,PayPal,processing
+122,Graphic Sweatshirt,Clothing - Tops,100.21,32,3206.72,12/14/2022,2 Elmside Pass,PayPal,delivered
+123,Lemon Herb Quinoa,Food - Grains,387.6,54,20930.4,7/14/2021,63577 1st Place,cash on delivery,shipped
+124,Beef Chili,Food - Canned Goods,518.58,47,24373.26,11/2/2022,2422 Sundown Court,cash on delivery,processing
+125,Spicy Thai Chili Sauce,Food - Sauces,638.8,23,14692.4,7/19/2022,3 Canary Hill,PayPal,pending
+126,Car Vacuum Cleaner,Automotive,330.37,89,29402.93,6/1/2020,2500 Roth Crossing,cash on delivery,shipped
+127,Pita Bread,Food - Bakery,98.56,63,6209.28,3/31/2022,7 Elka Park,PayPal,pending
+128,Tomato Basil Soup,Food - Canned Goods,971.13,19,18451.47,12/20/2022,4042 Oak Crossing,PayPal,pending
+129,Peanut Butter Cookies,Food - Bakery,864.31,82,70873.42,5/8/2020,848 Aberg Crossing,credit card,delivered
+130,Desk Organizer Set,Office,563.78,28,15785.84,4/30/2020,8480 Shasta Court,cash on delivery,pending
+131,Sliced Bell Peppers,Food - Fresh Produce,450.36,100,45036.0,8/2/2021,3 Reinke Center,credit card,pending
+132,Collapsible Colander,Kitchen,370.64,20,7412.8,7/28/2022,483 Transport Circle,PayPal,processing
+133,Frozen Mixed Vegetables,Food - Frozen,465.14,35,16279.9,8/28/2020,033 Parkside Circle,cash on delivery,shipped
+134,LED Christmas Lights,Home,160.06,63,10083.78,4/27/2020,95 Rockefeller Place,credit card,delivered
+135,Roasted Red Pepper Hummus,Food - Dips,391.93,7,2743.51,3/16/2020,6 Porter Street,cash on delivery,delivered
+136,Vegetable Sushi Rolls,Food - Prepared Meals,329.61,63,20765.43,3/6/2021,0106 Manufacturers Parkway,credit card,pending
+137,Smart Home Hub,Smart Home,241.12,56,13502.72,3/1/2021,83715 Mifflin Street,cash on delivery,shipped
+138,Multi-Port USB Hub,Electronics,429.06,67,28747.02,3/31/2021,76 High Crossing Plaza,PayPal,delivered
+139,Coconut Milk Yogurt,Food - Dairy Alternatives,420.33,37,15552.21,12/2/2022,03 Maryland Drive,cash on delivery,pending
+140,Veggie Lovers Pizza,Food - Frozen Foods,251.53,27,6791.31,10/11/2022,1 Kropf Court,cash on delivery,pending
+141,Basketball,Sports,827.18,58,47976.44,12/15/2022,24733 Hayes Avenue,cash on delivery,processing
+142,Emergency Preparedness Kit,Safety,771.13,32,24676.16,7/2/2021,622 Delladonna Point,PayPal,pending
+143,Cat Tree with Scratching Posts,Pets,57.64,45,2593.8,5/11/2020,6 Susan Junction,cash on delivery,processing
+144,Savory Breakfast Sausage,Food - Meats,975.55,85,82921.75,11/22/2021,08414 Veith Court,credit card,pending
+145,Vanilla Protein Powder,Food - Health/Protein,214.54,31,6650.74,11/10/2020,426 Pawling Lane,credit card,delivered
+146,Electric Griddle with Removable Plates,Kitchen,947.88,49,46446.12,12/10/2020,5 Thompson Parkway,cash on delivery,shipped
+147,Kids' Activity Book,Books,417.43,77,32142.11,3/20/2020,2856 Shasta Center,PayPal,delivered
+148,Vegetable Korma,Food - Frozen,679.18,35,23771.3,7/13/2021,08 Stone Corner Drive,cash on delivery,delivered
+149,Protein Pancake Mix,Food - Breakfast,63.94,100,6394.0,2/21/2020,85216 Butterfield Point,credit card,shipped
+150,Strawberry Fruit Spread,Food - Jams & Jellies,429.73,83,35667.59,11/29/2020,31 Toban Center,PayPal,pending
+151,Stainless Steel Straws,Kitchen,515.67,70,36096.9,8/15/2020,84 Truax Parkway,PayPal,shipped
+152,Breathable Face Mask Set,Health,596.06,19,11325.14,6/27/2020,961 Mallory Way,PayPal,pending
+153,Bock Beer Mustard,Food - Condiments,589.82,3,1769.46,5/26/2021,003 Atwood Center,cash on delivery,pending
+154,Scented Soy Candles,Home,195.72,98,19180.56,4/4/2021,227 Anhalt Terrace,cash on delivery,delivered
+155,Sesame Noodles,Food - Grab-and-Go,756.74,87,65836.38,10/16/2021,54 Alpine Court,PayPal,delivered
+156,Pet First Aid Kit,Pets,83.17,60,4990.2,4/18/2022,43589 Eagle Crest Terrace,PayPal,shipped
+157,Black Olives,Food - Canned Goods,508.44,1,508.44,5/18/2021,7688 Ramsey Pass,credit card,processing
+158,Cable Knit Cardigan,Clothing - Outerwear,534.94,14,7489.16,11/8/2020,97 Westerfield Junction,cash on delivery,pending
+159,Wall-Mounted Organizer,Home,299.0,92,27508.0,8/15/2022,8941 Morningstar Street,credit card,processing
+160,Sriracha Hot Chili Sauce,Food - Condiments,179.65,61,10958.65,2/16/2020,96 Hanson Place,credit card,pending
+161,Fitness Resistance Bands Kit,Fitness,454.39,62,28172.18,2/13/2022,725 Tony Drive,PayPal,pending
+162,Outdoor Sports Backpack,Outdoor,756.45,61,46143.45,8/1/2020,9 Carioca Lane,cash on delivery,pending
+163,Spicy Tuna Sushi Kit,Food - Prepared Meals,721.93,55,39706.15,7/11/2021,941 Huxley Street,PayPal,shipped
+164,Marinated Artichokes,Food - Vegetables,165.7,2,331.4,4/16/2020,37 Ridgeview Center,credit card,processing
+165,Interactive Robot Toy,Toys,13.96,58,809.68,11/13/2021,2 Namekagon Terrace,credit card,pending
+166,Green Smoothie Mix,Food - Beverages,978.98,32,31327.36,9/10/2020,76368 Jay Park,PayPal,pending
+167,Vegetable Quinoa Bowl,Food - Frozen Meals,977.7,39,38130.3,4/1/2022,282 Stone Corner Center,credit card,processing
+168,Almond Flour Cookies,Food - Bakery,399.02,17,6783.34,1/13/2022,666 Westport Lane,cash on delivery,pending
+169,Feta Cheese Crumbles,Food - Dairy,985.73,83,81815.59,5/3/2022,8 Mcguire Terrace,PayPal,shipped
+170,Chia Seeds,Food - Grains,460.03,85,39102.55,9/6/2020,805 Farwell Alley,PayPal,pending
+171,Tabletop Fire Pit,Outdoor,600.7,100,60070.0,6/27/2022,778 Dorton Park,credit card,delivered
+172,Survival Gear Kit,Outdoor,964.39,71,68471.69,10/12/2022,4808 Caliangt Place,credit card,delivered
+173,Sports Water Bottle with Infuser,Fitness,938.31,61,57236.91,9/16/2021,7 Ramsey Terrace,cash on delivery,pending
+174,Peach Fruit Cups,Food - Snacks,808.45,43,34763.35,6/18/2020,3 Northview Center,credit card,shipped
+175,Canvas High-Top Sneakers,Clothing - Footwear,21.05,17,357.85,11/17/2021,7 Doe Crossing Lane,PayPal,pending
+176,Rechargeable Electric Toothbrush,Health,31.88,83,2646.04,5/19/2020,053 Portage Terrace,cash on delivery,shipped
+177,Graphic Sweatshirt,Clothing - Tops,535.74,63,33751.62,3/18/2022,263 Rowland Center,cash on delivery,delivered
+178,Yoga Mat Carrier,Fitness,745.31,8,5962.48,10/3/2021,6 1st Park,cash on delivery,processing
+179,Roasted Garlic Pasta Sauce,Food - Sauces,571.97,33,18875.01,8/1/2020,2 Monterey Hill,cash on delivery,pending
+180,Indoor Grill,Kitchen,65.81,63,4146.03,6/28/2021,1 Kipling Place,credit card,processing
+181,Silicone Cooking Utensils Set,Kitchen,496.78,70,34774.6,5/18/2022,15 Hanson Terrace,cash on delivery,shipped
+182,Buffalo Wing Sauce,Food - Condiments,759.21,2,1518.42,3/6/2021,9 South Court,credit card,processing
+183,Balsamic Vinegar,Food - Condiments,631.93,2,1263.86,2/27/2020,9931 Lyons Center,credit card,pending
+184,Spicy Vegetable Sushi Rolls,Food - Prepared Foods,10.84,24,260.16,10/12/2020,2491 Lotheville Hill,cash on delivery,pending
+185,Cork Yoga Mat,Fitness,311.52,79,24610.08,3/22/2021,0402 Prairieview Avenue,cash on delivery,processing
+186,Self-Cleaning Water Bottle,Fitness,45.35,22,997.7,2/22/2022,343 Southridge Park,PayPal,pending
+187,Trainers with Mesh Inserts,Clothing - Footwear,540.93,71,38406.03,10/15/2021,52 5th Road,credit card,shipped
+188,LED Desk Lamp with USB Charging,Office,317.47,65,20635.55,12/4/2021,12 Cherokee Junction,PayPal,pending
+189,Beef Enchilada Casserole,Food - Prepared Meals,806.35,30,24190.5,3/22/2020,8429 Mifflin Pass,credit card,shipped
+190,Bicycle Repair Kit,Outdoor,14.23,94,1337.62,12/11/2021,6 Hauk Plaza,credit card,delivered
+191,Fall-Themed Table Runner,Home,918.1,75,68857.5,1/3/2020,145 Pawling Pass,credit card,shipped
+192,Ankle Boots,Clothing - Footwear,640.0,11,7040.0,8/25/2021,934 Logan Alley,PayPal,shipped
+193,Frozen Hash Browns,Food - Frozen Foods,719.78,46,33109.88,2/7/2022,4479 Cherokee Center,PayPal,pending
+194,Mango Chia Pudding,Food - Snacks,618.53,21,12989.13,10/31/2021,18304 Cascade Street,cash on delivery,processing
+195,Eco-Friendly Yoga Mat,Fitness,488.48,49,23935.52,2/8/2021,62659 Monument Plaza,cash on delivery,shipped
+196,Red Lentil Pasta,Food - Pasta,227.01,43,9761.43,10/17/2020,2 Mesta Road,credit card,processing
+197,Dark Chocolate Tart,Food - Desserts,595.99,88,52447.12,9/28/2022,2041 Crescent Oaks Alley,credit card,delivered
+198,Frozen Edamame,Food - Frozen Foods,197.92,76,15041.92,8/26/2020,3 Gale Hill,PayPal,shipped
+199,Classic White T-Shirt,Clothing - Tops,163.26,93,15183.18,2/5/2022,2 Clyde Gallagher Drive,cash on delivery,shipped
+200,Buffalo Chicken Dip,Food - Dips,228.47,84,19191.48,9/25/2021,20 Annamark Drive,PayPal,shipped
+201,Thai Peanut Dressing,Food - Condiments,215.71,2,431.42,4/17/2020,64 Karstens Lane,credit card,processing
+202,Eco-Friendly Yoga Mat,Fitness,489.0,7,3423.0,11/11/2022,34 Burrows Drive,credit card,pending
+203,Insulated Coffee Mug,Kitchen,592.75,88,52162.0,1/28/2022,182 Village Green Lane,PayPal,processing
+204,Herbed Goat Cheese,Food - Cheese,793.13,64,50760.32,12/24/2020,0 Nevada Drive,cash on delivery,shipped
+205,Beef Enchilada Casserole,Food - Prepared Meals,659.24,89,58672.36,8/5/2020,930 Kenwood Lane,PayPal,pending
+206,Savory Oatmeal,Food - Breakfast,725.96,28,20326.88,4/25/2021,8088 Petterle Avenue,cash on delivery,pending
+207,Popcorn Chicken,Food - Frozen,477.34,9,4296.06,2/10/2021,48 Acker Street,PayPal,pending
+208,Kettle Chip Variety Pack,Food - Snacks,393.83,18,7088.94,12/17/2021,5 Delladonna Place,credit card,shipped
+209,Vegetable Lasagna,Food - Frozen Foods,194.77,59,11491.43,1/12/2021,77 Mosinee Parkway,cash on delivery,shipped
+210,Dish Rack,Kitchen,959.65,57,54700.05,2/11/2020,49428 Crownhardt Circle,PayPal,processing
+211,Slim Wallet,Accessories,620.06,69,42784.14,3/24/2021,97594 Clove Plaza,credit card,delivered
+212,Mango Chunks,Food - Frozen Fruits,399.14,26,10377.64,3/1/2020,385 Harbort Drive,cash on delivery,shipped
+213,Adjustable Bar Stools,Furniture,353.87,72,25478.64,10/4/2022,2 Miller Center,credit card,delivered
+214,Over-The-Door Shoe Organizer,Home,311.82,70,21827.4,7/27/2021,276 Hoard Drive,credit card,shipped
+215,Peanut Butter Pretzel Bites,Food - Snacks,468.96,85,39861.6,3/9/2020,7473 Anhalt Center,PayPal,shipped
+216,Infrared Space Heater,Home Appliances,160.71,20,3214.2,1/24/2020,5004 Prairie Rose Drive,cash on delivery,delivered
+217,Miso Soup Starter,Food - Soups,289.77,14,4056.78,4/25/2020,64 Knutson Trail,credit card,delivered
+218,Fitness Resistance Bands Set,Fitness,621.74,72,44765.28,11/16/2021,1187 Morrow Pass,cash on delivery,shipped
+219,Herb Drying Rack,Garden,888.42,5,4442.1,6/25/2020,41 Burrows Terrace,cash on delivery,processing
+220,Camera Tripod,Photography,584.37,23,13440.51,4/21/2021,10 Anthes Plaza,PayPal,pending
+221,Flavored Popcorn Mix,Food - Snacks,613.83,10,6138.3,12/27/2021,3 Pleasure Plaza,credit card,processing
+222,Savory Italian Herbs,Food - Spices,105.07,9,945.63,12/26/2020,012 Packers Alley,PayPal,delivered
+223,Dark Chocolate Tart,Food - Desserts,728.97,17,12392.49,5/21/2022,06836 Forest Dale Place,credit card,shipped
+224,Pet Activity Tracker,Pets,432.67,52,22498.84,10/3/2020,8415 7th Point,cash on delivery,pending
+225,Zesty Cilantro Lime Dressing,Food - Condiments,735.1,51,37490.1,6/26/2020,59 Grayhawk Avenue,PayPal,delivered
+226,Manual Coffee Grinder,Kitchen,661.13,36,23800.68,12/16/2021,6 Claremont Parkway,PayPal,delivered
+227,Frozen Spinach,Food - Frozen Foods,141.91,28,3973.48,8/14/2021,72722 Holmberg Drive,PayPal,delivered
+228,Gardening Kneeler and Seat,Garden,426.39,98,41786.22,1/23/2020,87560 Riverside Road,cash on delivery,processing
+229,Italian Marinara Sauce,Food - Sauces,919.08,50,45954.0,6/23/2021,56 Anniversary Junction,cash on delivery,processing
+230,Chocolate Mint Protein Shake,Food - Beverages,395.03,3,1185.09,7/7/2022,592 Bobwhite Park,credit card,processing
+231,Marinara Sauce,Food - Condiments,866.01,40,34640.4,11/29/2020,94 Hazelcrest Junction,PayPal,shipped
+232,Multi-Function Meat Tenderizer,Kitchen,75.02,58,4351.16,2/6/2020,41887 Algoma Alley,cash on delivery,delivered
+233,Dark Chocolate Raisins,Food - Snacks,421.45,45,18965.25,3/19/2021,48 School Terrace,PayPal,shipped
+234,Classic Pesto Sauce,Food - Sauces,277.13,39,10808.07,2/24/2022,7 Butternut Circle,PayPal,processing
+235,Portable SSD,Storage,316.31,60,18978.6,4/8/2022,53425 Vernon Alley,credit card,processing
+236,Electric Food Slicer,Kitchen,995.76,41,40826.16,8/16/2021,448 Mcbride Terrace,PayPal,processing
+237,Electric Butter Churn,Kitchen,477.06,57,27192.42,8/26/2020,78939 Melby Park,credit card,pending
+238,Artisan Flatbreads,Food - Bakery,248.68,69,17158.92,11/24/2020,20 Schmedeman Junction,cash on delivery,shipped
+239,Pet Activity Tracker,Pets,348.37,44,15328.28,7/5/2021,5026 North Trail,cash on delivery,pending
+240,Karaoke Microphone,Music,899.9,6,5399.4,7/12/2021,49651 Brentwood Trail,credit card,delivered
+241,Ground Turkey,Food - Meat,719.28,18,12947.04,12/24/2022,10 1st Court,PayPal,delivered
+242,Reusable Snack Bags,Kitchen,42.85,36,1542.6,4/10/2020,089 Dapin Park,PayPal,pending
+243,Rice Noodles,Food - Grains,251.98,65,16378.7,11/8/2022,15026 Daystar Pass,credit card,processing
+244,Organic Almonds,Food - Nuts,343.24,11,3775.64,12/3/2020,293 Merchant Terrace,credit card,delivered
+245,Organic Coconut Sugar,Food - Baking Goods,804.2,73,58706.6,7/11/2021,87 Armistice Street,cash on delivery,pending
+246,Mango Chunks,Food - Frozen Fruits,445.64,90,40107.6,3/8/2020,2 Bay Court,cash on delivery,pending
+247,LED Desk Light,Home,56.35,60,3381.0,4/6/2022,674 Vahlen Center,cash on delivery,delivered
+248,Portable Bluetooth Speaker,Audio,662.36,3,1987.08,11/3/2020,994 Carioca Plaza,PayPal,delivered
+249,Multi-Layer Food Steamer,Kitchen,884.54,35,30958.9,1/27/2020,7266 Hoard Trail,cash on delivery,processing
+250,Tailored Dress Pants,Clothing - Bottoms,198.73,43,8545.39,8/5/2020,2 Emmet Junction,cash on delivery,pending
+251,Garden Vegetable Chips,Food - Snacks,894.58,62,55463.96,3/16/2020,0 Kropf Crossing,credit card,pending
+252,Dried Mango Slices,Food - Snacks,939.38,79,74211.02,3/8/2022,52 West Road,credit card,processing
+253,Chipotle Black Bean Salad,Food - Salads,332.79,21,6988.59,11/15/2021,825 Texas Court,cash on delivery,shipped
+254,Cilantro Lime Rice,Food - Grains,500.67,89,44559.63,1/4/2022,4376 Pawling Street,credit card,shipped
+255,Honey Mustard Pretzel Bites,Food - Snacks,139.67,29,4050.43,5/7/2022,81 Upham Point,PayPal,shipped
+256,Fresh Basil Pesto,Food - Sauces,108.65,95,10321.75,8/9/2021,6 Hintze Pass,credit card,delivered
+257,Collapsible Storage Crates,Home,877.44,85,74582.4,6/23/2020,4 Forest Run Plaza,cash on delivery,pending
+258,Motion Sensor Light,Home,759.81,50,37990.5,9/16/2022,410 Westport Road,cash on delivery,pending
+259,Electric Kettle,Kitchen,705.63,92,64917.96,9/30/2021,1479 Washington Parkway,cash on delivery,delivered
+260,Sea Salt Caramel Brownie,Food - Bakery,210.37,54,11359.98,4/8/2021,3 Mariners Cove Pass,PayPal,shipped
+261,Classic Pesto Sauce,Food - Sauces,791.8,96,76012.8,1/16/2022,2 Bluejay Hill,PayPal,shipped
+262,Smartphone Holder for Car,Automotive,866.04,25,21651.0,4/19/2021,3975 Kensington Plaza,PayPal,delivered
+263,Handmade Leather Journal,Books,521.34,28,14597.52,3/24/2022,2296 Hermina Place,PayPal,processing
+264,Kale & Quinoa Salad Mix,Food - Salads,502.14,100,50214.0,6/28/2021,201 Merrick Trail,PayPal,pending
+265,Cotton Quilted Throw Blanket,Home,627.17,2,1254.34,2/25/2021,952 Arrowood Point,PayPal,delivered
+266,Coconut Cream Pie Yogurt,Food - Dairy Alternatives,132.96,52,6913.92,2/17/2021,00 Hauk Crossing,cash on delivery,shipped
+267,Vegan Taco Seasoning,Food - Spices,724.75,40,28990.0,5/31/2022,69219 Reinke Avenue,cash on delivery,pending
+268,Noise Reduction Headphones,Audio,939.7,36,33829.2,1/13/2021,73 Schiller Crossing,cash on delivery,processing
+269,Free-Range Eggs,Food - Dairy,884.07,44,38899.08,8/25/2020,3370 Bay Street,cash on delivery,delivered
+270,Smoked Gouda Cheese,Food - Dairy,238.88,45,10749.6,7/8/2020,91077 Lakewood Gardens Avenue,credit card,processing
+271,Kettle Chip Variety Pack,Food - Snacks,357.63,85,30398.55,12/8/2021,4 Morrow Alley,credit card,shipped
+272,Organic Quinoa,Food - Grains,608.09,52,31620.68,10/5/2022,0 Carey Hill,PayPal,pending
+273,Vegetable Stock,Food - Cooking Essentials,420.83,93,39137.19,8/26/2020,34 Hauk Crossing,PayPal,pending
+274,Coconut Cashew Yogurt,Food - Dairy Alternatives,119.85,21,2516.85,4/23/2020,766 Kingsford Crossing,PayPal,pending
+275,Air Fryer,Kitchen,504.69,81,40879.89,10/29/2022,9935 Waywood Crossing,PayPal,processing
+276,Multi-Function Smartphone Holder,Electronics,937.38,21,19684.98,9/23/2020,39090 Green Ridge Court,PayPal,shipped
+277,Honey BBQ Riblets,Food - Meat,937.16,18,16868.88,10/21/2021,420 Bashford Crossing,PayPal,delivered
+278,Electric Pressure Cooker,Kitchen,671.08,1,671.08,10/1/2021,03835 Boyd Point,credit card,pending
+279,Dog Collar,Pets,497.53,32,15920.96,4/22/2021,6200 Lerdahl Place,PayPal,pending
+280,Children's Musical Instrument Set,Toys,767.04,99,75936.96,1/22/2021,3951 Veith Way,cash on delivery,shipped
+281,Raspberry Tart,Food - Baked Goods,53.99,49,2645.51,8/8/2022,0 Wayridge Pass,credit card,pending
+282,Basil Pesto Pasta,Food - Prepared Meals,154.46,94,14519.24,2/7/2021,00 Anthes Lane,PayPal,delivered
+283,Stainless Steel Mixing Bowls,Kitchen,522.05,40,20882.0,11/21/2021,3 Eliot Crossing,PayPal,pending
+284,Tailgating Set,Outdoor,971.24,22,21367.28,9/7/2020,8453 Scott Way,credit card,processing
+285,Banana Nut Muffins,Food - Bakery,624.09,79,49303.11,10/5/2021,51977 Northland Way,cash on delivery,shipped
+286,Tomato Sauce,Food - Canned Goods,377.78,83,31355.74,1/17/2021,61296 New Castle Park,credit card,shipped
+287,Cat Tree,Pets,710.08,88,62487.04,9/24/2021,25321 Corry Place,cash on delivery,processing
+288,Portable SSD,Storage,110.24,5,551.2,1/20/2020,00244 Montana Circle,cash on delivery,shipped
+289,Herb Seasoned Croutons,Food - Salad Toppings,356.51,67,23886.17,7/21/2022,512 Longview Way,PayPal,processing
+290,Teriyaki Chicken Stir-Fry,Food - Frozen Foods,304.22,57,17340.54,3/21/2021,9 Kim Way,PayPal,processing
+291,Heavy-Duty Utility Tote,Accessories,280.68,98,27506.64,5/13/2022,435 Cottonwood Plaza,cash on delivery,delivered
+292,Organic Black Rice,Food - Grains,562.99,2,1125.98,6/20/2022,78675 Anniversary Pass,credit card,processing
+293,Personal Blender with Travel Cup,Kitchen,621.85,70,43529.5,7/14/2022,38427 Homewood Park,credit card,processing
+294,Collapsible Camping Cup,Outdoor,608.63,45,27388.35,9/26/2022,5208 Eastwood Alley,PayPal,pending
+295,Peach Green Tea,Food - Beverages,137.04,40,5481.6,1/14/2020,76976 Bobwhite Junction,cash on delivery,processing
+296,Peas (frozen),Food - Frozen Foods,573.87,80,45909.6,3/7/2020,4 Johnson Terrace,credit card,pending
+297,Lemon Dill Chicken Skewers,Food - Meat,925.22,98,90671.56,11/2/2022,959 Farragut Circle,credit card,delivered
+298,Portable Camping Stove,Outdoor,396.48,59,23392.32,4/16/2021,611 Parkside Junction,credit card,delivered
+299,Digital Drawing Tablet,Art Supplies,223.75,12,2685.0,5/7/2022,000 4th Point,PayPal,delivered
+300,Pet Food Storage Container,Pets,935.41,92,86057.72,2/28/2022,6 Holy Cross Road,credit card,processing
+301,Coconut Curry Lentils,Food - Canned Goods,728.11,34,24755.74,8/31/2020,07500 Anderson Drive,PayPal,shipped
+302,Chickpeas,Food - Canned Goods,518.2,5,2591.0,6/7/2021,36 Knutson Lane,credit card,delivered
+303,Cable Knit Beanie,Clothing - Accessories,433.67,32,13877.44,6/23/2022,56804 Dahle Parkway,credit card,pending
+304,Baked Mac and Cheese,Food - Frozen Foods,511.21,80,40896.8,3/1/2022,6 Blue Bill Park Crossing,credit card,shipped
+305,Faux Leather Leggings,Clothing - Pants,659.24,62,40872.88,5/17/2020,5 Kensington Lane,cash on delivery,delivered
+306,Spinach and Ricotta Ravioli,Food - Pasta,839.08,40,33563.2,4/19/2021,02840 Helena Avenue,credit card,shipped
+307,Organic Quinoa,Food - Grains,235.55,58,13661.9,4/3/2022,1 Kingsford Terrace,cash on delivery,processing
+308,Collapsible Colander,Kitchen,40.94,68,2783.92,2/22/2022,7 School Parkway,cash on delivery,delivered
+309,Leather Biker Jacket,Clothing - Outerwear,88.18,74,6525.32,6/12/2021,5348 Hovde Parkway,credit card,processing
+310,Mixed Berry Smoothie Pack,Food - Frozen Food,472.48,52,24568.96,2/5/2021,82 Oneill Pass,cash on delivery,pending
+311,Wireless Keyboard and Mouse Combo,Electronics,771.13,74,57063.62,5/14/2021,4 Ridgeview Junction,credit card,pending
+312,Elderberry Syrup,Food - Supplements,785.16,72,56531.52,7/4/2022,9 Heffernan Drive,cash on delivery,pending
+313,Garam Masala Spice Blend,Food - Spices,325.63,56,18235.28,8/29/2022,979 Porter Road,cash on delivery,delivered
+314,Vegetarian Sausage Links,Food - Meat Substitutes,782.52,63,49298.76,12/17/2021,3723 Morning Center,PayPal,processing
+315,Cacao Powder,Food - Baking,589.36,39,22985.04,8/5/2022,6676 Glendale Hill,cash on delivery,pending
+316,Coffee Making Kit,Kitchen,910.27,33,30038.91,9/1/2020,8 Mallard Street,PayPal,pending
+317,Set of Decorative Storage Bins,Home,643.72,56,36048.32,7/22/2020,7062 Scoville Trail,PayPal,pending
+318,Essential Oils Diffuser Necklace,Health,86.0,20,1720.0,5/21/2021,28 Barnett Road,cash on delivery,processing
+319,Biodegradable Trash Bags,Home,435.23,39,16973.97,8/10/2022,76359 Reindahl Center,PayPal,shipped
+320,Chocolate Dipped Fruit,Food - Snacks,882.13,11,9703.43,1/18/2021,9 Hagan Plaza,cash on delivery,delivered
+321,Air Purifier,Home,698.18,67,46778.06,9/23/2022,6993 Shopko Park,credit card,processing
+322,Strawberry Banana Smoothie Pack,Food - Frozen,391.7,72,28202.4,11/16/2020,7986 Rusk Terrace,credit card,shipped
+323,Coconut Milk,Food - Canned Goods,871.18,44,38331.92,6/23/2021,966 Sauthoff Avenue,PayPal,processing
+324,Smoked Gouda Cheese,Food - Dairy,490.07,94,46066.58,9/6/2020,19003 Morning Park,credit card,processing
+325,Cold Brew Coffee Maker,Kitchen,119.31,69,8232.39,11/17/2020,73295 Grim Street,PayPal,processing
+326,Car Sunshade,Automotive,333.35,78,26001.3,7/3/2020,1261 Nelson Hill,cash on delivery,pending
+327,Chia Seeds,Food - Grains,24.77,13,322.01,12/5/2021,3 Heath Plaza,credit card,pending
+328,Classic Chicken Noodle Soup,Food - Canned Goods,325.45,15,4881.75,6/15/2020,44 Pierstorff Plaza,credit card,delivered
+329,Maple Oatmeal,Food - Breakfast,366.25,92,33695.0,1/27/2022,6765 Mockingbird Drive,cash on delivery,processing
+330,Backpack,Accessories,991.74,33,32727.42,1/28/2020,39292 Redwing Hill,credit card,shipped
+331,Reusable Coffee Filter,Kitchen,193.41,48,9283.68,3/1/2020,97452 Bluejay Hill,PayPal,delivered
+332,Classic BBQ Sauce,Food - Condiments,479.54,84,40281.36,6/19/2022,1 Eastwood Crossing,PayPal,processing
+333,Lemon Garlic Shrimp,Food - Seafood,788.01,42,33096.42,11/9/2020,58 Judy Center,credit card,delivered
+334,Lemon Zest Olive Oil,Food - Oils & Vinegars,794.4,40,31776.0,11/15/2021,5330 Declaration Place,credit card,delivered
+335,Almond Butter Cups,Food - Snacks,794.49,30,23834.7,11/22/2022,67 Elka Way,credit card,pending
+336,Portable Blender,Kitchen,162.26,94,15252.44,12/17/2020,2 Dahle Avenue,PayPal,pending
+337,Smart Fitness Scale,Fitness,654.39,73,47770.47,3/19/2021,9 Farwell Place,cash on delivery,delivered
+338,Asian Stir-Fry Vegetables,Food - Frozen Foods,107.38,68,7301.84,4/19/2021,1050 Northland Court,cash on delivery,processing
+339,Sliced Bell Peppers,Food - Fresh Produce,580.74,82,47620.68,6/21/2020,73425 Arizona Drive,cash on delivery,delivered
+340,Honey Sesame Cashews,Food - Snacks,657.3,66,43381.8,9/13/2022,02575 Barby Point,PayPal,pending
+341,Cinnamon Roll Dough,Food - Bakery,521.8,61,31829.8,9/16/2020,97780 Cherokee Way,cash on delivery,pending
+342,Electric Pressure Washer,Home Improvement,798.49,37,29544.13,5/10/2021,62202 Nancy Park,credit card,shipped
+343,Pineapple Rings,Food - Canned Goods,904.72,79,71472.88,1/15/2022,72 Elgar Point,PayPal,processing
+344,Spicy Hummus,Food - Deli,184.14,26,4787.64,7/21/2022,92189 East Drive,cash on delivery,delivered
+345,Pistachios,Food - Nuts,907.92,36,32685.12,8/27/2022,62 Buell Street,credit card,pending
+346,Black Bean Spaghetti,Food - Pasta,16.66,5,83.3,11/7/2020,60 Montana Junction,credit card,delivered
+347,Almond Flour Bread Mix,Food - Baking,979.61,15,14694.15,1/11/2020,95466 Westerfield Park,PayPal,pending
+348,Sliced Ham,Food - Meat,327.89,44,14427.16,10/6/2020,86 Morrow Parkway,credit card,pending
+349,Baked Mac and Cheese,Food - Frozen Foods,179.89,16,2878.24,8/18/2020,0 Cascade Point,credit card,processing
+350,Dark Chocolate Raisins,Food - Snacks,264.84,94,24894.96,8/22/2020,20796 Darwin Junction,cash on delivery,processing
+351,Stainless Steel Mixing Bowls,Kitchen,697.58,18,12556.44,4/1/2022,0908 Sage Lane,PayPal,pending
+352,Portable Jump Starter,Automotive,599.1,25,14977.5,8/30/2020,24 Anhalt Road,credit card,shipped
+353,Silicone Ice Cube Tray,Kitchen,788.11,27,21278.97,5/8/2020,30 Southridge Parkway,PayPal,shipped
+354,Portable Solar Phone Charger,Electronics,328.38,57,18717.66,10/24/2021,39373 Veith Lane,cash on delivery,shipped
+355,Self-Watering Planters,Garden,212.75,41,8722.75,1/10/2021,457 Cardinal Place,credit card,processing
+356,Memory Foam Mattress Topper,Home,4.23,55,232.65,6/28/2021,841 Bellgrove Avenue,PayPal,shipped
+357,Athletic Compression Tights,Clothing - Activewear,682.82,64,43700.48,6/6/2021,7 Utah Point,credit card,processing
+358,Beef Stew Meat,Food - Meat,474.98,29,13774.42,5/16/2020,42340 Spaight Road,PayPal,shipped
+359,Silicone Baking Cups,Kitchen,511.34,51,26078.34,4/27/2022,26 Warbler Street,cash on delivery,delivered
+360,Classic BBQ Sauce,Food - Condiments,6.81,93,633.33,10/16/2020,774 Bunker Hill Street,PayPal,pending
+361,Wall Calendar,Home,890.81,68,60575.08,7/24/2021,20989 Riverside Avenue,cash on delivery,processing
+362,Peanut Butter,Food - Condiments,136.21,77,10488.17,2/2/2020,02 Del Sol Center,PayPal,processing
+363,Pepper Jack Cheese Slices,Food - Dairy,82.38,26,2141.88,7/6/2021,6794 Valley Edge Lane,cash on delivery,shipped
+364,Classic Leather Wallet,Clothing - Accessories,838.97,100,83897.0,9/24/2020,0399 Badeau Lane,credit card,shipped
+365,Almond Flour Bread Mix,Food - Baking,556.39,49,27263.11,4/17/2021,9 Bonner Pass,credit card,delivered
+366,Personalized Cutting Board,Kitchen,812.58,39,31690.62,9/18/2022,1 Wayridge Drive,credit card,shipped
+367,Almond Crunch Granola Bars,Food - Snacks,925.89,32,29628.48,2/14/2021,27489 Northview Pass,credit card,shipped
+368,Robot Vacuum Cleaner,Home Appliances,288.64,87,25111.68,8/31/2020,37 Northview Road,cash on delivery,shipped
+369,Coconut Rice,Food - Frozen,274.81,50,13740.5,3/7/2022,8467 Monterey Circle,credit card,delivered
+370,Stainless Steel Water Pitcher,Kitchen,316.52,80,25321.6,2/17/2021,5 Alpine Parkway,PayPal,pending
+371,Golf Polo Shirt,Clothing - Tops,816.87,47,38392.89,11/28/2022,4137 Forest Dale Point,PayPal,processing
+372,Compact Umbrella,Accessories,341.47,16,5463.52,7/12/2021,11 Karstens Plaza,credit card,delivered
+373,Avocado Oil,Food - Oils,627.71,80,50216.8,6/23/2021,401 Katie Avenue,cash on delivery,pending
+374,Ground Cinnamon,Food - Spices,441.69,96,42402.24,7/29/2021,5 Fairview Trail,credit card,pending
+375,Electric Wax Warmer,Home,128.79,96,12363.84,2/12/2022,621 Continental Center,cash on delivery,shipped
+376,Frozen Edamame,Food - Frozen Foods,249.38,57,14214.66,10/15/2021,083 Crescent Oaks Point,PayPal,shipped
+377,Multi-Tool,Outdoor,811.64,59,47886.76,11/18/2021,261 Golf Course Avenue,PayPal,processing
+378,Peanut Butter Pretzel Nuggets,Food - Snacks,729.64,2,1459.28,4/7/2021,5199 Orin Road,PayPal,delivered
+379,Zucchini Noodle Pasta,Food - Vegetables,496.04,28,13889.12,9/23/2021,6 Northview Trail,cash on delivery,shipped
+380,Digital Camera,Electronics,168.34,59,9932.06,1/27/2021,419 Northwestern Crossing,credit card,processing
+381,Chickpea Snack Mix,Food - Snacks,675.24,87,58745.88,7/10/2021,222 Village Street,PayPal,shipped
+382,V-Neck Sweater,Clothing - Tops,992.23,41,40681.43,8/14/2020,93 Marcy Point,PayPal,delivered
+383,Dried Fruit Medley,Food - Snacks,113.96,92,10484.32,3/15/2021,39317 Forest Run Lane,PayPal,processing
+384,Sushi Rice,Food - Grains,620.96,57,35394.72,10/21/2021,82 Sunbrook Road,cash on delivery,pending
+385,Multi-Purpose Scissors,Office,958.93,40,38357.2,7/5/2020,5 Butternut Center,cash on delivery,processing
+386,Gluten-Free Biscuits,Food - Baking,381.53,79,30140.87,10/19/2022,56517 Mendota Place,cash on delivery,delivered
+387,Sliced Bread,Food - Bakery,219.36,71,15574.56,5/10/2021,19056 Delladonna Alley,cash on delivery,delivered
+388,Crispy Kale Chips,Food - Snacks,824.72,12,9896.64,10/14/2020,25 Lyons Parkway,cash on delivery,pending
+389,Insulated Cooler,Outdoor,678.23,99,67144.77,9/7/2022,012 Nelson Place,PayPal,pending
+390,Wine Glasses,Home,640.14,8,5121.12,3/22/2021,28277 Dakota Road,credit card,delivered
+391,Sweet and Sour Sauce,Food - Condiments,380.97,3,1142.91,5/27/2020,323 Delladonna Road,credit card,processing
+392,Mango Chilli Sauce,Food - Condiments,87.26,23,2006.98,6/4/2021,79 Forster Place,credit card,shipped
+393,Wireless HDMI Transmitter,Electronics,514.26,10,5142.6,11/14/2021,6 Lakeland Place,cash on delivery,pending
+394,Chocolate Fudge Brownie Mix,Food - Baking,525.72,97,50994.84,5/9/2020,995 Fieldstone Road,cash on delivery,delivered
+395,Almond Crunch Granola Bars,Food - Snacks,64.65,43,2779.95,2/27/2022,85985 Mariners Cove Terrace,credit card,delivered
+396,Cinnamon Rolls,Food - Bakery,637.6,29,18490.4,3/13/2020,71 6th Way,PayPal,delivered
+397,Children's Backpack,Accessories,195.47,7,1368.29,7/16/2021,73202 Elka Circle,credit card,processing
+398,Body Pillow Case,Home,929.12,25,23228.0,8/19/2021,19 Walton Crossing,credit card,shipped
+399,Rechargeable Electric Toothbrush,Health,281.54,59,16610.86,10/28/2021,641 Elka Place,cash on delivery,processing
+400,Smartphone Photography Ring Light,Photography,47.91,25,1197.75,1/30/2020,41 Magdeline Crossing,credit card,shipped
+401,Egg Noodles,Food - Grains,148.99,91,13558.09,3/16/2020,49 Trailsway Road,PayPal,delivered
+402,Cranberry Almond Biscotti,Food - Bakery,926.54,96,88947.84,10/18/2021,06783 Di Loreto Center,PayPal,delivered
+403,Italian Herb Balsamic Marinade,Food - Condiments,489.25,18,8806.5,7/16/2020,7 Veith Drive,credit card,pending
+404,Kids' Educational Tablet,Electronics,404.89,18,7288.02,6/6/2020,32 Declaration Parkway,cash on delivery,delivered
+405,Classic Chicken Noodle Soup,Food - Canned Goods,375.8,99,37204.2,8/25/2020,3 Schiller Crossing,cash on delivery,pending
+406,Over-Ear Headphones,Audio,529.0,46,24334.0,1/21/2020,2855 Merrick Drive,PayPal,shipped
+407,Sports Windbreaker,Clothing - Outerwear,0.96,15,14.4,4/26/2022,9 Mariners Cove Road,cash on delivery,pending
+408,Coconut Curry Lentil Soup,Food - Canned Goods,397.43,79,31396.97,2/5/2022,6320 Menomonie Place,cash on delivery,shipped
+409,Hummus,Food - Snacks,273.13,78,21304.14,1/3/2022,72 Kinsman Pass,cash on delivery,shipped
+410,Inspirational Wall Art,Home,295.62,60,17737.2,10/29/2021,22442 Cardinal Lane,PayPal,shipped
+411,Foam Building Blocks for Kids,Toys,569.01,54,30726.54,2/4/2022,5731 Hanson Center,credit card,delivered
+412,Portable Solar Camp Shower,Outdoor,417.15,32,13348.8,7/5/2020,4843 Westend Terrace,cash on delivery,delivered
+413,Portable Pet Water Bottle,Pets,359.6,66,23733.6,12/31/2021,1482 Ruskin Center,PayPal,delivered
+414,Chic Ankle Strap Heels,Clothing - Shoes,486.56,65,31626.4,3/25/2020,40331 Aberg Drive,cash on delivery,processing
+415,Kids' Educational Tablet,Electronics,900.34,84,75628.56,5/15/2021,68 Hagan Drive,PayPal,processing
+416,Indian Curry Sauce,Food - Condiments,165.07,78,12875.46,5/18/2021,51 Center Crossing,PayPal,processing
+417,Fitness Smartwatch,Wearable Tech,997.26,5,4986.3,5/1/2022,729 Bay Point,PayPal,shipped
+418,Electric Opener for Jars and Bottles,Kitchen,711.42,42,29879.64,5/28/2022,57224 Sundown Circle,cash on delivery,shipped
+419,Adjustable Dog Harness,Pets,857.34,2,1714.68,10/23/2021,32 Crownhardt Pass,cash on delivery,delivered
+420,Reusable Produce Bags Set,Kitchen,724.68,6,4348.08,7/18/2020,90835 Rusk Drive,PayPal,shipped
+421,Peach Mango Smoothie,Food - Beverages,370.95,28,10386.6,6/26/2021,273 Gateway Lane,credit card,delivered
+422,Sunglasses,Accessories,573.01,2,1146.02,6/18/2022,7 Hoffman Way,PayPal,shipped
+423,Basmati Rice,Food - Grains,591.42,65,38442.3,1/27/2022,79788 Village Green Pass,cash on delivery,shipped
+424,Stuffed Bell Peppers,Food - Frozen Meals,474.74,17,8070.58,6/19/2020,26 Bultman Trail,PayPal,shipped
+425,Vintage Graphic Tee,Clothing - Tops,286.26,22,6297.72,8/5/2021,50423 Elka Center,credit card,delivered
+426,Set of Herb Garden Markers,Garden,105.1,100,10510.0,11/11/2021,899 Hauk Circle,cash on delivery,pending
+427,Indoor Plants,Garden,312.77,14,4378.78,7/2/2021,6 Waywood Parkway,cash on delivery,delivered
+428,Buffalo Cauliflower Wings,Food - Frozen Foods,603.18,43,25936.74,11/18/2022,96 Homewood Drive,PayPal,pending
+429,Chocolate Mint Protein Shake,Food - Beverages,9.84,9,88.56,3/23/2022,4 Golden Leaf Park,PayPal,delivered
+430,Garden Tool Set with Carrying Bag,Garden,925.21,87,80493.27,11/30/2020,29171 Anzinger Center,credit card,delivered
+431,Pet Caress Brush,Pets,357.61,76,27178.36,7/27/2022,32678 Kropf Alley,cash on delivery,shipped
+432,Pear and Gorgonzola Salad,Food - Salads,750.37,27,20259.99,6/26/2022,4 Dwight Avenue,cash on delivery,delivered
+433,Maple Cinnamon Almonds,Food - Nuts,689.46,84,57914.64,6/21/2022,1568 Starling Center,cash on delivery,shipped
+434,Field Journal,Books,987.07,4,3948.28,12/29/2021,82167 Eastwood Court,credit card,processing
+435,Sweet Cherry Tomatoes,Food - Produce,134.66,51,6867.66,6/6/2021,863 Oak Valley Plaza,PayPal,pending
+436,Green Tea Matcha Powder,Food - Beverages,790.89,15,11863.35,12/29/2021,14 Sloan Road,cash on delivery,shipped
+437,Compact Pop-Up Tent,Outdoor,779.41,79,61573.39,8/17/2021,66 Golf Center,cash on delivery,shipped
+438,Safety Goggles,Safety,740.59,34,25180.06,12/11/2022,5732 Esch Park,cash on delivery,processing
+439,Organic Black Rice,Food - Grains,76.84,61,4687.24,12/15/2021,75 Esker Hill,PayPal,delivered
+440,Vegan Cheese,Food - Dairy Alternatives,917.19,34,31184.46,4/29/2020,0000 Dahle Court,cash on delivery,processing
+441,Brussels Sprouts,Food - Produce,568.41,79,44904.39,7/1/2020,78 Graedel Parkway,PayPal,shipped
+442,Yoga Blocks,Fitness,587.75,97,57011.75,1/11/2022,71 Center Terrace,credit card,shipped
+443,Eco-Friendly Beeswax Wraps,Kitchen,621.25,22,13667.5,7/2/2022,9544 Grover Pass,cash on delivery,processing
+444,Motorcycle Phone Mount,Automotive,84.49,78,6590.22,3/30/2020,47 Manitowish Parkway,cash on delivery,processing
+445,LED Canopy Lights,Outdoor,854.85,73,62404.05,11/23/2020,9219 3rd Parkway,cash on delivery,shipped
+446,Set of Gardening Gloves with Claws,Garden,764.91,41,31361.31,11/1/2022,81 Blue Bill Park Road,PayPal,pending
+447,Wireless Printer,Office,33.83,85,2875.55,5/12/2022,0 Stoughton Point,credit card,delivered
+448,Oatmeal Raisin Cookies,Food - Baked Goods,705.02,60,42301.2,5/6/2022,31 Katie Park,credit card,pending
+449,Camping Tarp,Outdoor,909.26,72,65466.72,12/2/2020,061 Fieldstone Alley,PayPal,pending
+450,Drone,Electronics,982.23,98,96258.54,6/10/2022,9 Porter Road,PayPal,delivered
+451,Trackpad for Laptop,Accessories,160.67,9,1446.03,4/12/2022,1889 2nd Point,PayPal,delivered
+452,Organic Apples,Food - Produce,939.36,79,74209.44,11/8/2022,5 Boyd Circle,PayPal,pending
+453,Lemon Lime Sparkling Water,Food - Beverages,638.39,89,56816.71,5/3/2022,3 Hayes Junction,credit card,processing
+454,Frozen Edamame,Food - Frozen Foods,242.8,49,11897.2,10/8/2022,52350 Kipling Lane,cash on delivery,delivered
+455,Cable Knit Beanie,Clothing - Accessories,153.9,23,3539.7,11/7/2022,34888 Claremont Trail,PayPal,delivered
+456,Chocolate Chip Pancake Mix,Food - Bakery,518.29,14,7256.06,3/7/2022,3762 Arapahoe Plaza,PayPal,pending
+457,Magnetic Chess Set,Toys,365.48,42,15350.16,10/27/2020,655 Carberry Alley,cash on delivery,processing
+458,Chocolate Coconut Protein Balls,Food - Snacks,14.02,61,855.22,2/29/2020,0380 Esch Terrace,PayPal,pending
+459,Coffee Subscription Service,Food,160.09,46,7364.14,6/14/2020,19658 Ryan Avenue,credit card,processing
+460,Toy Building Set,Toys,102.77,27,2774.79,6/10/2022,32 Bunker Hill Park,cash on delivery,processing
+461,Apple Cinnamon Granola,Food - Breakfast,341.13,45,15350.85,6/8/2022,50 Basil Hill,cash on delivery,shipped
+462,Turmeric Ginger Tea,Food - Beverages,636.97,99,63060.03,5/31/2021,92040 Maywood Hill,PayPal,shipped
+463,Sliced Turkey Breast,Food - Deli Meats,511.3,42,21474.6,5/16/2021,49764 Forster Circle,PayPal,shipped
+464,Coconut Curry Sauce,Food - Sauces,746.93,35,26142.55,10/4/2020,29 Loftsgordon Lane,cash on delivery,delivered
+465,Whole Grain Mustard,Food - Condiments,442.27,75,33170.25,2/29/2020,87 Harper Hill,cash on delivery,delivered
+466,Printed Maxi Skirt,Clothing - Skirts,927.78,95,88139.1,12/13/2022,9705 Buhler Drive,cash on delivery,delivered
+467,Smart Water Bottle with Hydration Reminder,Fitness,257.51,97,24978.47,2/24/2020,29238 Carioca Park,cash on delivery,delivered
+468,Granola Cereal,Food - Breakfast,232.89,100,23289.0,9/6/2020,968 Corben Park,credit card,processing
+469,Adjustable Pet Feeder,Pets,205.26,71,14573.46,6/20/2021,9925 Hooker Street,cash on delivery,delivered
+470,Collapsible Storage Crates,Home,881.7,87,76707.9,12/16/2020,37098 North Place,PayPal,processing
+471,Herb Drying Rack,Garden,450.52,81,36492.12,3/12/2021,04 Saint Paul Terrace,PayPal,pending
+472,Teriyaki Chicken Skewers,Food - Meat,423.02,17,7191.34,5/21/2021,464 Bartillon Crossing,credit card,shipped
+473,Pet Carrier Backpack,Pets,965.43,39,37651.77,8/18/2020,926 Shasta Circle,credit card,pending
+474,Bock Beer Mustard,Food - Condiments,793.03,1,793.03,1/15/2020,866 Meadow Valley Circle,credit card,pending
+475,Cucumber Relish,Food - Condiments,101.68,62,6304.16,5/9/2020,04596 Bobwhite Circle,PayPal,pending
+476,Luxe Velvet Blazer,Clothing - Outerwear,582.68,16,9322.88,4/4/2020,86770 Lien Way,PayPal,delivered
+477,Key Finder,Accessories,477.8,19,9078.2,3/17/2021,02003 High Crossing Park,credit card,shipped
+478,Granola Bars,Food - Snacks,952.25,78,74275.5,12/10/2022,9135 Meadow Ridge Trail,credit card,shipped
+479,Graphic Sweatshirt,Clothing - Tops,951.35,32,30443.2,3/10/2021,777 Claremont Lane,credit card,shipped
+480,Ceramic Non-Stick Frying Pan,Kitchen,360.4,35,12614.0,8/6/2020,5 Calypso Street,PayPal,delivered
+481,Tomato Sauce,Food - Canned Goods,910.18,21,19113.78,2/27/2022,214 Brown Plaza,PayPal,shipped
+482,Window Bird Feeder with Suction Cups,Outdoor,959.32,85,81542.2,2/11/2020,82910 Northport Trail,PayPal,processing
+483,Eco-Friendly Cleaning Cloths,Home,918.81,22,20213.82,2/28/2022,82074 Crownhardt Road,credit card,pending
+484,Digital Food Scale,Kitchen,504.16,49,24703.84,4/4/2021,08146 Mallory Alley,PayPal,shipped
+485,Yoga Strap,Fitness,354.76,87,30864.12,1/24/2022,971 Forest Run Road,PayPal,delivered
+486,Sports Windbreaker,Clothing - Outerwear,28.51,59,1682.09,12/26/2021,574 Paget Street,PayPal,shipped
+487,Garden Tool Set,Garden,21.16,3,63.48,5/18/2021,5 2nd Alley,credit card,shipped
+488,Rice Noodles,Food - Grains,328.13,59,19359.67,3/26/2020,8 Cascade Crossing,credit card,pending
+489,Kitchen Knife Sharpening System,Kitchen,287.43,47,13509.21,7/9/2021,4343 David Alley,cash on delivery,delivered
+490,Whole Roasted Chicken,Food - Meats,794.52,87,69123.24,3/3/2020,73 Hermina Street,PayPal,delivered
+491,Vanilla Protein Powder,Food - Health/Protein,694.03,65,45111.95,3/29/2022,3 Warner Junction,cash on delivery,delivered
+492,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,320.2,30,9606.0,1/5/2020,3 Mcbride Hill,PayPal,shipped
+493,Granola Clusters,Food - Cereal,35.74,68,2430.32,10/7/2021,8683 Meadow Vale Park,credit card,processing
+494,Grapes (red),Food - Produce,647.16,1,647.16,9/11/2021,68529 Aberg Drive,PayPal,delivered
+495,Portable Solar Path Lights,Outdoor,510.06,67,34174.02,12/31/2020,76682 Vernon Lane,credit card,pending
+496,Rechargeable Electric Toothbrush,Health,918.32,94,86322.08,9/30/2020,8 Gateway Lane,credit card,shipped
+497,Honey mustard chicken tenders,Food - Meat,255.44,45,11494.8,7/13/2022,854 Victoria Road,cash on delivery,processing
+498,Bicycle Repair Kit,Outdoor,324.4,64,20761.6,8/20/2022,95184 Bay Pass,cash on delivery,processing
+499,Mini Projector for Smartphones,Electronics,151.97,33,5015.01,9/17/2021,0 Wayridge Circle,PayPal,pending
+500,Children's Educational Workbook,Books,545.37,94,51264.78,5/11/2020,101 Farwell Avenue,cash on delivery,processing
+501,Compact Electric Kettle,Kitchen,659.91,10,6599.1,6/28/2021,0417 Dovetail Parkway,credit card,processing
+502,Patterned Knit Scarf,Clothing - Accessories,776.42,26,20186.92,3/24/2022,3 Lakewood Gardens Place,cash on delivery,processing
+503,Casual Cropped Sweater,Clothing - Sweaters,91.51,61,5582.11,12/3/2022,59 Di Loreto Court,cash on delivery,delivered
+504,Motion Sensor Light,Home,93.32,30,2799.6,2/4/2021,91534 Warbler Park,cash on delivery,shipped
+505,Mechanical Keyboard,Computers,655.05,53,34717.65,10/31/2020,25 Briar Crest Parkway,cash on delivery,processing
+506,Ground Turkey,Food - Meat,499.53,34,16984.02,3/23/2021,7 Huxley Plaza,PayPal,shipped
+507,Coconut Chia Pudding,Food - Dairy,439.99,40,17599.6,12/10/2022,01 Forster Court,credit card,pending
+508,Crew Neck Sweater,Clothing - Sweaters,780.8,77,60121.6,8/21/2020,475 Kedzie Parkway,PayPal,delivered
+509,Pet Grooming Scissors,Pets,988.05,26,25689.3,3/15/2022,41338 Granby Drive,PayPal,pending
+510,Strawberry Rhubarb Jam,Food - Condiments,604.47,40,24178.8,7/17/2021,071 Mayer Street,cash on delivery,delivered
+511,Cranberry Orange Juice,Food - Beverages,489.17,72,35220.24,11/12/2022,487 Morning Alley,cash on delivery,pending
+512,Pineapple Salsa,Food - Condiments,607.72,49,29778.28,7/18/2021,90 Rutledge Pass,PayPal,shipped
+513,Magnetic Spice Jars,Kitchen,858.46,37,31763.02,5/13/2022,3635 Algoma Crossing,cash on delivery,pending
+514,Mechanical Pencil Set,Office,55.88,49,2738.12,5/13/2021,01108 Fuller Plaza,cash on delivery,processing
+515,Italian Sausage Links,Food - Meat & Poultry,64.56,95,6133.2,3/11/2022,794 Jackson Avenue,PayPal,delivered
+516,Window Bird Feeder with Suction Cups,Outdoor,58.12,77,4475.24,1/11/2022,88297 Bonner Road,cash on delivery,pending
+517,Wooden Children's Play Kitchen,Toys,344.73,55,18960.15,12/16/2021,8667 Artisan Hill,cash on delivery,processing
+518,Mini Indoor Hydroponic Garden,Garden,716.92,31,22224.52,3/3/2021,0 Morning Road,PayPal,processing
+519,Banana Nut Oatmeal Cups,Food - Breakfast,599.12,46,27559.52,4/11/2020,5 Schiller Trail,credit card,processing
+520,Pumpkin Spice Creamer,Food - Beverages,35.71,94,3356.74,4/9/2021,7 Pearson Lane,cash on delivery,pending
+521,Outdoor String Lights,Outdoor,116.11,17,1973.87,11/2/2022,26 Forster Point,credit card,delivered
+522,Honey Mustard Dip,Food - Condiments,508.82,31,15773.42,7/27/2022,76 Drewry Way,PayPal,shipped
+523,Wireless Range Extender,Electronics,213.72,1,213.72,11/26/2022,2355 Helena Alley,cash on delivery,shipped
+524,Pest Control Traps,Home,952.98,13,12388.74,11/8/2020,961 Mesta Street,cash on delivery,delivered
+525,Golf Putting Green,Sports,916.17,76,69628.92,7/14/2021,2191 Brickson Park Crossing,cash on delivery,processing
+526,Mixed Berry Smoothie Pack,Food - Frozen Food,659.6,50,32980.0,1/9/2021,98 Mayfield Street,cash on delivery,delivered
+527,Artisan Bread,Food - Bakery,174.25,9,1568.25,5/13/2021,81909 Lien Trail,cash on delivery,delivered
+528,Almond Flour,Food - Baking,619.3,32,19817.6,8/5/2021,9633 Killdeer Terrace,PayPal,pending
+529,Roasted Sweet Corn,Food - Frozen,759.98,99,75238.02,12/16/2022,2574 Reinke Street,cash on delivery,shipped
+530,Gluten-Free Biscuits,Food - Baking,689.26,22,15163.72,8/31/2021,1 Hallows Street,PayPal,processing
+531,Creamy Spinach Dip,Food - Prepared Foods,47.55,1,47.55,3/6/2022,864 Maple Drive,credit card,delivered
+532,Adjustable Resistance Bands,Fitness,656.01,38,24928.38,7/5/2020,186 Mosinee Park,cash on delivery,processing
+533,Pesto Pasta Salad,Food - Prepared Foods,907.48,77,69875.96,10/9/2020,48947 Pleasure Park,cash on delivery,pending
+534,Smoky BBQ Jackfruit,Food - Grocery,689.19,46,31702.74,5/24/2022,4634 Warner Hill,credit card,shipped
+535,Glass Food Containers,Kitchen,53.81,10,538.1,1/17/2021,38236 Menomonie Drive,PayPal,processing
+536,Portable Pet Water Bottle,Pets,917.85,14,12849.9,5/17/2021,1 Ridgeview Center,cash on delivery,delivered
+537,Chickpea Pasta,Food - Pasta,279.39,4,1117.56,4/8/2020,7144 Bluejay Drive,PayPal,processing
+538,Portable Solar Path Lights,Outdoor,854.28,51,43568.28,4/3/2022,60837 Heath Alley,PayPal,processing
+539,Roasted Red Pepper Dip,Food - Snacks,17.99,4,71.96,6/23/2021,46 Debra Court,credit card,delivered
+540,Beach Cover-Up,Clothing - Swimwear,436.35,10,4363.5,10/28/2020,30 Summit Plaza,PayPal,delivered
+541,Fleece Throw Blanket,Home,873.69,15,13105.35,2/9/2022,30 Golden Leaf Park,credit card,processing
+542,Field Journal,Books,333.83,74,24703.42,2/27/2022,5855 Cordelia Avenue,cash on delivery,delivered
+543,Cinnamon Raisin Bagels,Food - Bakery,942.99,76,71667.24,3/17/2021,0 Redwing Point,PayPal,processing
+544,Chic Jumpsuit,Clothing - Jumpsuits,941.29,49,46123.21,1/7/2021,838 Southridge Lane,cash on delivery,pending
+545,Coconut Macaroons,Food - Confectionery,509.1,71,36146.1,11/22/2020,24409 Melrose Drive,PayPal,shipped
+546,Animal Paw Print Soap Dispenser,Home,303.98,84,25534.32,7/5/2022,7 Dawn Trail,PayPal,delivered
+547,LED Strip Light Kit,Home,442.8,62,27453.6,10/6/2021,92987 Dunning Alley,cash on delivery,delivered
+548,Crafting Kit,Art Supplies,711.99,23,16375.77,11/11/2022,02445 Sage Parkway,credit card,shipped
+549,Self-Adhesive Wallpaper,Home,21.59,69,1489.71,10/16/2021,7 Dapin Alley,cash on delivery,pending
+550,Vegetable Quinoa Bowl,Food - Frozen Meals,859.01,11,9449.11,12/21/2021,01 Fremont Avenue,PayPal,delivered
+551,Ripped Boyfriend Jeans,Clothing - Bottoms,925.66,20,18513.2,11/27/2020,6 Debra Center,cash on delivery,shipped
+552,Plant Pot Drip Trays,Garden,431.57,94,40567.58,8/7/2020,3 Melby Way,credit card,delivered
+553,Cork Yoga Mat,Fitness,742.44,71,52713.24,10/22/2020,9229 Delaware Point,cash on delivery,processing
+554,Caramel Apple Taffy,Food - Confectionery,480.91,42,20198.22,3/10/2022,7 Burning Wood Center,credit card,delivered
+555,Wooden Blocks,Toys,436.25,67,29228.75,5/20/2022,239 Anzinger Crossing,credit card,processing
+556,Portable Dog Water Bottle,Pets,889.86,96,85426.56,10/24/2021,5 Laurel Center,cash on delivery,delivered
+557,Chocolate Almond Milk,Food - Dairy Alternatives,666.41,18,11995.38,6/3/2020,5 Randy Place,PayPal,shipped
+558,Curried Lentil Salad,Food - Salads,282.61,46,13000.06,10/21/2020,95 Melby Hill,PayPal,pending
+559,Oven-Baked Potato Chips,Food - Snacks,8.15,39,317.85,4/1/2022,02464 Armistice Circle,credit card,shipped
+560,Fridge Magnet Set,Home,873.2,32,27942.4,7/23/2021,35967 Reindahl Plaza,credit card,processing
+561,Multi-Purpose Scissors,Office,679.39,34,23099.26,7/10/2022,57 Fuller Avenue,cash on delivery,delivered
+562,Coconut Bowls Set,Kitchen,383.81,58,22260.98,1/3/2020,63 Union Court,credit card,shipped
+563,Mediterranean Couscous,Food - Grains,608.42,23,13993.66,9/1/2022,65 Lukken Circle,PayPal,processing
+564,Portable Air Pump,Outdoor,262.67,18,4728.06,9/24/2020,8009 Sugar Pass,cash on delivery,processing
+565,LED Table Lamp,Home,690.77,92,63550.84,2/5/2021,61717 Dakota Drive,credit card,shipped
+566,Acoustic Guitar,Music,306.15,44,13470.6,5/11/2020,53 Monterey Circle,PayPal,delivered
+567,Self-Adhesive Wallpaper,Home,200.7,29,5820.3,9/7/2022,8071 Maple Alley,cash on delivery,pending
+568,Balsamic Glazed Brussels Sprouts,Food - Vegetables,199.34,78,15548.52,6/27/2022,22278 Division Park,PayPal,pending
+569,Caramel Sauce,Food - Condiments,28.8,65,1872.0,2/24/2020,9 4th Place,cash on delivery,processing
+570,Smoked Salmon,Food - Seafood,47.85,67,3205.95,7/3/2020,9 Oxford Hill,PayPal,processing
+571,Smart Thermos,Fitness,683.67,23,15724.41,8/29/2020,979 Debra Terrace,cash on delivery,delivered
+572,Dark Chocolate Covered Pretzels,Food - Snacks,533.08,11,5863.88,11/21/2021,583 Judy Street,credit card,delivered
+573,LED Desk Light,Home,426.91,94,40129.54,2/1/2022,0 Utah Plaza,PayPal,processing
+574,Canned Black Beans,Food - Canned Goods,384.58,51,19613.58,1/12/2021,2628 Lakewood Gardens Lane,cash on delivery,processing
+575,Brownie Bites,Food - Baked Goods,907.55,89,80771.95,10/12/2020,6 Express Junction,credit card,processing
+576,Italian Meatballs,Food - Meat,545.88,67,36573.96,12/25/2020,5 Dorton Drive,credit card,processing
+577,Blue Denim Jeans,Clothing - Bottoms,143.05,85,12159.25,5/20/2020,9 Gerald Parkway,cash on delivery,shipped
+578,Apple Sauce,Food - Canned Goods,186.26,57,10616.82,12/15/2020,061 Lakewood Parkway,credit card,processing
+579,Pumpkin Spice Coffee,Food - Beverages,463.51,16,7416.16,3/18/2022,74755 Kennedy Alley,cash on delivery,shipped
+580,Coffee Maker,Kitchen,781.0,58,45298.0,1/14/2022,9 Hansons Court,PayPal,shipped
+581,Black Bean & Corn Salad,Food - Salads,924.05,79,72999.95,7/31/2021,01 Scoville Point,PayPal,processing
+582,Crispy Rice Treats,Food - Snacks,883.71,21,18557.91,4/1/2021,81 Old Gate Lane,PayPal,shipped
+583,Savory Pumpkin Soup,Food - Soups,794.38,70,55606.6,11/2/2021,78 Algoma Place,PayPal,shipped
+584,Whipped Cream Cheese,Food - Dairy,173.34,28,4853.52,3/3/2020,98 Main Crossing,PayPal,pending
+585,Apple Cinnamon Instant Oatmeal,Food - Cereal,375.04,13,4875.52,2/5/2020,8487 Monument Court,credit card,shipped
+586,Artisan Pickles,Food - Condiments,64.42,52,3349.84,6/9/2020,45 Brickson Park Alley,credit card,processing
+587,Sun-Dried Tomato Pesto,Food - Condiments,31.78,39,1239.42,11/4/2020,2 Sloan Point,credit card,shipped
+588,Multi-Functional Rice Cooker,Kitchen,784.42,18,14119.56,1/5/2022,016 Mcguire Pass,PayPal,delivered
+589,Microfiber Cleaning Cloth Set,Home,36.61,20,732.2,2/28/2021,3 New Castle Plaza,credit card,delivered
+590,Cinnamon Raisin Bagels,Food - Bakery,900.54,92,82849.68,9/5/2020,73 Gina Lane,credit card,shipped
+591,Cat Scratching Post with Toys,Pets,175.56,27,4740.12,11/3/2021,90177 Kim Street,credit card,pending
+592,Organic Quinoa Salad,Food - Prepared Meals,532.04,8,4256.32,3/12/2022,50020 Glendale Center,PayPal,processing
+593,Plant Growing Kit,Garden,161.56,83,13409.48,11/20/2021,2321 Continental Plaza,PayPal,shipped
+594,Professional Chef Knife,Kitchen,815.67,96,78304.32,7/3/2022,20024 Schlimgen Drive,cash on delivery,pending
+595,Peach & Mango Salsa,Food - Snacks,257.95,96,24763.2,12/7/2022,6 Sutteridge Trail,PayPal,shipped
+596,Teriyaki Beef Strips,Food - Frozen Meals,634.24,52,32980.48,10/23/2022,166 Milwaukee Trail,PayPal,processing
+597,Travel Pillow with Memory Foam,Travel,550.46,93,51192.78,1/14/2020,7 Briar Crest Terrace,credit card,pending
+598,Handheld Shower Head,Bathroom,903.16,32,28901.12,4/10/2022,170 Colorado Park,cash on delivery,processing
+599,Smartphone Gimbal,Electronics,100.15,51,5107.65,1/17/2020,85132 Duke Park,cash on delivery,shipped
+600,Roasted Sweet Corn,Food - Frozen,97.18,75,7288.5,11/23/2022,88 Maryland Center,PayPal,delivered
+601,Portable Leaf Blower,Outdoor,86.78,21,1822.38,2/20/2020,7088 Fremont Trail,credit card,shipped
+602,Salsa Verde,Food - Condiments,401.89,61,24515.29,12/20/2020,761 Onsgard Terrace,credit card,shipped
+603,Mediterranean Chickpea Bowl,Food - Prepared Foods,945.72,80,75657.6,3/1/2020,5 Harbort Trail,credit card,processing
+604,Classic Bagels,Food - Bakery,408.06,93,37949.58,2/3/2020,203 American Ash Parkway,PayPal,delivered
+605,Cotton Quilted Throw Blanket,Home,41.69,87,3627.03,12/6/2021,58759 Bonner Court,credit card,shipped
+606,Pet Hair Vacuum Cleaner Attachment,Pets,453.57,35,15874.95,9/24/2021,11205 Springview Terrace,cash on delivery,pending
+607,Whole Chicken,Food - Meat,733.39,2,1466.78,3/22/2020,4264 Shopko Road,credit card,delivered
+608,Pork Chops,Food - Meat,223.13,24,5355.12,5/11/2021,8 Artisan Parkway,PayPal,processing
+609,Portable Hammock,Outdoor,989.17,71,70231.07,8/3/2021,374 Merchant Crossing,cash on delivery,delivered
+610,Smartphone Projector,Electronics,757.86,2,1515.72,7/24/2022,946 Buena Vista Road,PayPal,processing
+611,Coconut Macaroons,Food - Confectionery,561.06,25,14026.5,12/15/2020,9 South Lane,cash on delivery,shipped
+612,Beef Chili,Food - Canned Goods,351.97,81,28509.57,4/9/2022,20223 Vermont Pass,PayPal,pending
+613,Ceramic Non-Stick Frying Pan,Kitchen,83.98,30,2519.4,6/8/2021,2 Artisan Street,cash on delivery,processing
+614,Thai Coconut Curry Sauce,Food - Condiments,106.78,16,1708.48,12/31/2020,894 Loomis Crossing,credit card,shipped
+615,LED Strip Lights,Home,826.39,62,51236.18,7/5/2021,869 Northport Crossing,cash on delivery,pending
+616,Non-Stick Grill Mat,Outdoor,262.48,35,9186.8,3/14/2021,6749 Stoughton Avenue,PayPal,pending
+617,Sesame Seeds,Food - Baking,861.84,85,73256.4,12/1/2022,809 Meadow Valley Court,credit card,processing
+618,Self-Massaging Pillow,Health,560.45,100,56045.0,6/1/2021,22592 Burrows Hill,credit card,delivered
+619,Golf Putting Green,Sports,797.0,65,51805.0,10/1/2021,5778 Stephen Hill,PayPal,delivered
+620,Pet Grooming Gloves,Pets,639.75,92,58857.0,3/1/2020,58 Tony Park,credit card,shipped
+621,Lemon Herb Grilled Chicken,Food - Meat,201.54,42,8464.68,2/27/2020,76 5th Road,PayPal,processing
+622,Classic Caesar Salad Kit,Food - Salads,168.11,39,6556.29,9/29/2020,96934 Lien Pass,credit card,processing
+623,Balsamic Glazed Brussels Sprouts,Food - Vegetables,637.71,96,61220.16,2/12/2021,77 Oak Hill,credit card,shipped
+624,Essential Oil Roller Bottles,Health,404.23,46,18594.58,11/6/2020,88087 Fallview Parkway,credit card,pending
+625,Chocolate Chip Cliff Bars,Food - Snacks,880.32,9,7922.88,2/5/2020,81 Washington Center,PayPal,processing
+626,Satin Slip Dress,Clothing - Dresses,207.96,49,10190.04,1/21/2020,8057 Fisk Place,cash on delivery,shipped
+627,Caramel Apple Taffy,Food - Confectionery,707.7,12,8492.4,12/19/2020,9 Vidon Road,PayPal,processing
+628,Sliced Avocado,Food - Produce,546.38,64,34968.32,7/31/2021,62 5th Alley,credit card,shipped
+629,Adjustable Height Standing Desk Converter,Office,701.0,20,14020.0,1/21/2021,7 Daystar Park,credit card,processing
+630,Electric Meat Grinder,Kitchen,39.0,40,1560.0,8/19/2021,74 Hoard Pass,credit card,processing
+631,Fridge Magnet Set,Home,101.97,90,9177.3,4/15/2020,26895 Kennedy Trail,credit card,processing
+632,Electric Can Opener,Kitchen,642.08,95,60997.6,6/6/2020,5751 Schurz Place,PayPal,delivered
+633,Sunflower Seeds,Food - Nuts,404.83,63,25504.29,7/24/2021,08019 Armistice Trail,PayPal,shipped
+634,Electric Air Pump,Outdoor,686.47,88,60409.36,11/24/2021,0 Pond Court,cash on delivery,pending
+635,Peach Halves (canned),Food - Canned Goods,7.67,76,582.92,7/30/2022,36921 Debra Lane,PayPal,processing
+636,Travel Sewing Kit,Travel,434.12,54,23442.48,2/5/2021,23 Maple Wood Trail,credit card,delivered
+637,Organic Black Beans,Food - Canned Goods,391.62,63,24672.06,9/22/2021,0 Barby Trail,cash on delivery,shipped
+638,Portable Phone Mug Holder,Automotive,106.32,33,3508.56,1/23/2021,36 Hermina Pass,cash on delivery,pending
+639,Premium Flashlight,Outdoor,263.03,8,2104.24,5/8/2021,10536 Goodland Terrace,PayPal,processing
+640,Oven-Baked Sweet Potato Fries,Food - Frozen Foods,863.04,32,27617.28,4/26/2022,6863 Susan Junction,credit card,pending
+641,Spicy Italian Sausage,Food - Meat & Seafood,741.29,76,56338.04,7/5/2020,68283 High Crossing Hill,PayPal,shipped
+642,Beef Tacos,Food - Meat,115.84,38,4401.92,2/2/2022,701 Anderson Lane,cash on delivery,pending
+643,Vegan Alfredo Sauce,Food - Sauces,594.3,3,1782.9,2/9/2020,63452 Golf Course Plaza,PayPal,pending
+644,Sweet and Sour Sauce,Food - Condiments,474.58,19,9017.02,7/17/2021,6 Arizona Crossing,credit card,shipped
+645,LED Flashlight with Rechargeable Batteries,Outdoor,847.06,17,14400.02,10/24/2020,6757 Continental Parkway,credit card,shipped
+646,Basil Tomato Soup,Food - Canned Soups,288.66,83,23958.78,8/11/2020,1 Mayer Place,PayPal,shipped
+647,Electric Pressure Cooker,Kitchen,398.32,36,14339.52,1/28/2021,20 Rowland Street,PayPal,delivered
+648,Pet Travel Bowl,Pets,970.04,51,49472.04,4/29/2022,13 Bashford Point,PayPal,pending
+649,Strawberry Rhubarb Jam,Food - Condiments,611.27,32,19560.64,9/7/2020,58483 Shopko Center,cash on delivery,pending
+650,Set of Decorative Storage Bins,Home,717.41,21,15065.61,7/4/2022,3796 Ruskin Avenue,PayPal,shipped
+651,Vegan Protein Powder,Health,811.83,45,36532.35,11/12/2022,11 Lakewood Drive,PayPal,shipped
+652,Low-Fat Yogurt,Food - Dairy,630.88,2,1261.76,12/17/2020,3 Barby Alley,PayPal,pending
+653,Pet Hair Remover,Pets,703.25,9,6329.25,9/17/2020,34 Rockefeller Court,cash on delivery,delivered
+654,Organic Ramen Noodles,Food - Pasta,824.79,39,32166.81,6/3/2021,12 Mosinee Circle,credit card,processing
+655,Asian Stir-Fry Kit,Food - Frozen Meals,146.73,71,10417.83,3/12/2021,7 Shoshone Way,PayPal,delivered
+656,Thai Green Curry Paste,Food - Sauces,414.15,4,1656.6,2/10/2022,214 Red Cloud Terrace,credit card,pending
+657,Baby Monitor,Baby,73.67,64,4714.88,4/17/2021,27291 Sage Way,credit card,pending
+658,Dark Chocolate Raisins,Food - Snacks,455.62,33,15035.46,1/25/2022,43906 Mifflin Crossing,PayPal,shipped
+659,Wireless Gaming Headset,Gaming,630.71,6,3784.26,1/5/2022,6457 Bayside Pass,cash on delivery,shipped
+660,Cauliflower Gnocchi,Food - Frozen Foods,785.79,87,68363.73,6/28/2020,917 Goodland Drive,cash on delivery,shipped
+661,Spicy Tuna Rolls,Food - Seafood,867.32,25,21683.0,6/25/2022,337 Brickson Park Court,cash on delivery,processing
+662,Savory Oatmeal Cups,Food - Breakfast,851.06,20,17021.2,2/17/2022,2 4th Alley,PayPal,pending
+663,Ceramic Knife Set,Kitchen,999.01,57,56943.57,8/26/2022,5704 Bayside Place,PayPal,delivered
+664,Avocado Oil Mayo,Food - Condiments,919.68,28,25751.04,9/27/2022,6 Southridge Terrace,cash on delivery,delivered
+665,Sweet Chili Thai Sauce,Food - Condiments,346.6,57,19756.2,10/10/2022,71826 Golf Course Avenue,PayPal,pending
+666,Classic BBQ Sauce,Food - Condiments,83.51,62,5177.62,5/16/2020,1016 Vermont Parkway,credit card,processing
+667,Satin Slip Dress,Clothing - Dresses,912.01,74,67488.74,11/18/2021,6564 Thompson Street,credit card,pending
+668,Sweet BBQ Dipping Sauce,Food - Condiments,548.47,97,53201.59,5/9/2021,49 Meadow Ridge Parkway,PayPal,delivered
+669,Coconut Granola,Food - Snacks,117.06,62,7257.72,12/23/2021,34440 Mendota Avenue,cash on delivery,delivered
+670,Faux Fur Throw Blanket,Home,99.84,12,1198.08,9/24/2020,81 Nancy Crossing,PayPal,processing
+671,Creative Puzzle Game,Toys,461.83,60,27709.8,9/16/2020,4 Karstens Way,credit card,processing
+672,Adjustable Yoga Mat Strap,Fitness,901.47,11,9916.17,3/30/2021,74457 Commercial Trail,PayPal,shipped
+673,Kids' Science Experiment Kit,Toys,730.23,91,66450.93,5/1/2022,43 Pearson Way,cash on delivery,processing
+674,Infrared Thermometer,Health,403.05,100,40305.0,6/23/2020,58 New Castle Junction,PayPal,pending
+675,Body Wash,Beauty,890.76,72,64134.72,11/8/2020,16 Redwing Junction,credit card,shipped
+676,Leather Notebook Cover,Office,767.19,1,767.19,8/14/2022,184 Esch Way,PayPal,pending
+677,Indian Curry Sauce,Food - Condiments,104.37,94,9810.78,1/26/2022,0164 Shasta Lane,PayPal,processing
+678,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,22.76,35,796.6,11/3/2020,0126 Vidon Point,cash on delivery,pending
+679,Set of Silicone Cooking Utensils,Kitchen,557.34,17,9474.78,8/20/2021,738 Manitowish Way,PayPal,processing
+680,Apple Sauce,Food - Canned Goods,938.39,21,19706.19,2/11/2021,5 Ridge Oak Junction,cash on delivery,shipped
+681,Stylish Wide-Leg Trousers,Clothing - Bottoms,746.9,24,17925.6,11/5/2022,182 Almo Center,cash on delivery,processing
+682,Toy Building Set,Toys,324.64,92,29866.88,5/18/2021,045 Haas Trail,cash on delivery,shipped
+683,Herb Seasoned Couscous,Food - Grains,181.68,51,9265.68,6/30/2022,70 Killdeer Avenue,PayPal,processing
+684,Organic Chia Seeds,Food - Health Foods,968.85,47,45535.95,4/12/2020,50 Fallview Junction,credit card,processing
+685,Classic White T-Shirt,Clothing - Tops,128.62,12,1543.44,12/9/2021,52125 6th Circle,credit card,delivered
+686,Organic Almonds,Food - Nuts,672.7,11,7399.7,3/17/2020,0 Dovetail Parkway,cash on delivery,delivered
+687,Compact Refrigerator,Home Appliances,39.76,59,2345.84,3/2/2020,49 Village Road,cash on delivery,pending
+688,Feta Cheese,Food - Dairy,208.56,41,8550.96,2/3/2020,53 Larry Circle,cash on delivery,shipped
+689,Portable Phone Mug Holder,Automotive,62.61,28,1753.08,4/14/2021,828 Northwestern Way,cash on delivery,delivered
+690,Collapsible Camping Cup,Outdoor,49.89,46,2294.94,2/6/2020,9698 6th Circle,credit card,pending
+691,Slim Fit Chinos,Clothing - Pants,144.34,82,11835.88,12/18/2022,0504 Holmberg Alley,cash on delivery,delivered
+692,Smart LED Desk Lamp,Office,302.97,37,11209.89,7/23/2021,61524 Grover Place,credit card,processing
+693,Camping Lantern,Outdoor,453.15,70,31720.5,9/20/2022,2 Pawling Junction,PayPal,shipped
+694,Reversible Swimming Pool Lounger,Outdoor,253.75,6,1522.5,4/29/2022,43317 Monica Center,cash on delivery,processing
+695,Electrolyte Water Bottle,Fitness,146.07,36,5258.52,3/7/2020,48 Corben Drive,credit card,processing
+696,Puff Pastry,Food - Bakery,771.47,33,25458.51,7/3/2020,491 Reindahl Junction,PayPal,pending
+697,Jalapeño Cornbread,Food - Bakery,860.16,25,21504.0,4/26/2022,541 Prairie Rose Street,credit card,processing
+698,Gluten-Free Brownies,Food - Baking,760.55,90,68449.5,11/20/2022,48843 Forster Pass,PayPal,pending
+699,Graphic Tee,Clothing,995.58,39,38827.62,3/3/2020,6 Moose Terrace,PayPal,shipped
+700,Organic Black Bean Burger,Food - Frozen Foods,569.35,60,34161.0,9/27/2022,03737 Sugar Avenue,PayPal,processing
+701,Wireless Earbuds,Audio,369.42,49,18101.58,5/31/2022,0 Moland Road,credit card,processing
+702,Hummus Variety Pack,Food - Dairy,839.15,3,2517.45,9/12/2020,28 Eastwood Pass,cash on delivery,processing
+703,Reusable Food Storage Bags,Kitchen,433.12,45,19490.4,12/11/2020,5 Scofield Avenue,credit card,processing
+704,Sweet and Spicy Barbecue Sauce,Food - Condiments,585.13,52,30426.76,5/14/2021,96105 Scott Road,cash on delivery,delivered
+705,Herb Seasoned Rice,Food - Sides,353.0,92,32476.0,10/8/2021,864 Corben Drive,PayPal,delivered
+706,Compressed Towel Tablets,Travel,471.01,99,46629.99,4/28/2021,6 Lunder Trail,credit card,shipped
+707,Baking Powder,Food - Baking Goods,452.0,15,6780.0,11/7/2022,86 Dwight Alley,PayPal,shipped
+708,Maple Cinnamon Granola Bars,Food - Snacks,394.34,64,25237.76,8/3/2020,484 Lyons Road,PayPal,delivered
+709,Chic Ankle Strap Heels,Clothing - Shoes,611.64,65,39756.6,1/8/2022,8114 Melby Park,credit card,delivered
+710,Spicy Roasted Nuts,Food - Snacks,177.01,14,2478.14,5/5/2020,9199 Fair Oaks Place,PayPal,delivered
+711,Frozen Chicken Nuggets,Food - Frozen Foods,795.92,79,62877.68,1/23/2021,848 Orin Court,cash on delivery,processing
+712,Avocado Oil,Food - Oils,526.26,7,3683.82,8/28/2022,37 Mitchell Point,credit card,delivered
+713,Adjustable Laptop Stand,Office,108.96,19,2070.24,12/14/2020,2419 Upham Center,cash on delivery,pending
+714,Cable Knit Beanie,Clothing - Accessories,376.96,14,5277.44,5/2/2022,003 Utah Place,credit card,pending
+715,Eco-Friendly Yoga Mat,Fitness,935.16,18,16832.88,6/4/2020,827 Hoepker Road,cash on delivery,shipped
+716,Fire Roasted Salsa,Food - Condiments,957.86,27,25862.22,9/8/2020,94 Merrick Way,credit card,processing
+717,Lentil Vegetable Curry,Food - Prepared Meals,445.03,78,34712.34,7/16/2020,85253 Monument Place,cash on delivery,processing
+718,LED Strip Lights Kit,Home,562.55,80,45004.0,5/11/2021,1 Kingsford Court,cash on delivery,shipped
+719,Cordless Electric Screwdriver,Tools,810.25,81,65630.25,11/7/2021,641 Buhler Park,PayPal,shipped
+720,Stainless Steel Cutlery Set,Kitchen,52.13,25,1303.25,1/27/2022,70544 Rockefeller Circle,credit card,delivered
+721,Plaid Flannel Shirt,Clothing - Tops,607.0,80,48560.0,7/25/2021,94511 Division Point,credit card,delivered
+722,Herb Seasoned Rice,Food - Sides,727.92,4,2911.68,12/6/2021,3755 Anzinger Drive,cash on delivery,pending
+723,Peanut Butter Granola,Food - Breakfast,385.16,73,28116.68,8/30/2021,60980 Del Sol Avenue,credit card,pending
+724,Fitness Jump Rope,Fitness,789.04,38,29983.52,11/8/2021,937 Sutherland Terrace,PayPal,delivered
+725,Gaming Headset,Gaming,417.94,46,19225.24,8/7/2020,11636 Westridge Place,credit card,processing
+726,Turmeric Ginger Tea,Food - Beverages,534.49,91,48638.59,7/16/2021,7116 Gerald Street,credit card,pending
+727,Garlic Herb Cream Cheese,Food - Dairy,676.14,39,26369.46,7/31/2021,847 High Crossing Alley,PayPal,delivered
+728,Mediterranean Flatbread,Food - Bakery,153.56,91,13973.96,7/23/2020,6 Waxwing Court,PayPal,pending
+729,Kettle Chip Variety Pack,Food - Snacks,241.74,72,17405.28,9/13/2022,07 Ilene Plaza,cash on delivery,shipped
+730,Adjustable Yoga Mat Strap,Fitness,182.63,95,17349.85,4/4/2022,985 Susan Terrace,cash on delivery,shipped
+731,Fruit Infuser Water Bottle,Fitness,154.64,37,5721.68,9/20/2020,1 Glacier Hill Road,cash on delivery,delivered
+732,Breathable Face Mask Set,Health,775.12,67,51933.04,8/24/2022,53 Superior Lane,credit card,shipped
+733,Maple Syrup,Food - Condiments,815.17,24,19564.08,5/13/2021,6 Utah Road,PayPal,shipped
+734,Athletic Sports Bra,Clothing - Activewear,778.06,49,38124.94,8/18/2020,472 Bunting Court,credit card,shipped
+735,Fitness Tracker Band,Fitness,549.09,54,29650.86,4/23/2022,39 Arrowood Street,credit card,delivered
+736,Sliced Olives,Food - Condiments,486.29,33,16047.57,10/28/2020,48968 Springs Lane,PayPal,pending
+737,Pressure Cooker,Kitchen,71.19,42,2989.98,4/24/2022,87615 Gateway Road,PayPal,delivered
+738,Mashed Sweet Potatoes,Food - Sides,390.61,46,17968.06,3/11/2021,65 Rutledge Crossing,cash on delivery,processing
+739,LED Desk Lamp,Home,195.11,4,780.44,11/5/2020,7 Kings Terrace,PayPal,pending
+740,Thai Red Curry Paste,Food - Condiments,420.63,92,38697.96,10/21/2022,3 Calypso Lane,credit card,shipped
+741,Wild Rice & Quinoa Mix,Food - Grains,812.86,6,4877.16,5/13/2021,361 Hermina Center,cash on delivery,delivered
+742,Memory Foam Pillow,Home,28.84,26,749.84,3/13/2020,0 Tennessee Way,cash on delivery,shipped
+743,Almond Milk Yogurt,Food - Dairy Alternatives,336.5,14,4711.0,2/26/2021,13619 Chive Court,PayPal,shipped
+744,Mini Waffle Maker,Kitchen,11.19,41,458.79,9/9/2020,60559 Beilfuss Court,PayPal,shipped
+745,Spicy Thai Chili Sauce,Food - Sauces,461.53,67,30922.51,9/30/2022,79 Laurel Street,PayPal,shipped
+746,Teriyaki Salmon Fillets,Food - Seafood,62.46,6,374.76,4/12/2020,38 Chinook Court,credit card,shipped
+747,Balsamic Glaze,Food - Condiments,949.19,93,88274.67,9/15/2022,7 Everett Trail,PayPal,processing
+748,Hand Crank Blender,Kitchen,507.13,2,1014.26,2/20/2021,94 Harper Park,PayPal,shipped
+749,Electric Heating Pad,Health,75.94,25,1898.5,5/31/2021,88093 Lakewood Gardens Road,PayPal,shipped
+750,Roasted Red Pepper Hummus,Food - Dips,532.62,50,26631.0,1/28/2020,974 Scofield Avenue,credit card,shipped
+751,Pet Safety Harness,Pets,784.87,80,62789.6,8/10/2020,95055 Starling Place,cash on delivery,shipped
+752,Faux Fur Throw Blanket,Home,562.75,11,6190.25,3/23/2021,4243 Rowland Point,cash on delivery,shipped
+753,Falafel Mix,Food - Baking & Cooking,116.91,97,11340.27,10/18/2020,94 Walton Park,cash on delivery,processing
+754,Cocktail Shaker and Mixing Glass Set,Kitchen,906.39,6,5438.34,1/8/2020,161 Buhler Junction,credit card,delivered
+755,Electric Pressure Washer,Home Improvement,372.46,76,28306.96,11/18/2021,77155 Schiller Place,credit card,delivered
+756,Crispy Tofu Bites,Food - Protein,153.54,11,1688.94,6/28/2020,70 Judy Hill,cash on delivery,processing
+757,Adjustable Pet Grooming Table,Pets,732.11,62,45390.82,5/19/2020,0 Moulton Avenue,credit card,shipped
+758,Teriyaki Beef Jerky,Food - Snacks,194.27,39,7576.53,11/8/2021,0 Graceland Trail,cash on delivery,pending
+759,Wireless Wi-Fi Extender,Electronics,615.46,88,54160.48,10/18/2021,5 Haas Circle,PayPal,delivered
+760,Pumpkin Spice Pancake Mix,Food - Breakfast,427.73,41,17536.93,10/9/2022,5 Hermina Alley,cash on delivery,processing
+761,Car Vacuum,Automotive,464.61,55,25553.55,3/5/2021,5058 Hayes Road,cash on delivery,processing
+762,Wireless Earbuds,Audio,782.9,18,14092.2,4/4/2022,4 Red Cloud Crossing,cash on delivery,processing
+763,Indoor Plants,Garden,588.59,14,8240.26,5/20/2021,17 Farwell Terrace,credit card,delivered
+764,Hand Mixer,Kitchen,439.05,43,18879.15,12/5/2020,10 Kennedy Way,cash on delivery,processing
+765,Gaming Mousepad,Gaming,840.09,53,44524.77,1/22/2021,7 Walton Hill,PayPal,pending
+766,Faux Leather Leggings,Clothing - Pants,312.34,9,2811.06,7/9/2022,406 Swallow Crossing,cash on delivery,delivered
+767,Adjustable Yoga Mat Strap,Fitness,400.3,4,1601.2,2/12/2021,352 Veith Street,cash on delivery,processing
+768,Baked Falafel,Food - Vegetarian,301.77,70,21123.9,10/12/2021,813 Dorton Place,PayPal,delivered
+769,Hydration Backpack,Outdoor,5.81,60,348.6,1/3/2021,2 Dunning Pass,credit card,delivered
+770,Deluxe First Aid Kit,Health,917.54,65,59640.1,5/7/2021,1 Hintze Drive,PayPal,shipped
+771,Safety First Aid Kit,Health,658.94,82,54033.08,2/10/2022,1 Warbler Trail,cash on delivery,shipped
+772,Wire Shelving Unit,Home,877.2,98,85965.6,2/11/2020,79325 Comanche Park,cash on delivery,processing
+773,Hummus Trio Pack,Food - Snacks,547.06,70,38294.2,4/3/2020,3 Upham Drive,cash on delivery,shipped
+774,Pumpkin Pancake Mix,Food - Breakfast,138.02,84,11593.68,3/4/2021,91477 Logan Pass,PayPal,shipped
+775,Elegant Maxi Skirt,Clothing - Bottoms,285.48,7,1998.36,10/5/2020,3 Autumn Leaf Street,credit card,delivered
+776,Frozen Mixed Berries,Food - Frozen Foods,735.52,82,60312.64,10/25/2022,722 Manley Court,cash on delivery,processing
+777,Spinach Feta Wraps,Food - Deli,929.72,63,58572.36,10/8/2021,26967 Milwaukee Plaza,cash on delivery,shipped
+778,Blueberry Muffin Mix,Food - Baking,672.55,67,45060.85,9/30/2020,0 Pennsylvania Terrace,credit card,pending
+779,Classic Cheesecake Mix,Food - Desserts,384.66,5,1923.3,1/31/2022,900 Corscot Terrace,PayPal,shipped
+780,Cranberry Orange Oatmeal,Food - Breakfast,858.11,49,42047.39,3/1/2020,933 Chive Avenue,PayPal,pending
+781,Lightweight Travel Backpack,Travel,309.4,41,12685.4,12/28/2021,4 Sugar Plaza,credit card,pending
+782,Hair Dryer,Beauty,265.6,21,5577.6,8/14/2020,5311 Shelley Parkway,cash on delivery,delivered
+783,Sweetened Condensed Milk,Food - Baking Goods,159.26,71,11307.46,9/4/2021,9 Morrow Crossing,cash on delivery,processing
+784,Face Mask Set,Health,641.23,65,41679.95,2/19/2022,911 Lerdahl Drive,PayPal,pending
+785,Vegan Protein Powder,Health,41.64,28,1165.92,1/12/2021,185 Westport Point,credit card,processing
+786,Sparkling Blood Orange Soda,Food - Beverages,826.16,80,66092.8,12/6/2020,7561 Lake View Road,PayPal,pending
+787,Wrap Front Midi Skirt,Clothing - Bottoms,691.06,21,14512.26,5/19/2021,1 Hazelcrest Court,PayPal,pending
+788,Fitness Jump Rope with LCD Counter,Fitness,767.76,73,56046.48,2/4/2022,5 Gulseth Drive,PayPal,shipped
+789,Bird Feeder,Outdoor,32.94,73,2404.62,11/18/2020,97891 Tomscot Avenue,credit card,delivered
+790,Camping Tarp,Outdoor,993.38,70,69536.6,4/24/2021,90 Old Gate Hill,credit card,pending
+791,Sushi Roll Kit,Food - Cooking Kits,740.26,27,19987.02,4/21/2022,0 Bartelt Pass,credit card,delivered
+792,Coconut Almond Granola,Food - Breakfast,427.44,21,8976.24,12/5/2022,3621 Erie Lane,credit card,pending
+793,Smart Doorbell,Smart Home,873.99,88,76911.12,11/30/2022,573 Luster Court,PayPal,pending
+794,Pet Hair Remover,Pets,619.1,85,52623.5,1/29/2020,62 Gerald Crossing,credit card,processing
+795,Vegetable Stock,Food - Cooking Essentials,744.07,72,53573.04,2/7/2020,42636 Melody Center,credit card,processing
+796,Organic Green Apples,Food - Produce,904.59,49,44324.91,3/29/2022,8 Dovetail Circle,credit card,delivered
+797,Sports Water Bottle with Infuser,Fitness,244.31,97,23698.07,1/30/2020,541 Sauthoff Drive,PayPal,shipped
+798,Aged White Cheddar Popcorn,Food - Snacks,512.04,49,25089.96,9/10/2021,45581 Graedel Court,credit card,processing
+799,Garlic Parmesan Wings,Food - Frozen Foods,532.2,42,22352.4,5/13/2021,56905 Weeping Birch Drive,cash on delivery,pending
+800,Classic Bagels,Food - Bakery,148.1,54,7997.4,12/27/2020,4479 Reindahl Alley,cash on delivery,shipped
+801,Herbed Goat Cheese,Food - Cheese,149.43,8,1195.44,11/21/2021,4 Ridgeway Road,credit card,delivered
+802,Adjustable Laptop Desk,Office,358.77,15,5381.55,11/7/2021,63 Blackbird Junction,cash on delivery,shipped
+803,LED Strip Lights,Home,196.16,90,17654.4,6/9/2022,0 Oneill Crossing,PayPal,shipped
+804,Printed Maxi Skirt,Clothing - Skirts,284.97,25,7124.25,1/7/2021,038 Tomscot Terrace,credit card,shipped
+805,Vegetable Stir Fry Mix,Food - Fresh Produce,554.19,84,46551.96,8/14/2021,8 Homewood Avenue,cash on delivery,processing
+806,Fresh Cilantro,Food - Produce,220.92,24,5302.08,11/16/2020,949 Graceland Lane,credit card,processing
+807,Cocktail Shaker Set,Kitchen,508.25,91,46250.75,1/12/2021,911 High Crossing Pass,cash on delivery,processing
+808,Cat Tree,Pets,551.19,31,17086.89,8/25/2022,34345 Badeau Park,cash on delivery,processing
+809,Kids' Science Experiment Kit,Toys,695.23,62,43104.26,4/23/2020,5 Farmco Park,cash on delivery,processing
+810,Insulated Lunch Bag,Kitchen,950.11,97,92160.67,6/10/2021,003 Hermina Trail,cash on delivery,processing
+811,Mixed Nuts,Food - Snacks,607.49,94,57104.06,4/21/2022,7 Daystar Road,credit card,pending
+812,Organic Green Lentils,Food - Grocery,348.74,22,7672.28,11/29/2022,33 Ronald Regan Place,PayPal,processing
+813,Herbed Mushroom Risotto,Food - Prepared Foods,196.0,18,3528.0,9/2/2022,3 Cherokee Lane,credit card,pending
+814,Solar Garden Lights,Outdoor,962.4,43,41383.2,5/26/2021,6 Pennsylvania Plaza,cash on delivery,shipped
+815,Pita Bread,Food - Bakery,557.55,61,34010.55,7/9/2022,4 Tony Parkway,PayPal,processing
+816,Italian Breadsticks,Food - Bakery,672.68,9,6054.12,3/27/2021,2902 Toban Park,PayPal,shipped
+817,Sweet Potato Chips,Food - Snacks,926.33,53,49095.49,12/6/2021,62 Macpherson Place,cash on delivery,pending
+818,Oven Thermometer,Kitchen,200.19,56,11210.64,2/29/2020,167 Arizona Road,credit card,delivered
+819,Garden Tool Set,Garden,625.0,41,25625.0,5/2/2020,7 Ronald Regan Pass,credit card,shipped
+820,Smoky BBQ Jackfruit,Food - Grocery,390.71,40,15628.4,2/16/2022,0460 Hovde Place,PayPal,processing
+821,Almond Butter Crunch Bar,Food - Snacks,152.98,92,14074.16,7/26/2020,09 Lotheville Center,PayPal,delivered
+822,Compact Digital Camera,Photography,924.37,50,46218.5,5/27/2020,6134 Bobwhite Circle,credit card,processing
+823,Kid's Fruit Snacks,Food - Snacks,408.75,54,22072.5,9/14/2020,970 Center Crossing,cash on delivery,pending
+824,Dish Rack,Kitchen,927.39,54,50079.06,1/23/2020,7 Monica Place,PayPal,delivered
+825,Portable Solar Charger,Electronics,146.92,42,6170.64,12/21/2020,07 Arapahoe Pass,cash on delivery,delivered
+826,Dark Chocolate Bars,Food - Snacks,667.59,11,7343.49,11/15/2020,30886 Towne Crossing,cash on delivery,pending
+827,Canned Black Beans,Food - Canned Goods,629.08,97,61020.76,4/14/2020,1 Southridge Park,cash on delivery,pending
+828,Portable Pet Pooper Scooper,Pets,31.35,20,627.0,7/10/2021,741 Shelley Way,PayPal,shipped
+829,Kale & Quinoa Salad Mix,Food - Salads,710.8,71,50466.8,11/11/2021,4 Corscot Way,cash on delivery,delivered
+830,Zucchini Noodles,Food - Vegetables,802.02,62,49725.24,10/13/2022,0 Vermont Road,PayPal,delivered
+831,Portable Pet Bathing Tool,Pets,519.73,70,36381.1,8/8/2020,19597 Starling Court,credit card,pending
+832,Caramel Sauce,Food - Condiments,69.16,15,1037.4,3/27/2020,4 Glacier Hill Pass,cash on delivery,shipped
+833,Classic Bagels,Food - Bakery,524.31,67,35128.77,2/16/2021,6 Main Center,PayPal,shipped
+834,Handheld Garment Steamer,Home,938.47,93,87277.71,6/23/2022,89512 Schurz Plaza,PayPal,pending
+835,Sriracha Honey Glaze,Food - Sauces,13.37,47,628.39,1/30/2020,229 Beilfuss Terrace,PayPal,pending
+836,Lemon Garlic Marinade,Food - Condiments,778.08,59,45906.72,10/5/2022,1862 Loftsgordon Pass,cash on delivery,processing
+837,Savory Quinoa Pudding,Food - Sides,880.2,14,12322.8,4/25/2022,5 Bluejay Way,credit card,delivered
+838,Scent Diffuser,Home,308.38,82,25287.16,2/15/2020,4883 Pankratz Hill,cash on delivery,shipped
+839,Car Sunshade,Automotive,547.77,21,11503.17,5/4/2020,17910 Swallow Park,credit card,shipped
+840,Microwave Popcorn Maker,Kitchen,494.71,92,45513.32,2/21/2021,987 Randy Hill,credit card,shipped
+841,Pumpkin Puree,Food - Canned Goods,514.37,12,6172.44,6/24/2022,48 Bartelt Street,cash on delivery,pending
+842,Chickpea Flour,Food - Baking,166.42,82,13646.44,6/8/2021,018 Mesta Drive,PayPal,delivered
+843,Ribbed Knit Dress,Clothing - Dresses,432.51,88,38060.88,3/27/2022,8043 Swallow Circle,credit card,shipped
+844,Cable Knit Beanie,Clothing - Accessories,734.39,92,67563.88,5/17/2022,8 Chive Street,cash on delivery,pending
+845,Potting Soil,Garden,783.03,49,38368.47,6/23/2021,1 Stoughton Trail,credit card,shipped
+846,Mediterranean Olives,Food - Condiments,304.85,8,2438.8,2/12/2021,1054 Nancy Trail,cash on delivery,shipped
+847,Buttermilk Pancakes,Food - Breakfast,693.45,6,4160.7,10/22/2021,77130 Thierer Avenue,cash on delivery,shipped
+848,Microfiber Cleaning Cloths,Home,435.73,23,10021.79,11/22/2022,009 Glendale Parkway,credit card,shipped
+849,Pumpkin Spice Cookies,Food - Bakery,450.69,47,21182.43,12/13/2020,53122 Haas Pass,credit card,processing
+850,Electric Stir Fry Pan,Kitchen,517.74,4,2070.96,2/17/2020,5136 Havey Trail,credit card,shipped
+851,Organic Baby Spinach,Food - Produce,828.88,68,56363.84,1/13/2022,46 Aberg Trail,cash on delivery,shipped
+852,Chili Con Carne Mix,Food - Spices & Seasonings,352.79,3,1058.37,3/29/2022,77242 Mitchell Court,PayPal,processing
+853,Applewood Smoked Bacon,Food - Meat,305.44,85,25962.4,6/2/2022,3 Toban Point,PayPal,processing
+854,Nutty Quinoa Salad,Food - Salads,862.58,85,73319.3,11/29/2021,8 Dryden Point,cash on delivery,pending
+855,Thai Basil Fried Rice,Food - Frozen,907.01,89,80723.89,3/3/2020,75224 Del Sol Point,PayPal,processing
+856,Portable Electric Fan,Home,503.64,49,24678.36,2/12/2020,7 Monument Court,PayPal,pending
+857,Canned Black Beans,Food - Canned Goods,822.35,100,82235.0,8/10/2022,88 Sunbrook Pass,credit card,pending
+858,Cookbook,Books,812.81,26,21133.06,7/13/2022,81 Oakridge Street,PayPal,delivered
+859,Pistachios,Food - Nuts,657.11,20,13142.2,5/4/2022,47 Loomis Hill,PayPal,shipped
+860,BBQ Sauce,Food - Condiments,376.04,99,37227.96,3/25/2020,8124 Briar Crest Pass,PayPal,delivered
+861,Stainless Steel BBQ Grill Set,Outdoor,441.88,32,14140.16,4/1/2021,471 Hovde Point,PayPal,shipped
+862,3D Night Light,Home,474.22,29,13752.38,9/21/2020,65 Hazelcrest Place,credit card,delivered
+863,Set of Decorative Storage Bins,Home,822.13,65,53438.45,10/22/2022,2 Stone Corner Way,PayPal,pending
+864,Mini Projector,Electronics,272.1,45,12244.5,3/2/2022,2 Ronald Regan Circle,PayPal,processing
+865,Mixed Nuts,Food - Snacks,377.06,23,8672.38,10/9/2020,3516 Cody Pass,cash on delivery,processing
+866,Deep Tissue Massage Gun,Health,554.01,45,24930.45,10/31/2022,6 Graceland Plaza,cash on delivery,shipped
+867,Self-Massaging Pillow,Health,579.75,99,57395.25,5/24/2020,2209 Northwestern Street,credit card,shipped
+868,Chickpeas,Food - Canned Goods,784.57,15,11768.55,11/5/2020,72 Schlimgen Avenue,credit card,pending
+869,Savory Breakfast Sausage,Food - Meats,568.59,68,38664.12,2/25/2022,6 Ronald Regan Lane,credit card,processing
+870,Lemon Lime Sparkling Water,Food - Beverages,691.9,30,20757.0,8/9/2022,05752 Forest Junction,credit card,processing
+871,Spice Rack,Kitchen,939.31,39,36633.09,4/21/2021,1052 Jenna Place,cash on delivery,shipped
+872,Whole Wheat Pasta,Food - Grains,934.03,32,29888.96,12/27/2020,35 Bayside Pass,cash on delivery,shipped
+873,Maple Almond Butter,Food - Nut Butters,477.68,24,11464.32,9/29/2022,37151 Melvin Street,credit card,processing
+874,Smart Plant Monitor,Garden,311.82,73,22762.86,11/14/2022,22946 Northport Court,cash on delivery,delivered
+875,Balsamic Fig Dressing,Food - Condiments,756.98,20,15139.6,3/8/2020,27218 Rusk Point,PayPal,pending
+876,Wrap Jumpsuit,Clothing - Jumpsuits,528.57,10,5285.7,7/8/2020,68 Roth Parkway,credit card,shipped
+877,Pineapple Coconut Yogurt,Food - Dairy,929.16,22,20441.52,3/24/2021,48 Canary Parkway,PayPal,pending
+878,Multi-Layer Food Steamer,Kitchen,612.96,80,49036.8,7/20/2022,9 Magdeline Parkway,credit card,processing
+879,Tea Set with Infuser,Kitchen,770.7,32,24662.4,8/8/2022,45361 Washington Lane,PayPal,shipped
+880,Herbed Mushroom Risotto,Food - Prepared Foods,301.38,66,19891.08,2/2/2020,9 Crescent Oaks Alley,cash on delivery,processing
+881,Apple Cinnamon Instant Oatmeal,Food - Cereal,643.93,46,29620.78,4/9/2022,9 Ryan Place,cash on delivery,pending
+882,LED Christmas Tree Lights,Home,766.17,24,18388.08,12/10/2021,27 Arrowood Drive,PayPal,delivered
+883,Spinach and Cheese Quiche,Food - Prepared Meals,749.56,63,47222.28,8/31/2020,1502 Spenser Junction,PayPal,processing
+884,White Rice,Food - Grains,270.24,61,16484.64,5/16/2021,1 Maryland Junction,credit card,shipped
+885,Video Camera,Electronics,514.79,67,34490.93,2/1/2020,5511 Butternut Junction,PayPal,processing
+886,Peanut Butter Chocolate Chip Bars,Food - Snacks,479.97,94,45117.18,8/23/2021,323 Norway Maple Trail,credit card,shipped
+887,Wooden Children's Play Kitchen,Toys,112.45,20,2249.0,1/17/2021,72 Mcbride Road,credit card,pending
+888,Honey BBQ Ribs,Food - Meat,931.0,5,4655.0,4/26/2021,34256 Rusk Crossing,cash on delivery,shipped
+889,Face Mask Set,Health,119.01,85,10115.85,10/30/2021,97 Karstens Hill,PayPal,delivered
+890,Cotton Tote Bag Set,Accessories,64.15,1,64.15,5/19/2021,304 Muir Park,cash on delivery,pending
+891,White Rice,Food - Grains,308.24,10,3082.4,6/27/2021,3260 Sachs Junction,credit card,delivered
+892,Saffron Rice Mix,Food - Grains,138.49,55,7616.95,5/20/2021,7 Luster Lane,PayPal,pending
+893,Eco-Friendly Beeswax Wraps,Kitchen,786.54,65,51125.1,5/26/2022,910 Becker Terrace,cash on delivery,processing
+894,Classic Black Trousers,Clothing - Pants,59.38,59,3503.42,9/5/2020,13 Loeprich Lane,PayPal,pending
+895,Basketball,Sports,593.25,19,11271.75,1/9/2022,317 Blue Bill Park Point,PayPal,shipped
+896,Silicone Baking Cups,Kitchen,863.16,36,31073.76,7/14/2020,356 Logan Hill,cash on delivery,delivered
+897,Pet Hair Vacuum Cleaner Attachment,Pets,656.64,26,17072.64,8/20/2020,14211 Florence Alley,PayPal,processing
+898,Almond Coconut Granola,Food - Breakfast Foods,757.3,89,67399.7,2/24/2021,578 Browning Crossing,PayPal,processing
+899,V-Neck Sweater,Clothing - Tops,813.97,19,15465.43,8/23/2022,664 Main Court,PayPal,pending
+900,LED Strip Light Kit,Home,607.08,87,52815.96,1/20/2020,22064 Fairfield Junction,cash on delivery,delivered
+901,Ice Pack,Health,73.04,51,3725.04,10/1/2021,6655 Golf View Junction,cash on delivery,delivered
+902,Honey Roasted Peanuts,Food - Snacks,60.78,55,3342.9,4/15/2022,15 Cambridge Court,PayPal,delivered
+903,Italian Meatballs,Food - Meat,769.43,57,43857.51,11/11/2022,320 Atwood Alley,credit card,shipped
+904,Basil Lemonade,Food - Beverages,669.62,91,60935.42,3/4/2020,213 Morningstar Parkway,credit card,delivered
+905,Comfortable Bed Pillow,Home,420.49,66,27752.34,3/28/2022,6108 Bobwhite Court,credit card,processing
+906,Paint By Numbers Kit,Art Supplies,878.19,42,36883.98,7/13/2021,2074 Memorial Avenue,credit card,delivered
+907,Bluetooth Shower Speaker,Audio,618.31,43,26587.33,8/16/2020,3907 Kensington Terrace,credit card,pending
+908,Dual Function Electric Skillet,Kitchen,407.02,78,31747.56,3/15/2020,31157 Brickson Park Way,credit card,shipped
+909,Inspirational Wall Art,Home,724.59,37,26809.83,9/10/2020,635 Chinook Road,credit card,processing
+910,Water-Resistant Bluetooth Speaker,Audio,913.5,41,37453.5,6/18/2021,91779 Lyons Circle,cash on delivery,pending
+911,Fitness Tracker,Fitness,874.64,25,21866.0,1/16/2020,7445 1st Park,cash on delivery,pending
+912,Home Office Chair,Furniture,480.89,29,13945.81,12/9/2022,7165 New Castle Point,PayPal,shipped
+913,Almond Butter Granola Bars,Food - Snacks,635.52,62,39402.24,6/6/2021,6 Oak Valley Place,credit card,shipped
+914,Adjustable Laptop Desk,Office,769.43,29,22313.47,6/15/2020,230 Myrtle Drive,credit card,processing
+915,Watercolor Brush Pens,Art Supplies,933.23,24,22397.52,7/1/2022,395 Steensland Street,cash on delivery,processing
+916,Rechargeable Battery Organizer,Home,132.93,30,3987.9,12/24/2020,56122 Steensland Road,cash on delivery,shipped
+917,Athletic Compression Tights,Clothing - Activewear,989.75,84,83139.0,1/7/2022,91705 Delladonna Circle,cash on delivery,delivered
+918,Apple Cinnamon Instant Oatmeal,Food - Cereal,193.39,28,5414.92,3/13/2020,30 Ridgeview Court,credit card,shipped
+919,Portable Air Purifier,Health,72.93,35,2552.55,6/5/2021,5990 Westridge Lane,credit card,shipped
+920,Self-Adhesive Wallpaper,Home,124.68,2,249.36,3/20/2021,06 Lien Trail,credit card,shipped
+921,Wireless Earbuds Case,Accessories,243.38,45,10952.1,1/25/2020,48140 Hanson Way,credit card,delivered
+922,Portable Massage Table,Health,101.87,64,6519.68,4/29/2020,019 Superior Hill,cash on delivery,processing
+923,Spicy Chicken Wings,Food - Meat,225.27,6,1351.62,9/4/2022,7630 Myrtle Plaza,cash on delivery,shipped
+924,Smartphone Photography Tripod,Electronics,987.17,42,41461.14,4/6/2020,10 Gateway Trail,credit card,pending
+925,Tattoo Kit,Art Supplies,763.12,23,17551.76,10/20/2022,988 Esker Plaza,cash on delivery,processing
+926,Electric Hot Water Dispenser,Kitchen,225.41,9,2028.69,5/30/2020,0460 Londonderry Lane,PayPal,shipped
+927,Spaghetti Squash,Food - Produce,481.64,20,9632.8,9/14/2021,3645 Knutson Court,cash on delivery,processing
+928,Eggs (dozen),Food - Dairy,58.63,45,2638.35,4/21/2020,1 Trailsway Drive,cash on delivery,pending
+929,Teriyaki Tofu Stir-Fry,Food - Prepared Meals,220.07,60,13204.2,9/29/2021,0393 Magdeline Terrace,credit card,pending
+930,Faux Fur Throw Blanket,Home,852.65,50,42632.5,9/19/2022,4 Northridge Lane,cash on delivery,delivered
+931,Peanut Butter Pretzel Nuggets,Food - Snacks,938.54,7,6569.78,10/13/2021,89 Dorton Place,credit card,pending
+932,Strawberry Banana Smoothie Pack,Food - Frozen,595.24,56,33333.44,8/1/2022,45 Farmco Way,PayPal,pending
+933,Hand Mixer,Kitchen,795.61,95,75582.95,1/14/2021,2233 Mitchell Terrace,PayPal,delivered
+934,Ginger Turmeric Shots,Food - Beverages,803.77,25,20094.25,6/27/2020,37480 Cascade Park,cash on delivery,delivered
+935,Sparkling Blood Orange Soda,Food - Beverages,731.47,16,11703.52,2/19/2021,93507 Maple Hill,cash on delivery,processing
+936,Pet Camera with Treat Dispenser,Pets,209.14,45,9411.3,3/13/2020,29547 Annamark Alley,credit card,shipped
+937,Cabbage Slaw Mix,Food - Vegetables,498.89,17,8481.13,7/29/2022,5588 Orin Hill,cash on delivery,processing
+938,Sweet Chili Thai Sauce,Food - Condiments,460.17,44,20247.48,2/19/2020,65200 Graedel Way,PayPal,processing
+939,Kids' Building Blocks,Toys,304.05,78,23715.9,4/20/2021,425 Weeping Birch Crossing,cash on delivery,delivered
+940,Walnut Halves,Food - Nuts,422.97,17,7190.49,2/4/2021,6 Oxford Street,PayPal,shipped
+941,Adjustable Pet Grooming Table,Pets,135.87,94,12771.78,9/17/2020,767 Killdeer Lane,cash on delivery,delivered
+942,Black Olives,Food - Canned Goods,155.3,60,9318.0,1/1/2020,1 Oriole Point,credit card,delivered
+943,Hummus,Food - Snacks,411.13,45,18500.85,6/22/2022,45 Carpenter Way,credit card,processing
+944,Trail Mix (Deluxe),Food - Snacks,396.28,97,38439.16,9/13/2020,91 Welch Drive,cash on delivery,processing
+945,Robot Vacuum Cleaner,Home Appliances,506.66,88,44586.08,7/12/2020,2543 Grayhawk Lane,credit card,shipped
+946,Almond Joy Bars,Food - Confectionery,25.21,28,705.88,2/18/2021,054 Dwight Circle,cash on delivery,shipped
+947,Honey mustard chicken tenders,Food - Meat,218.44,27,5897.88,8/29/2022,19 Loftsgordon Parkway,PayPal,delivered
+948,Gardening Gloves,Garden,695.11,87,60474.57,2/9/2021,971 Pepper Wood Road,PayPal,delivered
+949,Peanut Butter Banana Smoothie Mix,Food - Beverages,809.0,18,14562.0,3/2/2020,97 Badeau Drive,cash on delivery,processing
+950,High-Speed Hand Blender,Kitchen,503.42,89,44804.38,10/5/2021,27958 Surrey Street,cash on delivery,shipped
+951,Smart LED Desk Lamp,Office,294.94,94,27724.36,8/29/2022,4131 Pleasure Trail,cash on delivery,delivered
+952,Stainless Steel Cutlery Set,Kitchen,776.82,65,50493.3,10/4/2022,0745 Morrow Hill,credit card,delivered
+953,Handmade Leather Journal,Books,609.68,68,41458.24,9/26/2022,70769 Ridgeway Trail,PayPal,delivered
+954,Cream Cheese,Food - Dairy,515.29,1,515.29,9/24/2021,516 Vidon Center,PayPal,pending
+955,Miso Soup Starter,Food - Soups,20.37,47,957.39,11/22/2020,897 Logan Park,credit card,shipped
+956,Chilli Lime Corn on the Cob,Food - Vegetable,158.93,92,14621.56,8/20/2021,58 Northridge Trail,credit card,processing
+957,Dark Chocolate Covered Raisins,Food - Snacks,959.34,57,54682.38,8/28/2020,8 Troy Circle,PayPal,pending
+958,Belted Trench Coat,Clothing - Outerwear,448.75,77,34553.75,3/23/2021,56 Ramsey Road,cash on delivery,processing
+959,Stylish Wireless Earbuds,Audio,503.67,10,5036.7,8/19/2021,31 Acker Place,cash on delivery,shipped
+960,Coconut Water,Food - Beverages,912.09,70,63846.3,5/26/2022,8 Kensington Way,cash on delivery,shipped
+961,Elderberry Syrup Kit,Health,924.14,26,24027.64,7/31/2021,9738 Manitowish Trail,PayPal,delivered
+962,Lentil Vegetable Curry,Food - Prepared Meals,286.24,79,22612.96,1/31/2021,6234 Cody Crossing,PayPal,shipped
+963,Sweet Potatoes (organic),Food - Vegetables,906.03,90,81542.7,4/20/2020,7498 Valley Edge Avenue,credit card,pending
+964,Inflatable Party Cooler,Outdoor,775.44,50,38772.0,8/1/2021,9691 Buell Point,credit card,pending
+965,Vegetable Stock,Food - Cooking Essentials,72.22,19,1372.18,12/9/2020,51 Anthes Street,cash on delivery,processing
+966,Vegan Tacos,Food - Frozen Foods,423.18,90,38086.2,4/5/2021,764 Loeprich Street,cash on delivery,processing
+967,Smart LED Desk Lamp,Office,752.11,4,3008.44,11/28/2020,12697 Ilene Plaza,credit card,delivered
+968,Energy Bites,Food - Snacks,748.87,9,6739.83,1/5/2022,107 Dawn Circle,credit card,processing
+969,Vegan Mayonnaise,Food - Condiments,156.2,34,5310.8,8/26/2021,286 Bayside Drive,PayPal,shipped
+970,Ricotta Cheese,Food - Dairy,703.24,51,35865.24,2/19/2020,0 Southridge Park,cash on delivery,processing
+971,Heated Throw Blanket,Home,28.14,11,309.54,4/30/2021,77671 Everett Circle,credit card,shipped
+972,Diced Tomatoes (canned),Food - Canned Goods,627.82,68,42691.76,11/17/2022,53540 Jackson Street,PayPal,shipped
+973,Organic Black Rice,Food - Grains,771.78,35,27012.3,10/20/2021,6 7th Pass,cash on delivery,delivered
+974,Electric Pressure Cooker,Kitchen,650.81,79,51413.99,11/13/2020,1549 Bartelt Plaza,PayPal,shipped
+975,Sweet Corn,Food - Canned Goods,603.34,79,47663.86,5/12/2020,72 Old Gate Drive,cash on delivery,shipped
+976,Sriracha Honey Glaze,Food - Sauces,269.02,14,3766.28,12/7/2021,65412 Farragut Place,PayPal,shipped
+977,Travel Eye Mask with Ear Plugs,Travel,513.77,2,1027.54,1/13/2022,66742 Oak Plaza,PayPal,delivered
+978,Oven-Baked Cheese Crisps,Food - Snacks,306.92,32,9821.44,9/30/2021,1995 Butternut Point,credit card,delivered
+979,Instant Pot,Kitchen,820.36,16,13125.76,8/6/2022,8235 Emmet Terrace,credit card,pending
+980,Vegan Chickpea Salad,Food - Prepared Foods,738.78,95,70184.1,10/4/2021,4388 Dunning Road,credit card,processing
+981,Sporty Leggings,Clothing - Activewear,420.96,37,15575.52,10/30/2021,9531 Graedel Alley,PayPal,processing
+982,Multi-Tool,Outdoor,485.76,73,35460.48,3/28/2020,8022 Nova Circle,cash on delivery,processing
+983,Quinoa and Kale Salad Kit,Food - Salads,357.9,93,33284.7,9/24/2022,3848 Fair Oaks Drive,cash on delivery,delivered
+984,Sliced Bell Peppers,Food - Fresh Produce,841.94,83,69881.02,3/18/2020,235 Donald Parkway,credit card,delivered
+985,Dill Pickle Chips,Food - Condiments,883.16,89,78601.24,6/5/2021,45751 Crescent Oaks Junction,PayPal,pending
+986,Pet Tracking Collar,Pets,922.55,59,54430.45,4/20/2022,1970 Birchwood Street,cash on delivery,pending
+987,Laptop Sleeve,Accessories,702.27,53,37220.31,1/8/2021,58119 Hanson Junction,cash on delivery,processing
+988,Compact Electric Kettle,Kitchen,451.95,38,17174.1,7/8/2021,15 Nevada Road,PayPal,delivered
+989,Garlic and Herb Cream Cheese,Food - Dairy,31.5,25,787.5,12/20/2020,78 Oxford Plaza,PayPal,shipped
+990,Heavy-Duty Utility Tote,Accessories,122.15,38,4641.7,8/20/2020,165 Debra Terrace,cash on delivery,shipped
+991,Smartphone Camera Lens Kit,Photography,989.99,91,90089.09,10/29/2020,2255 Ohio Alley,cash on delivery,pending
+992,Chicken Broth,Food - Canned Goods,628.97,93,58494.21,12/27/2021,9 Cody Circle,PayPal,pending
+993,Vegetarian Sausage Links,Food - Meat Substitutes,194.94,95,18519.3,8/6/2020,900 Grover Lane,credit card,shipped
+994,Whole Grain Hamburger Buns,Food - Bakery,797.89,9,7181.01,12/28/2020,065 Prairieview Drive,cash on delivery,delivered
+995,Pesto Pasta Sauce,Food - Sauces,300.98,7,2106.86,4/13/2020,2 Ilene Street,cash on delivery,shipped
+996,Couscous Mix,Food - Grains,744.06,29,21577.74,5/6/2022,75 Roth Center,cash on delivery,pending
+997,Sliced Olives,Food - Condiments,479.85,94,45105.9,1/8/2022,89 Ronald Regan Circle,PayPal,pending
+998,Ground Turkey,Food - Meat,138.39,8,1107.12,11/12/2021,5952 Weeping Birch Center,credit card,delivered
+999,Paprika,Food - Spices,903.64,50,45182.0,9/15/2020,0776 Esker Crossing,credit card,processing
+1000,Bicycle Repair Kit,Outdoor,488.23,80,39058.4,1/16/2021,80 Sauthoff Crossing,credit card,shipped
