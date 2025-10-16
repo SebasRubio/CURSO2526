@@ -1,0 +1,1001 @@
+producto,categoria,subcategoria,precio,cantidad_vendida,fecha_venta,hora_venta,cliente,direccion_entrega,metodo_pago
+Suede Ankle Booties,Clothing - Footwear,Boots,450.34,658,4/23/2022,12:38 AM,Barbi Gisburn,93546 Vahlen Plaza,Transferencia bancaria
+Cauliflower Crust Pizza,Food - Freezer,Frozen Meals,133.12,101,11/25/2022,1:03 PM,Ernesto Stollenberg,5933 Montana Center,Tarjeta de crédito
+Colorful Post-It Notes Set,Office,Office Supplies,412.48,723,9/5/2022,4:00 AM,Esta Nerney,1950 Ohio Drive,Efectivo
+Coconut Bowls Set,Kitchen,Dinnerware,747.49,775,6/22/2022,9:20 AM,Birdie Urlich,5 Bellgrove Street,Tarjeta de crédito
+Electric Griddle with Lid,Kitchen,Cooking Appliances,443.22,927,7/13/2022,11:20 AM,Duke Tillard,669 Annamark Junction,Tarjeta de crédito
+Incense Holder,Home,Decorative Wall Art & Accessories,149.86,311,4/17/2022,1:29 AM,Lucius Chartman,921 Grover Plaza,Transferencia bancaria
+Classic Cheeseburger Mix,Food - Meats,,356.39,140,2/26/2022,6:27 AM,Becca De Paepe,140 Stuart Park,Tarjeta de crédito
+Handheld Vacuum,Home Appliances,Cleaning Appliances,928.32,638,11/21/2022,3:37 PM,Dur English,58 Caliangt Point,Transferencia bancaria
+Floral Summer Dress,Clothing - Dresses,Casual Dresses,624.12,9,7/15/2022,11:53 AM,Carmel Lamputt,20472 Morningstar Trail,Tarjeta de crédito
+Gardening Kneeler and Seat,Garden,Garden Tools,760.28,970,9/13/2022,4:29 AM,Rhett Cotherill,6 Moland Crossing,Transferencia bancaria
+Key Finder,Accessories,Tech Accessories,949.25,,2/20/2022,3:41 PM,Cinderella Pirazzi,5 Bowman Park,Transferencia bancaria
+Brown Rice,Food - Grains,Whole Grains,354.26,1000,4/20/2022,11:32 PM,Marylin MacAree,5 Eagle Crest Avenue,Tarjeta de crédito
+Tahini,Food - Condiments,Nut Butters,28.74,213,1/10/2022,3:36 PM,Lancelot Fearnley,548 Myrtle Road,Efectivo
+Mini Cordless Vacuum Cleaner,Home Appliances,Floor Care Appliances,722.71,709,10/18/2022,5:28 PM,Carlie McNee,6 Bunker Hill Point,Tarjeta de crédito
+Artisan Cornbread Mix,Food - Baking,Mixes,986.78,955,1/21/2022,5:00 PM,Dwight Bradbrook,02498 Swallow Crossing,Efectivo
+Smart Air Purifier,Home,Air Quality & Purification,71.49,604,4/6/2022,1:43 PM,Julio Tubb,1087 Lakewood Drive,Tarjeta de crédito
+Peanut Butter Chocolate Clusters,Food - Desserts,Chocolate Desserts,428.6,,9/22/2022,5:06 PM,Meaghan Imorts,541 Dunning Terrace,Efectivo
+Electric Toothbrush Holder,Health,,312.24,884,4/8/2022,3:10 AM,Demetre Newlove,36 Ryan Center,Tarjeta de crédito
+Stylish Wireless Earbuds,Audio,Wireless Audio Accessories,938.99,866,4/13/2022,11:33 AM,Stu Hucke,9 Ludington Way,Transferencia bancaria
+Sriracha Chili Sauce,Food - Condiments,Hot Sauces,899.49,939,10/14/2022,10:17 AM,Marice Collete,636 Loeprich Court,Transferencia bancaria
+Spicy Chicken Wings,Food - Meat,Poultry,850.5,364,10/14/2022,6:02 PM,Jerrine Benwell,17 Anzinger Court,Transferencia bancaria
+Pet Water Fountain,Pets,Pet Supplies,753.17,856,3/26/2022,6:16 AM,Zane Quenell,47 Gina Junction,Transferencia bancaria
+Maple Breakfast Sausage,Food - Meat,Processed Meats,100.82,937,3/19/2022,12:16 PM,Ludovico Batrim,542 Eastlawn Terrace,Tarjeta de crédito
+Juice Extractor,Kitchen,Blenders & Juicers,677.73,708,3/30/2022,3:43 AM,Avie Burkitt,37 Schurz Trail,Transferencia bancaria
+Fitness Tracker Watch,Wearable Tech,Smartwatches,238.5,802,10/20/2022,12:28 AM,Ely Wilkowski,6766 Linden Terrace,Efectivo
+Jump Rope with Counter,Fitness,Cardio Equipment,473.52,496,7/31/2022,1:05 AM,Obadias Coveny,212 Warner Way,Tarjeta de crédito
+Organic Coconut Flakes,Food - Baking,Baking Ingredients,998.03,309,2/23/2022,1:13 AM,Katerina Romain,4072 Commercial Point,Transferencia bancaria
+Rolling Cooler,Outdoor,,800.32,242,8/19/2022,6:45 PM,Marlee Talton,7 Cherokee Parkway,Efectivo
+Cable Knit Cardigan,Clothing - Outerwear,Knitwear,284.06,521,3/27/2022,4:46 AM,Anthony Konig,4 Eagle Crest Road,Tarjeta de crédito
+Organic Black Bean Burger,Food - Frozen Foods,Frozen Vegan Meals,923.32,997,7/8/2022,3:26 PM,Douglas Sanham,472 Kipling Lane,Tarjeta de crédito
+Buffalo Sauce,,Spicy Sauces,228.35,1,2/4/2022,7:19 PM,Clevey Harrowsmith,9407 Mitchell Road,Tarjeta de crédito
+Chickpea Salad,Food - Prepared Foods,Salads,175.03,770,1/1/2022,11:23 PM,Florencia Pauletto,0114 Mitchell Junction,Tarjeta de crédito
+Stainless Steel Water Bottle,Fitness,Hydration Gear,626.83,276,5/28/2022,5:39 AM,Barb Mungane,8819 Norway Maple Avenue,Efectivo
+Honey mustard chicken tenders,Food - Meat,Prepared Poultry,298.51,702,9/8/2022,9:55 PM,Noami Rossin,00 Melody Hill,Transferencia bancaria
+Sturdy Bookends,Office,Office Accessories,391.36,550,12/11/2022,5:38 PM,Kipper Hurndall,56 Oxford Parkway,Transferencia bancaria
+Baking Soda,Food - Baking,Baking Ingredients,761.25,257,3/30/2022,6:30 PM,Dolly Joubert,402 Lake View Road,Efectivo
+Coconut Granola,Food - Snacks,Healthy Snacks,575.41,218,11/12/2022,12:57 AM,Haze Joney,0 Dwight Drive,Transferencia bancaria
+Oven Thermometer,Kitchen,Cooking Tools & Utensils,992.77,777,9/10/2022,4:38 AM,Belva Bathurst,2532 Armistice Parkway,Transferencia bancaria
+Chocolate Mint Protein Shake,Food - Beverages,Health Drinks,708.96,2,12/9/2022,2:17 PM,Lynea Highman,565 Jenna Plaza,Tarjeta de crédito
+Digital Thermostat,Home,Smart Home & Security,196.14,767,7/16/2022,2:46 PM,Saunders Smart,3131 Ronald Regan Park,Transferencia bancaria
+Luxury Bath Salts,Beauty,Bath & Body,615.58,545,3/6/2022,1:15 PM,Astrix Josey,745 Service Way,Efectivo
+Kids' Gardening Kit,,,872.06,394,7/14/2022,6:31 AM,Kellina Crinidge,53781 Algoma Hill,Efectivo
+Cold Brew Coffee Maker,Kitchen,Coffee Equipment,813.29,687,3/1/2022,1:12 PM,Joela Dryden,02659 Bluejay Pass,Efectivo
+Wooden Children's Play Kitchen,,Pretend Play Toys,438.51,273,1/20/2022,1:41 PM,Ardeen Haisell,295 Golf Course Crossing,Transferencia bancaria
+Stylish Wireless Earbuds,,Wireless Audio Accessories,264.01,912,10/19/2022,11:02 AM,Rheba Hubach,21540 High Crossing Hill,Efectivo
+Glass Food Containers,Kitchen,Food Storage Solutions,657.38,517,9/22/2022,7:14 AM,Eydie McAulay,4 Amoth Parkway,Tarjeta de crédito
+Sunflower Seeds,Food - Nuts,Seeds & Nuts,614.24,19,1/17/2022,2:27 PM,Ophelie Pankhurst.,4105 Granby Point,Tarjeta de crédito
+Magnet Travel Fridge Magnets,Accessories,Travel Souvenirs,30.04,725,6/26/2022,11:00 AM,Arlen O'Halleghane,2136 Claremont Street,Tarjeta de crédito
+Honey BBQ Riblets,Food - Meat,Barbecue & Grilled Meats,651.52,148,5/31/2022,2:51 PM,Sarene Wahlberg,608 Dahle Way,Transferencia bancaria
+Foot Spa Bath Massager,Health,Personal Care & Grooming,140.29,93,7/31/2022,9:18 PM,Karlens Broderick,21571 Maryland Hill,Transferencia bancaria
+Wall Decals for Kids,Home,Home Decor,487.78,480,7/16/2022,9:05 PM,Selina Bedow,542 Bay Center,Efectivo
+Herb Garlic Butter,Food - Condiments,Herbal Butters,475.58,876,1/17/2022,3:30 AM,Querida Keasley,12 Meadow Valley Junction,Transferencia bancaria
+Cooking Utensil Set,Kitchen,Cooking Tools & Utensils,621.56,73,12/18/2022,9:00 AM,Lindy Wasling,71 8th Way,Efectivo
+Dark Chocolate Covered Raisins,Food - Snacks,Chocolate Snacks,102.27,343,6/12/2022,7:30 AM,Nikolaos Overall,596 Center Street,Tarjeta de crédito
+Board Game,Toys,,23.41,976,10/10/2022,3:53 AM,Herculie Lindl,073 Schiller Pass,Transferencia bancaria
+Mini Projector for Smartphones,,Portable Projectors,249.67,939,12/21/2022,10:01 PM,Bobina Rigate,4 Daystar Circle,Efectivo
+Vegetable Lentil Soup,Food - Canned Goods,Soups & Broths,337.4,671,5/16/2022,10:46 AM,Jilly Strode,4121 Debs Trail,Tarjeta de crédito
+Vegetable Quinoa Bowl,Food - Frozen Meals,Frozen Grain Bowls,178.62,,9/12/2022,6:12 AM,Margy Lasty,93152 Canary Trail,Tarjeta de crédito
+Bamboo Charcoal Air Purifier Bags,Home,Air Quality & Purification,43.04,393,4/12/2022,8:12 AM,Aldis Antoons,8 Village Green Terrace,Transferencia bancaria
+Avocado Oil Mayo,Food - Condiments,Dips & Spreads,909.5,257,7/24/2022,1:48 AM,Nessa Sevior,1310 John Wall Lane,Tarjeta de crédito
+Wooden Toy Train Set,Toys,Educational Toys,869.97,808,3/19/2022,9:41 PM,Paige Jaze,734 Northview Way,Tarjeta de crédito
+Chicken Sausage,Food - Meat,Poultry,21.31,74,5/4/2022,11:55 PM,Goldie Clarey,7859 Armistice Alley,Transferencia bancaria
+Puzzle Mat,,,919.97,941,11/10/2022,3:10 PM,Tedmund Busen,708 Aberg Pass,Efectivo
+Board Game,Toys,Tabletop Games,686.94,608,3/30/2022,6:21 AM,Nonna Kupka,108 Laurel Alley,Efectivo
+Mini Indoor Hydroponic Garden,Garden,Indoor Gardening Supplies,846.77,934,7/4/2022,3:43 AM,Daphna Marcus,621 Iowa Pass,Tarjeta de crédito
+Mini Food Processor,Kitchen,Food Preparation Tools,971.87,223,6/30/2022,3:54 AM,Hortense Pickersail,317 Pawling Parkway,Tarjeta de crédito
+Kitchen Knife Sharpening System,Kitchen,Kitchen Gadgets,71.31,895,2/26/2022,9:17 PM,Debee Isakovic,35 Ludington Way,Transferencia bancaria
+Pet Nail Clipper,Pets,Grooming Supplies,562.93,866,1/30/2022,6:45 PM,Jerrie Bonniface,3 Jackson Place,Transferencia bancaria
+Pistachio Ice Cream,Food - Frozen Desserts,Gourmet Ice Cream,548.96,143,4/19/2022,10:25 PM,Darin Cayton,1 Havey Lane,Efectivo
+Basil Lemonade,Food - Beverages,Herbal Beverages,349.21,684,10/21/2022,9:59 AM,Florina Joutapaitis,645 Eastwood Point,Transferencia bancaria
+Coffee Capsule Dispenser,Kitchen,Coffee Accessories,771.48,,4/24/2022,7:06 AM,Sascha Hallan,2215 Monterey Hill,Efectivo
+Sooji (Semolina),,Baking Ingredients,399.86,691,4/13/2022,4:06 AM,Cord Ingram,32324 Barby Road,Efectivo
+Watercolor Brush Pens,Art Supplies,,553.17,585,3/31/2022,4:32 AM,Mindy Aleveque,36780 Acker Road,Tarjeta de crédito
+Smoked Gouda Cheese,,Cheese,610.0,574,7/16/2022,1:52 AM,Raimondo Uzzell,13 Sage Terrace,Efectivo
+Fried Rice,Food - Frozen Foods,Frozen Entrees,531.14,707,12/23/2022,7:45 AM,Weston Davenhill,1685 Killdeer Pass,Efectivo
+Pepper Jack Cheese Sticks,Food - Snacks,Savory Snacks,945.72,102,8/16/2022,8:11 PM,Lilian Dunkerk,6995 Eastwood Avenue,Efectivo
+LED Strip Lights,Home,Lighting & Lamps,63.88,399,6/23/2022,7:10 AM,Karrah Yearnsley,11690 Holy Cross Hill,Tarjeta de crédito
+Classic Black Dress,Clothing - Dresses,Evening Wear,826.71,432,5/3/2022,12:39 AM,Frederique Jeandon,486 Katie Alley,Transferencia bancaria
+Biodegradable Phone Case,Accessories,Eco-Friendly Accessories,829.86,738,9/16/2022,5:36 PM,Tabby Pounds,282 Rusk Center,Transferencia bancaria
+Ginger Snaps,Food - Confectionery,Cookies & Biscuits,617.93,453,1/15/2022,5:54 AM,Phillip Mulvenna,113 Superior Point,Tarjeta de crédito
+Kettle BBQ Grill,Outdoor,Grills and Smokers,73.87,910,7/1/2022,1:22 PM,,468 Manley Terrace,Transferencia bancaria
+Honey Sriracha Chicken Bites,Food - Frozen Foods,Frozen Appetizers,199.84,255,1/24/2022,11:18 PM,Jakie Harral,078 Brickson Park Point,Efectivo
+Yoga Mat,Fitness,Yoga Equipment,520.53,360,4/26/2022,10:19 PM,,0934 Marquette Parkway,Efectivo
+Wireless Charging Pad,Accessories,Mobile Accessories,651.18,153,7/11/2022,8:50 AM,Romona Kemetz,452 Toban Hill,Efectivo
+Ice Cream Scoop,Kitchen,Kitchen Gadgets,112.43,759,3/21/2022,9:42 PM,Darda Mc Gee,806 Grover Way,Efectivo
+Fresh Lemons,Food - Fresh Produce,Fruits,900.06,489,10/18/2022,3:17 PM,Bessy Keith,923 Forest Parkway,Tarjeta de crédito
+Juice Extractor,Kitchen,Blenders & Juicers,321.08,487,7/25/2022,8:50 AM,Clari Jenton,6731 Bluejay Trail,Efectivo
+Vegan Caesar Dressing,Food - Condiments,Dressing,239.45,526,12/14/2022,12:29 AM,Liane Baddam,231 Russell Avenue,Transferencia bancaria
+Organic Baby Spinach,Food - Produce,Fresh Vegetables,241.48,201,1/27/2022,9:15 PM,Crissy Igonet,62 Schlimgen Terrace,Efectivo
+Ginger Tea,Food - Beverages,Herbal Tea,152.0,922,5/3/2022,4:05 AM,Curtis Baillie,84 Welch Lane,Tarjeta de crédito
+Kids' Crafting Station,,Creative Arts & Crafts,906.38,412,3/15/2022,12:05 PM,Prissie Allewell,9201 Goodland Parkway,Tarjeta de crédito
+Sweet Potato Noodles,Food - Pasta,Specialty Pasta,931.62,,9/15/2022,11:35 AM,Flo Maling,74635 Truax Trail,Efectivo
+Yoga Wheel,Fitness,Yoga Equipment,536.09,435,8/24/2022,2:40 PM,Max Vassano,23261 Scott Street,Transferencia bancaria
+Compact Electric Kettle,Kitchen,Small Appliances,471.3,,9/29/2022,9:13 PM,Yolanda Rookledge,37 Kedzie Drive,Efectivo
+Portable Charger with Solar Panel,Electronics,Solar Power Accessories,350.92,996,4/17/2022,5:45 PM,Katalin Dyment,2558 Brickson Park Circle,Transferencia bancaria
+Non-Stick Grill Mat,Outdoor,,603.91,855,12/24/2022,12:33 AM,Bonnibelle Ouldred,9943 Clarendon Point,Transferencia bancaria
+Granulated Sugar,Food - Baking,Baking Ingredients,149.02,310,3/5/2022,6:24 AM,Leslie Heyball,2 Melody Circle,Transferencia bancaria
+LED Flashlight,Outdoor,,570.81,356,5/4/2022,6:22 PM,Florinda Reinhard,854 Lunder Alley,Tarjeta de crédito
+Cacao Nibs,Food - Baking,Baking Ingredients,94.31,842,3/5/2022,9:27 PM,Eadmund Lorinez,610 Sugar Park,Transferencia bancaria
+Honey Sesame Cashews,Food - Snacks,Dried Fruits,252.04,69,11/24/2022,9:13 PM,Nicky Lorey,3991 Valley Edge Place,Transferencia bancaria
+Cold Brew Coffee Maker,Kitchen,Coffee Equipment,66.69,787,1/13/2022,7:27 PM,Edwina Luckin,25114 Steensland Pass,Transferencia bancaria
+Nature Explorer Lens Kit,Toys,,508.4,397,10/8/2022,1:45 PM,Mandy Enevold,3 Dorton Court,Efectivo
+Patterned Knit Scarf,Clothing - Accessories,Scarves,441.31,890,12/3/2022,5:29 PM,Carmine Armour,43820 Cottonwood Road,Efectivo
+Honey-Balsamic Vinaigrette,Food - Dressing,Vinaigrettes,546.12,383,8/8/2022,3:14 AM,Kerwin Willwood,42 Carey Lane,Efectivo
+Kitchen Scale,Kitchen,Kitchen Gadgets,602.0,54,7/4/2022,12:12 AM,Stacee Heardman,0 Bartelt Place,Efectivo
+Raspberry Limeade,Food - Beverages,,943.88,811,10/1/2022,1:03 PM,Haily Carman,69351 Carberry Park,Tarjeta de crédito
+Avocado Oil,,Oils,47.32,401,6/20/2022,9:24 PM,Massimo Evenett,23728 Kinsman Trail,Transferencia bancaria
+Portable Air Purifier,Health,,463.78,303,6/10/2022,10:23 AM,Erika Edel,5 Cambridge Avenue,Tarjeta de crédito
+Linen Trousers,Clothing - Bottoms,Trousers,812.46,789,4/13/2022,12:28 AM,Wade Cowlin,197 Esch Road,Tarjeta de crédito
+Basil Lemonade,Food - Beverages,Herbal Beverages,525.21,852,9/6/2022,11:23 PM,Skelly Telezhkin,133 Loftsgordon Pass,Efectivo
+Ice Pack,Health,Wellness & Relaxation,901.87,525,6/21/2022,1:20 PM,Rikki Gillions,06 Bay Pass,Tarjeta de crédito
+Laptop Sleeve,Accessories,Laptop Accessories,960.8,82,11/8/2022,5:13 PM,Jami Blasio,144 Park Meadow Street,Tarjeta de crédito
+Waffle Maker,Kitchen,,468.98,788,9/25/2022,7:49 AM,Leda Byrom,10286 Clyde Gallagher Junction,Tarjeta de crédito
+Travel Sewing Kit,Travel,Travel Accessories,638.83,41,6/26/2022,4:24 PM,Sebastiano Sillis,42978 Mayer Road,Tarjeta de crédito
+Coffee Making Kit,Kitchen,Coffee Accessories,284.23,655,2/15/2022,5:01 PM,Corabel Pressdee,277 Burning Wood Park,Transferencia bancaria
+Portable Air Pump,Outdoor,Camping Equipment,452.84,489,2/6/2022,3:39 AM,Hedwiga McCloy,087 Waywood Crossing,Transferencia bancaria
+Saffron Rice Mix,Food - Grains,Rice Dishes,182.81,885,3/28/2022,3:21 PM,Fredric Ciepluch,02 Redwing Court,Transferencia bancaria
+Foam Muscle Roller,Fitness,Recovery Tools,971.96,315,11/19/2022,5:02 PM,Joyce Yexley,11 Westend Parkway,Efectivo
+Nutty Granola Clusters,Food - Cereal,Granola,868.95,247,1/13/2022,5:40 PM,Corabelle Wadeling,6099 Elka Crossing,Efectivo
+Decorative Throw Pillows,Home,,50.46,950,3/12/2022,2:53 PM,Shantee Whetland,80356 Harper Circle,Tarjeta de crédito
+Knitted Infinity Scarf,Clothing - Accessories,Scarves,737.78,291,10/2/2022,10:07 PM,Katie Bryns,99146 Artisan Pass,Efectivo
+Travel Mug with Leak-Proof Lid,Kitchen,Drinkware,448.57,686,8/15/2022,8:59 AM,Lewie Hairsnape,614 Transport Terrace,Efectivo
+Vegetable Spiralizer,Kitchen,Food Preparation Tools,87.5,948,8/9/2022,9:29 PM,Lavena McDonogh,72295 Dorton Lane,Tarjeta de crédito
+Sourdough Bread,Food - Bakery,Breads,204.61,468,3/5/2022,8:07 AM,Hermie Maddams,9 Gateway Alley,Tarjeta de crédito
+Coconut Flakes,Food - Baking,Baking Ingredients,511.45,768,2/27/2022,3:24 PM,Massimo Franceschi,98274 Marcy Alley,Transferencia bancaria
+Car Trash Can,Automotive,Automotive Accessories,756.33,232,4/26/2022,7:48 AM,Leoline Busse,28 Magdeline Street,Efectivo
+Ranch Dressing,Food - Condiments,Dressing,572.4,452,5/7/2022,12:27 AM,Wain Rhymer,20167 Bobwhite Place,Efectivo
+Sweet Pea Hummus,Food - Dips,Vegetable Dips,187.5,220,11/2/2022,4:58 AM,Vasili Rumbold,69 Di Loreto Place,Efectivo
+Chickpea Salad,Food - Prepared Foods,,913.07,49,9/9/2022,11:34 PM,Milli Gogan,11 Sutherland Pass,Efectivo
+Pumpkin Spice Muffins,Food - Bakery,Seasonal Items,409.85,806,8/24/2022,8:57 PM,Rolland Van Der Walt,8111 Briar Crest Way,Efectivo
+Automatic Pet Feeder,Pets,Pet Feeding Supplies,962.03,84,1/16/2022,3:42 AM,Mohandas Terran,76 Mockingbird Street,Tarjeta de crédito
+Vegan Caesar Dressing,,Dressing,772.57,124,8/14/2022,1:09 PM,Erica Plunkett,9 Kingsford Plaza,Tarjeta de crédito
+Vegetable Lentil Soup,Food - Canned Goods,Soups & Broths,315.08,479,12/22/2022,4:18 PM,Carlyn Iianon,09 Steensland Drive,Efectivo
+Organic Black Bean Burger,Food - Frozen Foods,Frozen Vegan Meals,281.45,165,9/7/2022,5:09 PM,Elden Lightwing,5438 Onsgard Lane,Tarjeta de crédito
+Gluten-Free Bread,Food - Bakery,,27.77,782,3/12/2022,7:49 PM,Miran Hardin,5 Arkansas Avenue,Efectivo
+Italian Herb Balsamic Marinade,Food - Condiments,Marinades and Sauces,86.0,662,10/15/2022,11:13 AM,Fawne Darbishire,7 Rowland Street,Transferencia bancaria
+Compact Hair Dryer,Beauty,,611.09,905,6/17/2022,12:12 AM,,3 Main Drive,Transferencia bancaria
+Tuna Fish (canned),Food - Canned Goods,Seafood,874.94,248,7/14/2022,4:19 PM,Nolly Boncoeur,03 Johnson Road,Tarjeta de crédito
+Electric Knife,Kitchen,Small Appliances,651.75,68,2/11/2022,11:57 PM,Dorie Brandone,425 4th Way,Transferencia bancaria
+Cranberry Pecan Granola,Food - Breakfast Foods,Granola and Muesli,854.14,130,3/29/2022,3:58 PM,Broderick Nutkins,2 Amoth Hill,Transferencia bancaria
+Pest Control Traps,Home,Home Organization,154.51,610,2/17/2022,11:43 AM,Marchelle Jakes,36379 Brentwood Crossing,Efectivo
+Garden Vegetable Chips,Food - Snacks,Vegetable Snacks,11.15,189,10/28/2022,3:40 AM,Rod Clear,3144 New Castle Circle,Efectivo
+Personal Security Alarm Keychain,Safety,Self-Defense Tools,980.45,410,1/27/2022,12:08 PM,Sarajane Searby,97072 Harper Crossing,Transferencia bancaria
+Bike Repair Tool Kit,Outdoor,Cycling Accessories,387.13,941,3/15/2022,1:19 PM,Bevon Waddy,6 Di Loreto Avenue,Transferencia bancaria
+Plant-Based Cookbook,Books,Cookbooks & Nutrition,795.26,44,7/8/2022,7:10 AM,Miner Kittoe,3320 Red Cloud Hill,Transferencia bancaria
+Wine Decanter,Home,Kitchen Accessories,967.22,424,3/18/2022,12:25 AM,Hedwiga Blythin,3 Moulton Crossing,Transferencia bancaria
+Digital Thermostat,Home,Smart Home & Security,104.62,487,2/14/2022,12:44 AM,Gerardo Hayford,94 Dunning Road,Tarjeta de crédito
+Honey Roasted Chickpeas,Food - Snacks,,172.97,862,5/2/2022,10:16 PM,Jocelyne Apted,23837 Packers Hill,Efectivo
+Almond Flour Brownies,Food - Baking,Mixes,982.03,14,6/15/2022,1:10 PM,Hugh Axworthy,2403 Grim Terrace,Transferencia bancaria
+Handheld Shower Head,Bathroom,Shower Accessories,328.27,619,8/18/2022,4:27 AM,Conni Finlow,865 Crest Line Avenue,Tarjeta de crédito
+Trendy Bomber Jacket,Clothing - Outerwear,Jackets,679.68,70,1/28/2022,2:42 PM,Mill Luebbert,99623 Eliot Drive,Transferencia bancaria
+Memory Foam Mattress Topper,Home,Bedding & Linens,272.17,296,11/30/2022,5:34 PM,Hammad Avrashin,4 Mallard Circle,Transferencia bancaria
+Classic BBQ Sauce,Food - Condiments,BBQ Sauces,433.09,668,10/3/2022,9:09 PM,,51159 Blue Bill Park Place,Efectivo
+Mechanical Pencil Set,Office,,216.91,788,12/24/2022,4:40 PM,Ailis Cadigan,06 Glacier Hill Court,Transferencia bancaria
+Folding Backpack Chair,,Camping Equipment,849.47,215,4/1/2022,9:36 AM,Ravi Vivyan,48142 American Pass,Tarjeta de crédito
+Magnet Travel Fridge Magnets,Accessories,,406.16,360,5/4/2022,5:19 AM,Barny Murphy,3569 Killdeer Circle,Efectivo
+Grapes (red),,Fruits,76.02,91,10/28/2022,11:55 PM,Moria Klainer,8 Green Ridge Point,Efectivo
+Foot Massager Machine,Health,Wellness & Relaxation,531.86,832,2/16/2022,6:16 AM,Vonny Scrivenor,4680 Waubesa Lane,Efectivo
+Almond Milk Yogurt,,Plant-Based Yogurt,255.26,120,5/20/2022,8:11 PM,Linnet Shevlane,58 8th Road,Efectivo
+Slim Fit Chinos,Clothing - Pants,Casual Pants,760.01,826,4/12/2022,1:34 AM,Wendeline Fairnington,8684 5th Drive,Tarjeta de crédito
+Gardening Kneeler and Seat,Garden,Garden Tools,867.52,921,11/6/2022,7:03 AM,Candra Pavey,50766 Farragut Alley,Tarjeta de crédito
+Smart Thermostat with Wi-Fi,Smart Home,Smart Home Accessories,358.39,234,7/26/2022,1:51 PM,Tobit Noke,2 Gina Way,Transferencia bancaria
+Car Diagnostic Scanner,Automotive,Automotive Tools,952.76,409,1/24/2022,5:00 AM,Tallie Windress,22 Pepper Wood Way,Transferencia bancaria
+Portable Air Purifier,Health,Health Devices,62.9,289,6/20/2022,3:38 PM,Man Blincko,70497 Park Meadow Terrace,Transferencia bancaria
+Freestanding Wine Rack,Home,Home Organization,571.7,510,7/12/2022,6:49 AM,Lauren Keyworth,35690 Graceland Park,Efectivo
+Insulated Lunch Box,Kitchen,,889.28,119,6/3/2022,11:24 AM,Lawton Ambrogelli,5 Hudson Pass,Tarjeta de crédito
+Wooden Kitchen Utensil Set,Kitchen,Kitchen Gadgets,329.36,686,12/16/2022,3:31 PM,Eamon MacDermot,73842 Pierstorff Road,Efectivo
+Pumpkin Seeds,Food - Snacks,,731.46,243,6/3/2022,9:32 PM,Wayland Dalbey,65 Canary Crossing,Efectivo
+Sweet Potato & Kale Hash,,Vegetarian Meals,543.17,579,9/2/2022,11:14 AM,Abbe Cady,908 Moland Park,Tarjeta de crédito
+Frozen Salmon Filets,Food - Seafood,Frozen Seafood,424.98,154,12/30/2022,1:23 AM,Bendix Ragbourn,94067 3rd Trail,Efectivo
+Instant Read Meat Thermometer,Kitchen,Cooking Tools & Utensils,180.89,970,3/16/2022,5:25 PM,Leeanne Baumadier,499 Ryan Road,Transferencia bancaria
+Mediterranean Couscous Salad,Food - Salads,Grain Salads,836.84,329,12/1/2022,7:24 PM,Berton Swire,8 Nobel Plaza,Tarjeta de crédito
+Flavored Instant Oatmeal,Food - Breakfast,Instant Breakfast,434.59,23,11/22/2022,6:57 PM,Jelene Denniss,1020 Marquette Point,Tarjeta de crédito
+Chiffon Blouse,Clothing - Shirts,Dress Shirts,117.65,927,5/24/2022,9:21 PM,Annabelle Twittey,6 Lakewood Gardens Terrace,Tarjeta de crédito
+Pet Leash,Pets,Pet Accessories,568.17,448,7/18/2022,3:04 AM,Tawnya Castano,69290 Gulseth Point,Transferencia bancaria
+Mango Chili Salsa,Food - Condiments,Salsas,5.31,210,11/19/2022,12:31 AM,Leonore Picot,5689 Lukken Pass,Transferencia bancaria
+Caramel Apple Chips,Food - Snacks,Sweet Snacks,941.39,618,6/5/2022,12:39 PM,Patti Sandford,72 Scofield Road,Efectivo
+Handmade Leather Wallet,Accessories,Wallets,575.31,724,10/9/2022,11:25 AM,Bibbie Lindup,33892 Spenser Crossing,Efectivo
+Tailored Dress Pants,Clothing - Bottoms,Trousers,666.26,42,5/3/2022,10:49 AM,Tybi Gatland,5 Clove Terrace,Efectivo
+Fruit & Nut Trail Mix,Food - Snacks,Healthy Snacks,748.11,407,9/2/2022,10:40 AM,Sonny Kensington,00 Moland Park,Tarjeta de crédito
+Hummus,Food - Snacks,Dips and Spreads,572.49,120,7/10/2022,2:39 AM,Alfy Delyth,62 Welch Plaza,Tarjeta de crédito
+Kids' Activity Book,,Children's Educational Books,137.44,735,12/17/2022,2:13 PM,Ketty Bartali,37 Daystar Avenue,Tarjeta de crédito
+Sunflower Seeds,Food - Nuts,,382.99,454,11/17/2022,6:37 AM,Sherline Coldridge,350 Rusk Trail,Tarjeta de crédito
+Kids' Art Easel,Toys,Creative Toys,182.01,949,11/2/2022,12:19 PM,Katheryn Falla,9 Crowley Drive,Transferencia bancaria
+Pasta Maker,,,585.43,947,5/15/2022,6:23 PM,Lew Bratten,579 Stephen Drive,Transferencia bancaria
+Quinoa Salad,Food - Prepared Foods,Ready-to-Eat Meals,852.64,227,8/7/2022,6:54 PM,Sheelagh Beneze,317 Gerald Center,Tarjeta de crédito
+Foam Muscle Roller,Fitness,Recovery Tools,893.7,772,9/3/2022,12:18 AM,Dusty MacAnelley,09 Arapahoe Center,Efectivo
+Chili Lime Shrimp,Food - Seafood,Marinated Seafood,927.65,607,11/9/2022,5:20 PM,Karlotte Jarley,51595 Anthes Center,Tarjeta de crédito
+Electric Can Opener,Kitchen,Kitchen Gadget,207.6,731,4/7/2022,1:59 AM,Jodi Tedorenko,64428 Vernon Place,Efectivo
+Chocolate Covered Pretzels,Food - Snacks,Savory Snacks,74.69,324,7/13/2022,2:34 AM,Clarie Romme,89096 Rusk Parkway,Transferencia bancaria
+Organic Sweet Potatoes,Food - Produce,,56.24,109,7/16/2022,3:03 PM,Jeno Pund,06194 Algoma Trail,Efectivo
+Inflatable Pool Float,Outdoor,,845.15,469,10/27/2022,11:21 AM,Tobit Lonsdale,3188 Talmadge Park,Transferencia bancaria
+Set of Measuring Spoons,Kitchen,Kitchen Gadgets,324.84,587,11/21/2022,8:31 PM,Lucas Pigdon,549 Debra Trail,Tarjeta de crédito
+Cocktail Shaker Set,Kitchen,Barware,330.93,501,8/30/2022,6:26 PM,Janith Willetts,09833 Dorton Alley,Efectivo
+Fitness Tracker Watch,Wearable Tech,Smartwatches,88.2,41,9/16/2022,6:03 AM,Christye Down,29224 Union Center,Tarjeta de crédito
+Foam Roller for Muscle Recovery,Fitness,,555.12,442,8/13/2022,5:30 AM,Alethea Fenech,66423 East Crossing,Tarjeta de crédito
+Wireless Car Charger,Automotive,Phone Accessories,101.43,785,8/17/2022,1:02 PM,Sandie Coomber,153 Kenwood Plaza,Efectivo
+Crispy Rice Treats,Food - Snacks,Sweet Snacks,935.26,38,12/30/2022,11:15 AM,Dita Sabate,828 Shoshone Point,Tarjeta de crédito
+Teriyaki Beef Jerky,Food - Snacks,Meat Snacks,212.65,666,6/10/2022,10:01 PM,Tiphani Kears,80 Lindbergh Hill,Tarjeta de crédito
+Herbal Tea Infuser,Kitchen,Coffee Equipment,647.89,,11/19/2022,3:56 AM,Fredia Suttill,465 Pennsylvania Park,Efectivo
+Pasta (Fusilli),Food - Pasta,,977.38,9,10/13/2022,9:01 PM,,74023 Warbler Trail,Tarjeta de crédito
+Classic Caesar Dressing,Food - Condiments,Dressing,289.23,145,9/2/2022,11:24 AM,Janice Brymham,1 Golf View Pass,Tarjeta de crédito
+Salsa Verde,Food - Condiments,Sauces,401.52,881,1/8/2022,9:05 PM,Fulton Dye,2308 Merry Hill,Efectivo
+Overnight Duffle Bag,Travel,Luggage and Bags,751.5,248,8/19/2022,5:12 AM,Rici Pincked,02 Anhalt Plaza,Tarjeta de crédito
+Indoor Plants,Garden,Houseplants,781.4,44,6/18/2022,8:46 PM,Isabel Maleham,56 Dovetail Center,Tarjeta de crédito
+Pineapple Coconut Rice Mix,Food - Grains,Rice Dishes,838.93,510,6/4/2022,12:24 PM,Thain Brooksbank,460 Sundown Alley,Efectivo
+Gardening Gloves with Claws,Garden,Garden Tools,484.92,636,6/29/2022,1:40 AM,Tatum Taveriner,24295 Chive Pass,Tarjeta de crédito
+Organic Honeycrisp Apples,Food - Fruits,Apples,526.68,233,10/10/2022,8:03 PM,Kristi Dorkins,829 Melrose Drive,Tarjeta de crédito
+Honey Garlic Chicken,Food - Meat,Prepared Poultry,493.84,204,1/7/2022,6:42 PM,Dagny Hutchcraft,42313 Mockingbird Alley,Transferencia bancaria
+Kettle BBQ Grill,Outdoor,Grills and Smokers,194.4,936,6/9/2022,10:23 AM,,6 Oak Court,Transferencia bancaria
+Smoked Paprika,Food - Spices,Seasoning Blends,10.59,474,6/1/2022,9:54 PM,Andris Rioch,21457 Truax Crossing,Efectivo
+Organic Whole Grain Oats,,Breakfast Cereals,412.98,435,3/10/2022,9:46 PM,Feliks Pettiford,52 Golf Way,Transferencia bancaria
+Natural Peanut Butter,Food - Spreads,Nut Butters,718.19,755,3/15/2022,12:34 AM,Gisella Ingerson,915 Canary Street,Tarjeta de crédito
+Asian Salad Mix,Food - Produce,,869.18,652,2/3/2022,9:30 AM,Gil O'Hoolahan,19842 Superior Junction,Transferencia bancaria
+Mini Projector,Electronics,,175.27,912,5/25/2022,10:33 AM,Jena Kmietsch,10 Judy Trail,Efectivo
+Breezy Off-The-Shoulder Top,Clothing - Tops,Women's Tops,232.09,,7/10/2022,4:23 PM,Sheppard Benaine,421 Loftsgordon Street,Tarjeta de crédito
+Spicy Salsa Verde,Food - Condiments,Salsas,830.31,798,7/16/2022,1:34 PM,Janeta Clemens,5658 Pond Terrace,Tarjeta de crédito
+Fitness Mat,Fitness,Fitness Accessories,49.82,32,4/16/2022,8:55 PM,Emmit Reuss,5 Kipling Pass,Tarjeta de crédito
+Portable Dog Water Bottle,Pets,Dog Accessories,667.68,802,8/23/2022,11:35 AM,Keen Horsted,1849 Corry Alley,Tarjeta de crédito
+Organic Green Apples,Food - Produce,Fruits,495.37,947,8/4/2022,11:59 AM,Marylin Celiz,05254 Wayridge Pass,Efectivo
+Dried Apricots,Food - Dried Fruits,Snacks,274.43,225,10/28/2022,1:19 PM,Robinetta Peres,383 Goodland Terrace,Efectivo
+Chickpea Pancakes,Food - Frozen,Frozen Meals,509.68,858,7/15/2022,7:50 AM,Ladonna Cereceres,8926 Dahle Alley,Tarjeta de crédito
+Turkey Bacon,,Processed Meats,181.63,977,9/18/2022,9:24 AM,Anderson Greer,3 Carpenter Court,Efectivo
+Smart Water Bottle with Hydration Reminder,Fitness,Health & Wellness Tools,537.15,966,5/2/2022,1:25 AM,Junina Fields,94535 Union Hill,Transferencia bancaria
+Nutty Trail Mix,,Healthy Snacks,712.2,441,10/20/2022,7:04 AM,Coralyn Ojeda,1556 Village Green Crossing,Transferencia bancaria
+Picnic Blanket,,Outdoor Accessories,338.03,541,12/14/2022,1:49 PM,Conant Franke,1309 Merry Hill,Transferencia bancaria
+Portable Solar Camp Shower,Outdoor,Camping Equipment,108.53,481,8/4/2022,2:25 AM,Cordula Cherm,11 Eliot Trail,Efectivo
+Beef Tacos,Food - Meat,Prepared Meals,711.1,710,4/27/2022,7:11 AM,Tades Calltone,281 Kenwood Avenue,Transferencia bancaria
+Maple Glazed Carrots,Food - Prepared Foods,Vegetable Sides,744.51,74,5/26/2022,2:46 PM,Shamus McAree,69 Lawn Pass,Efectivo
+Buffalo Chicken Wraps,Food - Prepared Meals,Wraps & Sandwiches,985.01,765,3/31/2022,12:11 AM,Gannie Farrey,3634 Saint Paul Hill,Efectivo
+Granola Clusters,Food - Cereal,Granola,364.43,605,1/24/2022,2:10 AM,Kynthia Cubbon,76 Butterfield Terrace,Transferencia bancaria
+Personal Blender with Travel Lid,Kitchen,Blenders & Juicers,245.77,463,8/11/2022,10:21 PM,Donni Cromleholme,787 Redwing Terrace,Transferencia bancaria
+Gluten-Free Brownies,Food - Baking,Gluten-Free Desserts,807.03,282,9/29/2022,6:17 AM,Thedrick Gergolet,040 Holmberg Point,Efectivo
+Fresh Strawberries,Food - Produce,Fruits,590.75,564,1/1/2022,7:44 PM,Ariella Thumann,107 Montana Street,Efectivo
+Electric Griddle with Lid,Kitchen,Cooking Appliances,794.45,544,12/4/2022,1:38 AM,Sasha Spinage,9735 Scofield Circle,Tarjeta de crédito
+Coconut Rice,Food - Frozen,Frozen Meals,124.77,257,7/14/2022,3:08 AM,Tab Joberne,4 Marquette Parkway,Efectivo
+Thai Basil Fried Rice,Food - Frozen,Frozen Meals,514.42,902,12/13/2022,11:58 AM,Whitaker Killeen,11 Eggendart Hill,Tarjeta de crédito
+Pizza Stone,Kitchen,Baking Accessories,724.0,417,2/17/2022,6:05 PM,Todd Denness,2 Sauthoff Circle,Efectivo
+Portable Projector,Electronics,Home Entertainment Equipment,58.75,566,11/11/2022,3:25 PM,Charley Schwandermann,1 Sullivan Way,Efectivo
+Organic Tomato Soup,Food - Canned Goods,Soups & Broths,140.23,762,8/23/2022,3:00 AM,Will Ayree,04 Clove Junction,Tarjeta de crédito
+Sour Cream,,,794.0,173,2/3/2022,6:31 PM,Derril Fysh,52609 Calypso Avenue,Efectivo
+Smartphone UV Sanitizer,Health,Personal Care & Grooming,532.22,944,1/9/2022,5:32 AM,Trudy Sedge,3426 Golf Terrace,Efectivo
+Sweet Potato Fries,Food - Frozen Foods,,609.47,746,10/27/2022,1:07 AM,Solomon Roches,139 Crownhardt Alley,Tarjeta de crédito
+Hummus,Food - Snacks,,289.52,232,3/20/2022,7:06 PM,Sula Halsho,17 6th Alley,Transferencia bancaria
+Turkey Bacon,Food - Meat,Processed Meats,96.83,541,9/19/2022,10:45 PM,Cherish Loving,0 Blue Bill Park Park,Efectivo
+French Onion Dip,Food - Condiments,Dips & Spreads,468.15,224,8/23/2022,7:15 PM,Yulma Barns,80956 Bluestem Junction,Transferencia bancaria
+Flavored Instant Oatmeal,Food - Breakfast,Instant Breakfast,369.91,432,5/23/2022,11:37 PM,Vernor Zanre,9 Elgar Parkway,Transferencia bancaria
+Teriyaki Beef Strips,,Frozen Meat Meals,104.48,538,5/1/2022,10:03 AM,Ingaberg Hymas,8900 Clemons Street,Efectivo
+Organic Coconut Flakes,Food - Baking,Baking Ingredients,597.24,849,6/7/2022,7:27 PM,Donny Decourcy,80231 North Drive,Transferencia bancaria
+Black Olives,Food - Canned Goods,Canned Vegetables,281.23,74,2/17/2022,6:33 AM,Libbey Leader,82677 Old Gate Junction,Efectivo
+Vegetable Sushi Rolls,Food - Prepared Meals,Healthy Snacks,995.26,984,8/22/2022,11:31 PM,Jase Reis,1510 Spenser Alley,Tarjeta de crédito
+Italian Meatballs,Food - Meat,Processed Meats,285.15,799,6/19/2022,2:46 PM,Nefen Crayden,97632 Cody Center,Tarjeta de crédito
+Ground Cinnamon,Food - Spices,,52.17,161,11/18/2022,8:41 PM,Randene Beevor,4 Warner Pass,Transferencia bancaria
+Noise-Canceling Earbuds,Audio,Headphones & Earbuds,417.67,350,12/24/2022,7:04 PM,Dolli Young,63326 Cascade Drive,Transferencia bancaria
+Cookbook,,Cookbooks & Nutrition,51.62,346,6/4/2022,12:58 PM,,46 Sachs Avenue,Efectivo
+Electric Hot Pot,Kitchen,Cookware,507.51,213,5/4/2022,12:27 AM,Daffi Aujean,0419 Brickson Park Lane,Efectivo
+Linen Trousers,Clothing - Bottoms,Trousers,259.88,673,12/24/2022,4:57 PM,Veronica Braune,566 Division Pass,Transferencia bancaria
+Maple Almond Granola,Food - Breakfast,Granola/Cereal,872.27,144,6/21/2022,12:20 AM,,68 Pond Trail,Efectivo
+Two-Tier Fruit Basket,Home,,833.74,654,6/12/2022,10:16 AM,Clayson Hun,55 Surrey Point,Tarjeta de crédito
+Infrared Thermometer,Health,Medical Devices,391.18,189,3/21/2022,12:53 AM,Nikki Duckels,52963 Hoard Street,Transferencia bancaria
+Brazil Nuts,Food - Nuts,Nuts,366.89,676,1/16/2022,2:00 PM,Marrilee Scarse,5918 Northland Pass,Transferencia bancaria
+Chickpea Flour,Food - Baking,Flours & Meals,447.03,638,6/26/2022,4:33 AM,Myrwyn Kighly,8426 Mcguire Way,Efectivo
+Smart Thermostat,Smart Home,Home Automation,471.98,889,9/18/2022,7:30 PM,Sergent Keighley,6486 Dottie Alley,Tarjeta de crédito
+Indoor Plants,Garden,Houseplants,723.31,243,11/20/2022,2:19 PM,Pascal Loidl,26735 Prairieview Place,Efectivo
+Maple Almond Granola,Food - Breakfast,Granola/Cereal,28.03,366,12/20/2022,11:55 PM,Cassaundra Byneth,791 Messerschmidt Hill,Transferencia bancaria
+Rechargeable Battery Organizer,,Home Organization,62.13,194,4/25/2022,7:27 PM,Arvin Harmar,5 Old Gate Avenue,Tarjeta de crédito
+Teriyaki Beef Strips,Food - Frozen Meals,,213.22,565,12/17/2022,7:12 AM,Shaun Lissenden,11637 Larry Plaza,Efectivo
+Handcrafted Wooden Coasters,Home,Decorative Wall Art & Accessories,515.29,532,11/29/2022,7:23 PM,Tobe Kewish,49891 Kennedy Trail,Transferencia bancaria
+Multifunctional Baby Bottle Warmer,Baby,Feeding Accessories,173.97,883,1/14/2022,2:26 AM,Ruperto Kingsmill,097 Mallard Parkway,Transferencia bancaria
+Safety First Aid Kit,Health,Emergency Preparedness & First Aid,973.98,864,5/17/2022,12:10 AM,Antin Prynne,3138 Northport Junction,Tarjeta de crédito
+Cushion Covers,Home,Decorative Wall Art & Accessories,110.67,807,11/22/2022,3:26 PM,Rourke Kilgallen,72 Arkansas Street,Efectivo
+Gluten-Free Bread,Food - Bakery,Breads,603.04,133,2/19/2022,9:17 PM,Batsheva Degli Abbati,9964 Novick Park,Efectivo
+Mesh Sports Leggings,Clothing - Activewear,Leggings,694.54,564,8/25/2022,4:31 PM,Helaine Astbury,93096 Hanover Circle,Transferencia bancaria
+Woven Storage Baskets,Home,Home Organization,318.49,980,8/1/2022,1:49 PM,Rodrique Cree,4205 Stuart Avenue,Transferencia bancaria
+Butternut Squash Soup,Food - Soups,Vegetarian Soups,14.38,896,3/31/2022,7:30 PM,Janean O'Sheerin,0313 Novick Park,Tarjeta de crédito
+Cinnamon Raisin Bread,Food - Bakery,,851.21,826,12/1/2022,7:16 AM,Krista Luke,111 Raven Crossing,Efectivo
+Spaghetti Sauce,Food - Canned Goods,Sauces & Condiments,445.45,54,9/5/2022,5:02 PM,Glenn O' Loughran,3129 Mariners Cove Junction,Efectivo
+Mediterranean Flatbread,Food - Bakery,Flatbreads,863.3,116,1/13/2022,4:58 PM,Nancie Brightling,878 Bartillon Way,Efectivo
+Ergonomic Gaming Chair,Gaming,Gaming Accessories,344.12,348,11/23/2022,11:28 PM,Artur Cosbey,6 Thierer Alley,Tarjeta de crédito
+Classic Cheesecake Mix,,Baking Mixes,623.74,210,3/6/2022,6:07 PM,,988 Elgar Plaza,Transferencia bancaria
+Caramel Sauce,Food - Condiments,Dessert Toppings,827.16,981,5/19/2022,5:38 AM,Mignon Lowden,37705 Armistice Circle,Transferencia bancaria
+Maple Cinnamon Almonds,Food - Nuts,Flavored Nuts,596.51,,5/28/2022,12:14 AM,Wilona Bareham,150 High Crossing Trail,Tarjeta de crédito
+Peanut Butter Cookies,,,679.98,513,7/16/2022,1:43 AM,Cherrita Brissard,55455 Larry Plaza,Transferencia bancaria
+Honey-Balsamic Vinaigrette,Food - Dressing,Vinaigrettes,299.0,880,5/21/2022,4:59 AM,Adiana Helliker,654 Pearson Junction,Tarjeta de crédito
+Sea Salt Caramel Brownie,Food - Bakery,Desserts,868.86,588,11/20/2022,7:43 PM,Elnora Maryan,57 Mifflin Place,Tarjeta de crédito
+Sriracha Hot Chili Sauce,,Hot Sauces,867.22,943,12/29/2022,4:19 PM,Gale Mortel,06942 Morning Street,Transferencia bancaria
+Terry Cloth Robe,Clothing - Loungewear,Bathrobes,498.58,105,12/8/2022,2:30 PM,Wynny Sheards,3 Hoffman Trail,Tarjeta de crédito
+Ground Cinnamon,,Herbs and Spices,265.93,937,1/3/2022,4:59 PM,Brigitta Yerborn,6810 Paget Way,Efectivo
+Magnetic Spice Jars,Kitchen,,675.56,385,10/2/2022,5:55 PM,Burr Spohrmann,328 Oak Valley Junction,Tarjeta de crédito
+Organic Quinoa,Food - Grains,Whole Grains,135.44,601,12/5/2022,9:53 AM,Nicki Gartside,314 Grasskamp Terrace,Efectivo
+Magnetic Chess Set,Toys,Board Games,658.7,386,10/5/2022,10:46 PM,Jarvis Abbotson,878 Bunting Alley,Transferencia bancaria
+Honey Butter Popcorn,Food - Snacks,Gourmet Snacks,732.89,874,5/29/2022,2:56 AM,Brande Dohms,4 Ronald Regan Alley,Transferencia bancaria
+Pet Hair Remover,Pets,Grooming Supplies,929.19,407,4/23/2022,5:26 PM,Elwood Kreuzer,10856 Rowland Street,Transferencia bancaria
+Sweet BBQ Dipping Sauce,Food - Condiments,Marinades and Sauces,936.79,166,10/17/2022,8:06 AM,Bertine Ranald,46 Holmberg Park,Efectivo
+Vegan Cheese,Food - Dairy Alternatives,Plant-Based Cheese,845.9,386,11/13/2022,11:52 PM,Giacinta Brehat,45875 Donald Point,Efectivo
+Knitted Infinity Scarf,Clothing - Accessories,,198.13,475,1/19/2022,8:14 PM,James Longden,1751 Jenifer Plaza,Transferencia bancaria
+Vegetable Korma,Food - Frozen,Frozen Meals,834.32,648,12/15/2022,3:11 AM,Tally Habron,66524 Bunting Street,Tarjeta de crédito
+Silicone Cooking Utensils Set,Kitchen,Cooking Tools & Utensils,733.19,262,9/26/2022,5:59 PM,Lolita Zamorrano,1156 Tennessee Point,Tarjeta de crédito
+Herb Garlic Butter,Food - Condiments,Herbal Butters,247.76,45,10/26/2022,2:36 AM,Patricio Du Fray,3466 Boyd Crossing,Efectivo
+Pepper Jack Cheese Sticks,Food - Snacks,Savory Snacks,859.08,,9/30/2022,6:41 PM,Janith Kingham,60122 Morningstar Alley,Tarjeta de crédito
+Pasta (Linguine),Food - Pasta,Pasta,358.6,672,11/2/2022,3:41 PM,Rockwell Camis,454 Debs Center,Transferencia bancaria
+Adjustable Height Standing Desk Converter,Office,Furniture,125.55,2,11/1/2022,1:26 AM,Layton Vasler,011 Pennsylvania Circle,Efectivo
+Portable Campfire,Outdoor,Camping Equipment,398.36,786,2/4/2022,8:59 PM,Rickert Burchill,13 Almo Plaza,Tarjeta de crédito
+Peanut Butter Protein Balls,Food - Snacks,Healthy Snacks,745.14,323,4/7/2022,6:51 AM,Petra Jarmaine,2705 Magdeline Circle,Transferencia bancaria
+Reusable Snack Bags,Kitchen,Food Storage Solutions,418.38,301,10/21/2022,12:22 AM,Ethan Chatelot,33489 Spenser Circle,Transferencia bancaria
+Buffalo Chicken Dip,Food - Dips,Spicy Dips,962.76,782,9/16/2022,4:49 PM,Marcy Betham,48643 Namekagon Court,Efectivo
+Lemon Herb Quinoa,Food - Grains,,703.82,322,1/8/2022,11:48 AM,Lesley Dahmel,3685 4th Junction,Transferencia bancaria
+Tea Infuser,,Coffee Accessories,387.26,117,12/24/2022,10:44 PM,Aile Bagge,61 Aberg Lane,Efectivo
+Tuna Fish (canned),Food - Canned Goods,Seafood,77.42,376,12/13/2022,10:56 PM,Fiorenze Rysdale,9 Maywood Trail,Efectivo
+Cat Scratching Post with Toys,,Cat Furniture,809.12,829,7/7/2022,5:31 AM,Sianna McElane,70757 Logan Avenue,Transferencia bancaria
+Canned Black Beans,Food - Canned Goods,Canned Legumes,584.48,798,9/11/2022,10:44 PM,Amby Grimsell,5115 Autumn Leaf Terrace,Transferencia bancaria
+Smartphone Gimbal,Electronics,,907.54,744,5/23/2022,4:08 AM,Mirna Thomasson,7 Forest Terrace,Tarjeta de crédito
+Ginger Turmeric Latte Mix,Food - Beverages,Herbal Beverages,389.03,435,3/27/2022,3:01 PM,Kristin Di Antonio,8931 Barby Lane,Transferencia bancaria
+Smart Light Bulbs,Smart Home,Smart Lighting,702.5,983,8/12/2022,4:41 AM,Duky Moody,86231 Graedel Court,Efectivo
+Mango Chia Pudding,Food - Snacks,Healthy Snacks,512.97,886,2/5/2022,8:46 PM,Ainslee Mortell,34 2nd Crossing,Tarjeta de crédito
+Insulated Lunch Bag,Kitchen,Food Storage Solutions,949.51,427,11/27/2022,8:52 PM,Jammal Patriskson,59 Vernon Circle,Tarjeta de crédito
+Ceramic Bakeware Set,Kitchen,Cookware,25.12,473,8/7/2022,4:16 AM,Bartlett Baldung,9220 Amoth Road,Transferencia bancaria
+Thai Coconut Curry Sauce,,Marinades and Sauces,369.33,78,10/20/2022,12:02 AM,Garret Fruen,5 Sachs Road,Efectivo
+Teriyaki Chicken Stir-Fry,Food - Frozen Foods,Frozen Meal Kits,37.91,264,5/28/2022,7:05 AM,Loralie Heckle,29106 Cottonwood Point,Transferencia bancaria
+Vanilla Protein Powder,Food - Health/Protein,Protein Supplements,157.39,711,4/3/2022,10:18 AM,Guenna Eggleton,8 Mosinee Plaza,Efectivo
+Wire Shelving Unit,Home,Home Organization,802.09,427,3/7/2022,4:38 PM,Emmalee Aucock,94 Park Meadow Crossing,Tarjeta de crédito
+Warm Knit Beanie,Clothing - Accessories,,190.9,988,8/7/2022,4:42 AM,Zed Rosell,2700 Jackson Center,Transferencia bancaria
+Bodyweight Resistance Bands,Fitness,Strength Training Equipment,180.88,945,4/28/2022,7:49 PM,Theda Pail,68 Calypso Road,Transferencia bancaria
+Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,Ice Cream Flavors,371.85,333,1/3/2022,11:23 PM,,9435 Steensland Terrace,Efectivo
+Stick Vacuums Cleaner,Home Appliances,Floor Care Appliances,430.67,218,2/8/2022,10:46 PM,Bernadine Sansum,7 Esch Lane,Tarjeta de crédito
+Home Delivery Food Journal,Health,,814.57,583,9/25/2022,2:16 PM,Valentine Conwell,35 Becker Lane,Transferencia bancaria
+Electric Butter Churn,,Small Appliances,84.58,804,4/9/2022,1:03 PM,Edd Dwelley,32000 Tennessee Alley,Transferencia bancaria
+Mini Cordless Vacuum Cleaner,Home Appliances,Floor Care Appliances,521.01,155,1/18/2022,7:59 PM,Gunar Chicchetto,05505 Burrows Circle,Transferencia bancaria
+Pet First Aid Kit,Pets,,812.41,174,2/28/2022,5:09 PM,Perry Cleveland,8010 Bartelt Park,Transferencia bancaria
+Silicone Baking Mats,,Baking Accessories,508.1,119,12/21/2022,7:07 PM,Denys Courtman,90518 Packers Plaza,Tarjeta de crédito
+Vegetable Spring Rolls,Food - Frozen Foods,Frozen Appetizers,40.69,406,9/16/2022,12:08 AM,Rory Axtens,265 Corry Terrace,Transferencia bancaria
+Tofu,Food - Meat Alternatives,Plant-Based Proteins,62.9,223,8/1/2022,10:31 AM,Otis Menauteau,4468 Sunnyside Plaza,Transferencia bancaria
+Honey Roasted Peanuts,Food - Snacks,Nuts and Seeds,558.47,431,12/26/2022,1:31 PM,Mac Entwhistle,331 Gateway Parkway,Transferencia bancaria
+Backpack,Accessories,Bags,153.98,272,3/30/2022,9:05 PM,Arnuad Girardoni,527 Oriole Parkway,Transferencia bancaria
+Classic White T-Shirt,Clothing - Tops,T-Shirts,276.52,,4/16/2022,6:23 PM,Nathalia Cosely,509 Barnett Avenue,Tarjeta de crédito
+Almond Butter Granola Bars,Food - Snacks,Healthy Snacks,974.84,673,12/4/2022,5:52 PM,Max Bann,950 Warrior Center,Efectivo
+Classic Black Dress,Clothing - Dresses,,754.57,173,5/22/2022,5:13 AM,Godard Barnham,5655 Weeping Birch Parkway,Transferencia bancaria
+Strawberry Banana Smoothie Pack,Food - Frozen,Frozen Snacks,359.71,226,8/16/2022,1:18 PM,Pat Danskine,92 Bayside Park,Tarjeta de crédito
+Camera Tripod,Photography,,399.96,223,9/7/2022,2:58 AM,Vaclav Woofinden,6 Clemons Avenue,Efectivo
+Garden Hose,Garden,Garden Supplies,89.53,922,6/5/2022,1:39 AM,Sigvard Gunningham,6 Superior Junction,Transferencia bancaria
+Weighted Blanket for Adults,Health,Sleep & Relaxation,118.67,944,12/26/2022,10:46 PM,,4 Luster Way,Transferencia bancaria
+Cinnamon Sugar Mix,Food - Baking,Baking Ingredients,623.29,322,1/16/2022,7:29 PM,Hillery Martin,2979 Novick Court,Tarjeta de crédito
+Canvas Tote Bag,Clothing - Accessories,Bags,103.26,452,6/10/2022,5:45 PM,Dory Winny,32 Crescent Oaks Road,Tarjeta de crédito
+Chicken Salad Kit,Food - Prepared Foods,Salads,107.5,881,4/8/2022,7:52 PM,Kendal Morman,37903 Northport Parkway,Tarjeta de crédito
+Mechanical Pencil Set,Office,Writing Instruments,155.02,833,6/18/2022,8:19 AM,,69 Mockingbird Court,Efectivo
+Cinnamon Sugar Tortilla Chips,,Sweet Snacks,542.05,577,10/14/2022,12:45 AM,Stevena Paris,21 Sheridan Point,Transferencia bancaria
+Wireless Security Camera,Home,Smart Home & Security,4.03,277,8/20/2022,8:29 AM,Kendrick Dowthwaite,68 Maryland Center,Tarjeta de crédito
+Tactical Backpack,Outdoor,Camping Equipment,687.29,117,4/23/2022,9:20 AM,Eddy Collimore,3 Fulton Road,Efectivo
+Waffle Maker,Kitchen,Small Appliances,872.11,701,9/3/2022,1:16 AM,Atlanta Woodard,616 Spenser Plaza,Transferencia bancaria
+Self-Cleaning Cat Litter Box,Pets,Cat Care,554.18,502,11/2/2022,10:17 PM,,2751 Sunbrook Park,Transferencia bancaria
+Adjustable Skipping Rope,Fitness,Cardio Equipment,18.91,164,12/11/2022,5:44 AM,Sonnie Konertz,71942 Hanson Trail,Tarjeta de crédito
+Smartphone Tripod,,Tripods & Accessories,902.04,291,4/10/2022,9:47 PM,Cull Egell,1 Huxley Terrace,Tarjeta de crédito
+Personal Blender with Travel Lid,Kitchen,Blenders & Juicers,747.87,261,7/9/2022,5:25 PM,Washington Marrett,17 Warrior Center,Transferencia bancaria
+Magnetic Whiteboard,,,740.38,236,1/27/2022,11:36 PM,Cherida Robic,845 Novick Plaza,Tarjeta de crédito
+Quinoa Salad,Food - Prepared Foods,Ready-to-Eat Meals,950.55,27,10/6/2022,5:09 AM,Shawnee Deal,47429 Spenser Parkway,Efectivo
+Fruit Infuser Water Bottle,Fitness,Hydration Gear,597.09,137,9/12/2022,2:43 AM,Andriette Sign,87306 Prairieview Pass,Efectivo
+Scent Diffuser Oil,Home,Home Fragrance & Accessories,375.36,129,3/7/2022,5:54 PM,Tara Meadowcraft,920 Maywood Hill,Tarjeta de crédito
+Puzzle,Toys,Jigsaw Puzzles,278.55,662,4/21/2022,6:03 AM,Clark Bonn,964 Banding Crossing,Tarjeta de crédito
+Outdoor Picnic Blanket,Outdoor,Camping Equipment,49.49,600,5/31/2022,2:34 AM,Eldredge Kettow,8 Lighthouse Bay Court,Tarjeta de crédito
+Coconut Flakes,Food - Baking,Baking Ingredients,702.72,819,9/21/2022,9:14 PM,Corrianne Leadstone,1 Lotheville Hill,Tarjeta de crédito
+Quinoa and Kale Salad Kit,Food - Salads,Meal Kits,436.88,682,5/22/2022,4:53 PM,Hurley Rodgman,139 Schlimgen Pass,Transferencia bancaria
+Striped Long Sleeve Shirt,Clothing - Shirts,Casual Shirts,805.01,516,11/28/2022,6:39 PM,Merrel Derl,62 Carpenter Plaza,Tarjeta de crédito
+Self-Massaging Pillow,Health,Sleep & Relaxation,722.72,362,6/22/2022,8:26 PM,Allard Trouncer,584 Express Park,Tarjeta de crédito
+Scent Diffuser,Home,Home Fragrance & Accessories,998.59,640,7/29/2022,3:55 PM,Jereme Mervyn,18 Weeping Birch Court,Transferencia bancaria
+Black Bean Spaghetti,Food - Pasta,Specialty Pasta,673.15,360,4/25/2022,6:48 PM,Vivien Redemile,7 Ridgeview Point,Efectivo
+Chocolate Coconut Protein Balls,Food - Snacks,Protein Snacks,999.29,663,5/4/2022,4:26 AM,Manolo Jirasek,3112 Lunder Drive,Efectivo
+Lemon Garlic Shrimp,Food - Seafood,,276.87,91,4/9/2022,12:53 PM,Gay Rainey,3 Comanche Lane,Transferencia bancaria
+Wild Rice Pilaf,Food - Grains,Rice Dishes,534.44,776,6/30/2022,9:14 PM,Patrizius Halfhyde,244 Linden Place,Efectivo
+Arcade Game Machine,Gaming,Arcade Machines & Cabinets,797.04,304,12/3/2022,9:36 PM,Nariko Arney,31 Stuart Road,Efectivo
+Hibiscus Herbal Tea,,Herbal Tea,279.19,415,9/13/2022,4:13 PM,Basia Mc Mechan,7192 Green Ridge Terrace,Tarjeta de crédito
+Matcha Green Tea Powder,Food - Beverages,Tea,625.12,440,4/19/2022,2:48 AM,Tybi Crinkley,70 Lakewood Lane,Efectivo
+Peanut Butter Banana Smoothie,Food - Beverages, smoothies,739.19,494,1/27/2022,11:37 AM,Welbie Airy,0 East Street,Transferencia bancaria
+Classic Pumps,Clothing - Footwear,Women's Dress Shoes,856.2,304,9/28/2022,5:53 PM,Jacquette Devine,94 Mariners Cove Lane,Tarjeta de crédito
+Roasted Red Pepper Hummus,Food - Dips,,838.72,911,11/25/2022,3:27 PM,Fernando MacLaverty,0 Fuller Center,Efectivo
+Sun-Dried Tomatoes,Food - Vegetables,Vegetables,930.09,477,11/18/2022,10:43 PM,Alister Abbes,88 Quincy Court,Tarjeta de crédito
+Smart Water Bottle with Hydration Reminder,Fitness,Health & Wellness Tools,125.25,23,5/7/2022,11:48 AM,Hermy Worrell,623 Sheridan Street,Tarjeta de crédito
+Chili Lime Shrimp,Food - Seafood,Marinated Seafood,155.05,717,5/12/2022,2:18 PM,Caesar Reape,22 Miller Circle,Tarjeta de crédito
+Vegan chocolate chip cookies,Food - Bakery,Vegan Baked Goods,25.51,313,5/8/2022,1:21 AM,Sergei Gentiry,29038 Warner Point,Tarjeta de crédito
+Kale & Quinoa Salad Mix,Food - Salads,Ready-to-Eat Salads,587.12,406,11/25/2022,8:18 PM,Hyacinthia Mahy,5948 Judy Circle,Tarjeta de crédito
+Homestyle Chicken Noodle Soup,Food - Canned Goods,Soups & Broths,267.78,741,8/6/2022,2:58 PM,Chloe Atwool,176 South Terrace,Efectivo
+Oatmeal Raisin Cookies,,Cookies,684.97,981,5/9/2022,11:23 AM,Arlen Reams,2 Schmedeman Plaza,Transferencia bancaria
+Sliced Olives,Food - Condiments,Olives,612.07,10,6/30/2022,4:39 PM,Perry Chatelot,03 Arrowood Park,Tarjeta de crédito
+Tea Set with Infuser,Kitchen,Coffee Equipment,152.91,15,10/26/2022,6:28 PM,Noam Soggee,086 Lerdahl Place,Transferencia bancaria
+Hummus Variety Pack,Food - Dairy,Dairy Alternatives,272.43,924,5/12/2022,3:13 PM,Karola Doonican,092 Haas Street,Efectivo
+Drone,Electronics,Drones & Accessories,274.93,45,4/6/2022,8:11 AM,Jeni Hamblyn,2 Iowa Alley,Transferencia bancaria
+Elderberry Syrup Kit,,Fitness & Nutrition,421.7,946,6/18/2022,4:52 AM,Amalita Malyan,342 Kipling Trail,Efectivo
+Whole Wheat Bread,Food - Bakery,Breads,951.29,473,10/4/2022,6:26 PM,Quintina Mableson,982 Elka Trail,Tarjeta de crédito
+Honey Roasted Peanuts,Food - Snacks,Nuts and Seeds,201.2,290,5/24/2022,2:47 AM,Arabela Fleckness,854 Saint Paul Pass,Tarjeta de crédito
+Outdoor Adventure Kit,Outdoor,Camping Equipment,860.15,798,8/31/2022,7:06 AM,Colleen Echlin,1478 Swallow Plaza,Transferencia bancaria
+Electric Rice Cooker with Steamer,Kitchen,Small Appliances,214.57,660,10/26/2022,10:31 PM,Jasmine Gaunson,1 Anzinger Trail,Tarjeta de crédito
+White Rice,Food - Grains,Rice,576.96,970,9/29/2022,12:27 AM,Willi Giovanazzi,319 Buell Court,Efectivo
+Car Vacuum Cleaner,Automotive,Car Cleaning,945.31,208,3/29/2022,2:51 PM,Alana Hewkin,2 Butternut Avenue,Efectivo
+Almond Butter Granola Bars,Food - Snacks,Healthy Snacks,930.98,665,12/19/2022,2:17 PM,Othella Matteuzzi,3 Buell Parkway,Transferencia bancaria
+Bamboo Charcoal Air Purifier Bags,Home,,54.52,90,9/1/2022,4:33 PM,Victor Barniss,594 Becker Circle,Tarjeta de crédito
+Frozen Cauliflower Rice,Food - Frozen Foods,Frozen Vegetables,366.43,287,10/18/2022,10:38 AM,Ernest Englishby,4978 Melvin Center,Transferencia bancaria
+Balsamic Glazed Brussels Sprouts,Food - Vegetables,Vegetables,430.4,65,9/10/2022,9:45 PM,Berny Bow,19067 Grayhawk Street,Transferencia bancaria
+Maple Bacon Jerky,Food - Meat,Jerky,940.07,81,2/15/2022,11:34 AM,Myer Pearsey,446 Farmco Plaza,Efectivo
+Pasta (Fusilli),,Pasta,430.81,60,9/8/2022,2:37 AM,Beck Gentner,9 Harbort Trail,Efectivo
+Linen Trousers,Clothing - Bottoms,Trousers,240.55,311,12/21/2022,3:05 PM,Gertrude Escalero,9 Ridgeview Circle,Efectivo
+Zucchini Noodles,Food - Vegetables,Pasta Alternatives,333.93,541,9/10/2022,9:24 PM,Umeko Beacon,67630 La Follette Crossing,Transferencia bancaria
+Pet Hair Vacuum Cleaner Attachment,Pets,Grooming Supplies,793.43,600,11/21/2022,12:19 AM,Solly Hoy,8 Ridgeview Park,Efectivo
+Sriracha Hot Chili Sauce,Food - Condiments,Hot Sauces,945.16,272,1/18/2022,6:10 PM,Maitilde Treble,61 Merchant Drive,Transferencia bancaria
+Pet Bed,Pets,Pet Accessories,769.58,361,6/15/2022,12:34 AM,Francis Jozaitis,3 Pond Circle,Tarjeta de crédito
+Magnetic Chess Set,Toys,Board Games,760.06,736,7/12/2022,12:01 AM,Audi Seckington,34 Schurz Hill,Efectivo
+Protein Powder,Fitness,Nutritional Supplements,306.18,539,7/3/2022,9:28 AM,Flinn Smalls,19223 Blue Bill Park Crossing,Tarjeta de crédito
+Kids' Crafting Station,Toys,Creative Arts & Crafts,721.65,393,10/12/2022,10:41 PM,Jesselyn Torbeck,182 Goodland Way,Tarjeta de crédito
+Smoked Salmon,Food - Seafood,Smoked Seafood,971.0,542,3/30/2022,6:01 AM,Sanson Sabater,1689 Huxley Hill,Tarjeta de crédito
+Noise Reduction Headphones,Audio,Headphones & Earbuds,776.31,647,10/16/2022,11:13 PM,Giavani Stripp,58107 Center Hill,Efectivo
+Tea Infuser Bottle,Kitchen,Beverage Appliances,730.95,547,10/3/2022,9:28 PM,Kamila MacMichael,0 Blue Bill Park Avenue,Efectivo
+Miso Soup Mix,Food - Soups,Instant Soups,649.7,519,11/2/2022,3:51 PM,Lucais Stanman,4 Becker Trail,Transferencia bancaria
+Nature Explorer Lens Kit,Toys,Outdoor Play Toys,214.82,192,11/20/2022,6:18 PM,Cleon Bodiam,15 New Castle Center,Transferencia bancaria
+Almond Joy Munch Bars,Food - Snacks,,21.59,810,4/26/2022,7:36 PM,Marchelle Ternouth,830 Glacier Hill Circle,Transferencia bancaria
+Wine Glasses,,Kitchen Accessories,763.28,944,8/5/2022,4:39 AM,Sal Duckitt,3 Loeprich Alley,Tarjeta de crédito
+Ice Cream Maker,Kitchen,Small Appliances,983.98,646,10/12/2022,7:06 AM,Andie McPartlin,925 Declaration Junction,Transferencia bancaria
+Ranch Dressing,Food - Condiments,Dressing,873.35,332,3/27/2022,10:06 PM,Oralla Petracchi,0231 1st Drive,Tarjeta de crédito
+Plaid Flannel Shirt,Clothing - Tops,Shirts,257.85,386,4/13/2022,7:13 PM,Renato Bucknell,4443 Arrowood Place,Transferencia bancaria
+Spinach Artichoke Dip,Food - Snacks,Dips and Spreads,145.95,756,5/16/2022,10:30 PM,Linnea Dmtrovic,8 Trailsway Way,Tarjeta de crédito
+Pumpkin Spice Granola,,Granola/Cereal,476.91,124,8/24/2022,7:42 PM,Amargo Arnholdt,9124 Crest Line Avenue,Transferencia bancaria
+Camera Tripod,Photography,Camera Accessories,565.23,385,8/13/2022,11:13 PM,Claribel Slimm,262 Rowland Road,Efectivo
+Acoustic Guitar,,Instruments,311.02,35,12/4/2022,10:56 AM,Thia Larrington,3 Scott Point,Transferencia bancaria
+Bluetooth Sleep Headphones,Audio,,142.88,591,10/9/2022,2:10 AM,Sheelah Reeds,85 Crest Line Avenue,Transferencia bancaria
+Karaoke Microphone,Music,Audio Equipment,703.75,675,5/24/2022,5:52 PM,Franchot Bosch,72177 Caliangt Junction,Efectivo
+Hand Crank Blender,,Small Appliances,748.61,21,2/14/2022,8:31 AM,Berk Siggee,1 Pennsylvania Court,Transferencia bancaria
+Portable Projector,Electronics,,716.05,367,6/10/2022,3:49 AM,Burtie Mitchard,29831 Express Trail,Transferencia bancaria
+Multi-Layer Food Steamer,Kitchen,,249.3,,6/17/2022,7:08 AM,Shea Riply,2 Village Court,Transferencia bancaria
+Vegetable Chips,Food - Snacks,Healthy Snacks,547.99,,12/2/2022,5:01 PM,Alisha Dallimare,629 Weeping Birch Terrace,Efectivo
+Chiffon Blouse,Clothing - Shirts,Dress Shirts,475.83,698,12/1/2022,12:06 AM,Job Cranstoun,131 Spenser Alley,Transferencia bancaria
+Maple Pecan Granola,Food - Breakfast,Granola/Cereal,915.72,817,7/29/2022,3:08 PM,Lettie Cornewall,9130 Eliot Plaza,Efectivo
+Sliced Avocado,Food - Produce,Fresh Cut Fruits,884.62,557,5/12/2022,9:13 AM,Lethia Exrol,565 Cardinal Center,Transferencia bancaria
+Smart LED Desk Lamp,Office,Lighting,121.87,980,11/2/2022,3:42 PM,Yorgos Ferrige,60 Chive Parkway,Tarjeta de crédito
+Self-Adhesive Wallpaper,,Decorative Wall Art & Accessories,296.95,180,6/24/2022,2:47 AM,Karissa Tissell,1664 Sherman Way,Tarjeta de crédito
+Pasta Primavera Kit,Food - Meal Kits,Vegetarian Meal Kits,291.88,906,7/1/2022,12:09 PM,Beryle Spadazzi,50 Kipling Point,Transferencia bancaria
+Beard Grooming Kit,Grooming,Grooming,151.68,718,9/27/2022,12:50 PM,Gunter Hrihorovich,436 Scoville Court,Transferencia bancaria
+Gluten-Free Bread,Food - Bakery,Breads,91.52,,9/7/2022,10:31 PM,Fritz Shawl,83298 Mosinee Park,Transferencia bancaria
+Peach Fruit Cups,Food - Snacks,Sweet Snacks,323.03,462,8/25/2022,1:13 AM,Ancell Conklin,14698 Waywood Drive,Transferencia bancaria
+Vegan Cheese,Food - Dairy Alternatives,Plant-Based Cheese,177.53,,9/23/2022,7:04 AM,Adina Ible,34 Ridgeview Way,Efectivo
+Lemonade Mix,Food - Beverages,Drink Mixes,375.02,810,3/27/2022,6:31 AM,Klarika Redsell,025 Clarendon Junction,Transferencia bancaria
+Adjustable Dumbbells,Fitness,Strength Training Equipment,734.49,375,1/6/2022,2:10 PM,Kellsie Tunnicliffe,9574 Bluestem Park,Tarjeta de crédito
+Gardening Tools Set,Garden,Garden Tools,353.28,,7/13/2022,5:26 PM,Reiko Heckle,5128 Crowley Hill,Efectivo
+Adjustable Laptop Stand,Office,Laptop Accessories,760.33,919,5/2/2022,4:58 AM,Herve Poulsum,50840 Novick Park,Transferencia bancaria
+Mayonnaise,Food - Condiments,,471.3,380,6/2/2022,2:10 AM,Billi Dener,62 Carberry Lane,Tarjeta de crédito
+Oven Mitts,Kitchen,,167.4,578,6/15/2022,10:57 PM,Llewellyn MacAllister,187 Hoard Street,Tarjeta de crédito
+Chickpeas,Food - Canned Goods,Canned Legumes,41.13,934,2/14/2022,9:36 AM,Godard Helm,33 Tennessee Alley,Tarjeta de crédito
+Chili Lime Seasoning,Food - Spices,,822.23,129,11/19/2022,12:21 PM,Waverly Bulcroft,5813 Fordem Park,Efectivo
+Skincare Set,Beauty,Skincare,268.91,522,12/22/2022,8:06 AM,Reta Livsey,47713 Mccormick Way,Tarjeta de crédito
+Honey Butter Popcorn,Food - Snacks,Gourmet Snacks,161.17,694,4/10/2022,8:32 PM,Gwenette Brinkley,00084 Knutson Parkway,Tarjeta de crédito
+Plant Watering Spikes,,Garden Supplies,615.26,853,7/8/2022,6:22 PM,Lawry Dimnage,960 American Ash Way,Efectivo
+Phone Screen Protector,Accessories,Mobile Accessories,647.69,205,9/8/2022,12:30 PM,Myrah Tennison,84 Lindbergh Parkway,Tarjeta de crédito
+Skincare Fridge,Beauty,Skincare,236.0,621,7/18/2022,7:44 AM,Marni Morrilly,578 Anthes Drive,Transferencia bancaria
+Organic Brown Sugar,Food - Baking,Sweeteners,703.47,211,4/23/2022,10:25 PM,Aube Dalziel,208 Elka Circle,Transferencia bancaria
+Balsamic Vinegar,Food - Condiments,Vinegars,201.67,848,8/11/2022,1:08 AM,Dix Madgwick,00767 Del Mar Hill,Transferencia bancaria
+Reusable Produce Bags Set,Kitchen,Eco-Friendly Kitchen Products,756.52,582,8/8/2022,10:48 PM,Briant Bedward,0 Goodland Junction,Tarjeta de crédito
+Pumpkin Spice Granola,Food - Breakfast,Granola/Cereal,75.52,183,5/4/2022,8:44 PM,Elsy Samsworth,256 Maple Wood Terrace,Efectivo
+Digital Photo Frame,Home,Decorative Wall Art & Accessories,431.14,425,2/19/2022,3:22 AM,Lindsey Pavlenkov,8 Ohio Circle,Tarjeta de crédito
+Spicy Kimchi,Food - Condiments,,380.05,60,5/9/2022,5:47 PM,Tasia Mechell,77 Scott Point,Efectivo
+Wireless Security System,Home Security,Smart Security,708.95,167,4/22/2022,1:37 AM,Norbie Lugg,2091 Fuller Junction,Transferencia bancaria
+Microfiber Cleaning Cloth Set,,Home Organization,497.6,492,5/13/2022,3:20 PM,Alleyn Sillwood,6 High Crossing Park,Tarjeta de crédito
+Italian Marinara Sauce,Food - Sauces,Pasta Sauces,54.05,711,11/30/2022,9:52 AM,Boony Willisch,8 Meadow Valley Avenue,Efectivo
+Raspberry Lemonade Mix,Food - Beverages,Drink Mixes,970.88,984,3/14/2022,9:58 AM,Chad Middlewick,09153 Dwight Street,Efectivo
+Mini Pretzels,Food - Snacks,Nuts and Pretzels,956.22,340,2/8/2022,3:44 AM,Shelbi Jullian,11 Oxford Terrace,Transferencia bancaria
+Ultraviolet Phone Sanitizer,Health,Health Devices,268.52,371,2/14/2022,2:34 PM,Minta Purves,7 Crownhardt Circle,Transferencia bancaria
+Mini Waffle Maker,Kitchen,Small Appliances,88.36,325,2/14/2022,11:32 AM,Clementine Testo,864 Bunker Hill Junction,Efectivo
+Terry Cloth Robe,Clothing - Loungewear,Bathrobes,305.75,434,5/4/2022,4:42 PM,Sherm Bau,2423 Shoshone Way,Tarjeta de crédito
+Low-Fat Yogurt,Food - Dairy,Yogurt,98.87,564,2/12/2022,11:52 PM,,75221 Hoffman Alley,Transferencia bancaria
+Smartwatch,Wearable Tech,Fitness Monitors,274.06,949,2/6/2022,3:07 AM,Brandy Kapiloff,2357 Morning Trail,Tarjeta de crédito
+Picnic Blanket,Outdoor,Outdoor Accessories,672.93,798,5/21/2022,5:57 AM,,3218 Truax Trail,Transferencia bancaria
+Vegan Chickpea Salad,Food - Prepared Foods,Salads,26.38,129,4/17/2022,9:35 PM,Sherilyn Lishmund,66226 Kedzie Alley,Tarjeta de crédito
+Baked Potato Chips,Food - Snacks,Healthy Snacks,665.69,49,5/24/2022,3:18 PM,Hamlin Cloke,8 Jenna Road,Efectivo
+Ripped Boyfriend Jeans,Clothing - Bottoms,,415.25,615,11/25/2022,8:01 PM,Elna Zarfai,34604 Lighthouse Bay Avenue,Transferencia bancaria
+Belted Trench Coat,Clothing - Outerwear,Coats,494.91,29,5/29/2022,6:12 PM,,3626 Jay Crossing,Efectivo
+Home Cleaning Robot,Home Appliances,Robotic Cleaners,377.87,285,5/2/2022,1:19 AM,Lucienne Trytsman,9 Westridge Street,Tarjeta de crédito
+Pet Grooming Scissors,Pets,Grooming Supplies,119.7,304,2/9/2022,5:06 PM,Oates Fortnum,8588 Blackbird Lane,Efectivo
+Kids' Science Experiment Kit,Toys,Educational Toys,828.06,920,11/11/2022,2:02 AM,Kort Chesworth,8 Valley Edge Trail,Tarjeta de crédito
+Relaxed Fit Henley Shirt,Clothing - Tops,Shirts,327.89,,7/4/2022,4:26 PM,Lynn Leyninye,8 Sundown Hill,Transferencia bancaria
+Adjustable Yoga Mat Strap,Fitness,,783.71,746,12/25/2022,6:49 PM,Pippo Jozwik,63522 Norway Maple Way,Transferencia bancaria
+Insulated Sport Tumbler,Fitness,,103.86,485,5/22/2022,6:45 AM,Eilis Silverton,187 Melvin Pass,Transferencia bancaria
+Spicy Vegetable Sushi Rolls,Food - Prepared Foods,Vegetarian Meals,796.47,839,11/29/2022,8:08 PM,Coop Garlett,755 Pepper Wood Plaza,Tarjeta de crédito
+Organic Coconut Yogurt,Food - Dairy,Dairy Alternatives,867.9,482,5/6/2022,12:01 AM,Kattie Kuhnel,32 Green Ridge Park,Transferencia bancaria
+Cinnamon Sugar Tortilla Chips,,,892.36,782,6/18/2022,3:06 PM,Liam Syalvester,06 Coleman Center,Transferencia bancaria
+Scented Candles,Home,,95.78,494,1/17/2022,9:50 PM,Vick Benediktovich,40950 Bunting Road,Transferencia bancaria
+Smart LED Light Strip,Home,Smart Home & Security,888.17,434,11/4/2022,11:57 AM,Marion Greenroad,8 Springview Lane,Tarjeta de crédito
+Almond Crunch Granola Bars,Food - Snacks,Healthy Snacks,768.27,780,3/20/2022,12:20 PM,Simone MacTeggart,90263 Fuller Alley,Efectivo
+Mushroom Soup (canned),Food - Canned Goods,Soups & Broths,788.14,538,2/24/2022,10:17 PM,Rock Barsham,019 Graedel Crossing,Efectivo
+Interactive Robot Toy,Toys,Robotics Toys,857.22,408,2/21/2022,5:42 PM,Merry Morison,43 Vernon Park,Tarjeta de crédito
+Ginger Turmeric Tea,Food - Beverages,Herbal Tea,346.38,639,9/8/2022,5:35 AM,Wheeler Edards,355 Parkside Junction,Efectivo
+Cordless Electric Screwdriver,Tools,Power Tools,758.07,731,8/23/2022,6:05 AM,Lotta Kimmins,8 Rutledge Lane,Transferencia bancaria
+Smart Air Purifier,Home,Air Quality & Purification,277.41,779,5/18/2022,4:15 AM,Jerrine Scraggs,30980 Westerfield Point,Transferencia bancaria
+Vanilla Bean Greek Yogurt,Food - Dairy,,425.31,293,10/15/2022,1:47 AM,,7859 Merchant Hill,Transferencia bancaria
+Lightweight Rain Jacket,Clothing - Outerwear,Outerwear,252.12,172,1/28/2022,1:12 PM,Tiffani Standering,130 Talmadge Lane,Efectivo
+Ready-to-Eat Chili,,,303.57,358,2/23/2022,11:00 PM,Clayton Cristofaro,8073 New Castle Circle,Tarjeta de crédito
+Spinach Feta Wraps,Food - Deli,Wraps/Rolls,929.6,345,11/24/2022,3:41 PM,Sunny Aggas,0 Rusk Alley,Efectivo
+Buffalo Chicken Dip,Food - Dips,Spicy Dips,769.29,235,3/6/2022,12:42 AM,Reyna Weich,16062 Mifflin Point,Tarjeta de crédito
+Gingerbread House Kit,Food - Baking,Baking Kits,931.77,450,7/2/2022,5:40 PM,Danna Dysart,3 Armistice Junction,Transferencia bancaria
+Dark Chocolate Covered Pretzels,Food - Snacks,Chocolate Snacks,435.07,563,9/11/2022,10:33 PM,Monica Simonsson,5638 Trailsway Trail,Efectivo
+Red Lentil Pasta,Food - Pasta,Specialty Pasta,155.9,594,9/14/2022,9:25 PM,Chris Rustman,7 Scoville Lane,Efectivo
+Wooden Children's Play Kitchen,Toys,,169.87,364,2/18/2022,1:46 AM,Sharona Enser,755 Green Ridge Center,Tarjeta de crédito
+Handheld Garment Steamer,Home,,572.39,821,10/26/2022,4:47 AM,Ernaline Mateos,732 6th Hill,Tarjeta de crédito
+Oats,Food - Grains,Whole Grains,158.17,951,5/23/2022,3:09 PM,Katee Willder,613 Dapin Circle,Tarjeta de crédito
+Garden Kneeler and Seat,,Garden Tools,401.45,853,7/27/2022,7:26 PM,Reina Batchelder,13 Alpine Court,Transferencia bancaria
+Puzzle Game Set,Toys,Board Games,574.17,67,11/22/2022,6:39 PM,Cleon Chessil,3 Forest Dale Park,Transferencia bancaria
+Samoas Cookie Mix,Food - Baking,Mixes,877.84,640,11/19/2022,11:33 PM,Xerxes Fincham,9 Mitchell Point,Tarjeta de crédito
+Children's Educational Puzzle,Toys,Educational Toys,10.12,244,10/6/2022,12:31 AM,Marielle Nesbitt,7190 Rieder Pass,Transferencia bancaria
+Maple Pecan Pancake Mix,Food - Breakfast,Pancakes & Waffles,501.0,453,8/10/2022,5:08 PM,Vivi Gorrick,93 Oakridge Alley,Transferencia bancaria
+Car Vacuum Cleaner,Automotive,Car Cleaning,639.03,787,1/3/2022,10:56 PM,Vania Hunston,859 Fallview Avenue,Tarjeta de crédito
+Classic Cheeseburger Mix,Food - Meats,Ground Meats,369.73,181,9/11/2022,3:51 PM,Brannon MacGruer,25 Stoughton Crossing,Transferencia bancaria
+Sushi Rice,Food - Grains,Specialty Rice,385.65,,2/1/2022,5:32 PM,Paulo Cottisford,6997 High Crossing Point,Transferencia bancaria
+Blackberry Compote,Food - Condiments,Fruit Spreads,290.03,334,7/24/2022,3:50 AM,,606 Sullivan Terrace,Transferencia bancaria
+Frozen Acai Bowl,Food - Frozen Foods,,711.04,960,6/29/2022,8:11 PM,Layney Uridge,912 Park Meadow Street,Efectivo
+Smoked Paprika Chicken Thighs,Food - Meat,Prepared Poultry,180.09,501,1/25/2022,11:34 AM,Chanda Fortescue,4904 Sachs Point,Transferencia bancaria
+Ski Goggles,,Snow Sports,90.27,763,10/12/2022,11:03 AM,Levin Ducker,2755 Sunbrook Avenue,Transferencia bancaria
+Thyme,,Vegetables,210.63,220,6/27/2022,2:37 PM,Alfie Skyram,113 Walton Park,Tarjeta de crédito
+Fitness Resistance Bands Set,Fitness,Strength Training Equipment,339.18,171,6/24/2022,10:59 AM,Thibaut Murkin,84977 2nd Plaza,Tarjeta de crédito
+Air Mattress,Outdoor,Camping Equipment,52.25,407,11/17/2022,6:53 PM,Maddalena Prozillo,6611 Esker Junction,Transferencia bancaria
+Folding Pocket Knife,,Hand Tools,725.46,416,4/13/2022,11:15 AM,Gilberto Wandrach,19 Buell Trail,Transferencia bancaria
+Wireless Earbuds,Audio,Earbuds,857.59,353,10/20/2022,5:08 PM,Hartley Playdon,65 Pleasure Avenue,Transferencia bancaria
+Garlic Butter Shrimp,Food - Seafood,Frozen Seafood,609.63,952,7/13/2022,11:40 AM,Lin Tiddy,08 Kennedy Crossing,Transferencia bancaria
+Self-Massaging Pillow,Health,Sleep & Relaxation,390.86,631,8/13/2022,10:44 PM,Trixi Strauss,4264 Jay Lane,Tarjeta de crédito
+Sporty Cap,Clothing - Accessories,Headwear,936.47,,11/24/2022,3:32 PM,Pryce Downage,963 Badeau Circle,Transferencia bancaria
+Car Escape Tool,Automotive,,851.72,288,1/4/2022,8:26 PM,Ezechiel Astin,828 1st Lane,Tarjeta de crédito
+Lemon Herb Chicken,Food - Meat,,859.16,403,1/28/2022,2:11 PM,Erminia Slott,7 Hallows Hill,Efectivo
+Raspberry Vanilla Greek Yogurt,Food - Dairy,Flavored Yogurt,100.96,875,3/8/2022,6:17 PM,Berky Pien,6 Village Hill,Tarjeta de crédito
+Sculpting Kit,Art Supplies,,839.27,162,12/9/2022,7:54 PM,Omar Mostin,7421 Corben Alley,Efectivo
+Pecan Pie Filling,Food - Baking Goods,Desserts,956.53,773,11/17/2022,10:55 PM,Shelby Halsall,2426 Melby Junction,Transferencia bancaria
+Coffee Grinder,Kitchen,Coffee Equipment,253.73,711,6/13/2022,9:08 AM,Hamilton Ribeiro,28 Bartelt Circle,Efectivo
+Pineapple Teriyaki Chicken Mix,Food - Meat,Marinades and Sauces,651.66,874,8/6/2022,3:59 PM,Shayla Stirman,930 Declaration Drive,Efectivo
+Magnetic Chess Set,Toys,Board Games,318.7,903,3/16/2022,2:00 PM,,67979 Randy Junction,Transferencia bancaria
+Frozen Salmon Filets,Food - Seafood,Frozen Seafood,4.98,812,9/6/2022,5:04 PM,Shoshana Thresh,917 Debra Hill,Transferencia bancaria
+Face Mask Set,Health,Personal Care & Grooming,226.33,690,7/2/2022,7:27 AM,,3190 Lien Avenue,Transferencia bancaria
+Chilli Lime Corn on the Cob,Food - Vegetable,Vegetable Snacks,683.16,489,8/23/2022,9:02 PM,Benson Shakesby,68415 Division Trail,Tarjeta de crédito
+Mini Meatballs,Food - Frozen Meals,Frozen Appetizers,31.41,980,2/4/2022,9:09 PM,Dionysus Gudd,47592 Warbler Junction,Efectivo
+Water Bottle,Fitness,Hydration Gear,999.19,321,12/27/2022,6:11 AM,Hetti Adelberg,3566 Kennedy Circle,Efectivo
+Organic Cucumber,Food - Vegetables,Vegetables,985.02,796,3/5/2022,8:09 PM,Geralda Faloon,344 Dorton Crossing,Efectivo
+Kids' Gardening Tools Set,,Outdoor Play Toys,968.18,24,2/4/2022,11:42 PM,Analiese Fynn,31791 Brown Circle,Efectivo
+Savory Oats,Food - Breakfast,Savory Breakfast Options,269.5,809,1/19/2022,6:06 PM,Lana Simond,252 Hoepker Junction,Efectivo
+Fashionable Fanny Pack,Clothing - Accessories,Bags,884.69,,8/2/2022,4:45 AM,Savina Barenski,69743 Kipling Point,Tarjeta de crédito
+Artisan Pickles,Food - Condiments,Pickles,416.44,338,3/1/2022,6:43 AM,Maribeth Bergstram,36017 Erie Way,Tarjeta de crédito
+Artisan Flatbreads,Food - Bakery,Breads,70.18,5,1/16/2022,9:19 AM,Bar Liddiatt,627 Mendota Crossing,Efectivo
+Mixed Berry Smoothie Pack,Food - Frozen Food,Frozen Fruits,704.64,428,6/26/2022,8:40 PM,Lefty Cullotey,450 Fisk Plaza,Transferencia bancaria
+DIY Lip Balm Making Kit,Crafts,DIY Crafts,941.55,,7/5/2022,10:05 PM,Fairleigh MacTavish,17724 Loftsgordon Circle,Transferencia bancaria
+Sweet Chili Sauce,Food - Condiments,Sauces,907.6,860,12/7/2022,12:10 PM,Patten Canning,3 Scoville Circle,Efectivo
+Habanero Hot Sauce,Food - Condiments,Spicy Sauces,447.78,813,11/2/2022,2:06 PM,Langston Conn,18734 Farwell Parkway,Tarjeta de crédito
+Foldable Electric Scooter,Outdoor,Outdoor Accessories,583.87,992,6/16/2022,9:30 PM,Christine Bullivent,3 Coleman Center,Transferencia bancaria
+Ranch Dressing,Food - Condiments,Dressing,223.27,786,9/3/2022,11:03 PM,Nollie Dawidowsky,0335 Kedzie Avenue,Tarjeta de crédito
+Stuffed Peppers with Quinoa,Food - Prepared Meals,Vegetarian Meals,81.32,385,5/28/2022,3:16 PM,Ralina Tolwood,70 Schlimgen Place,Tarjeta de crédito
+Kids' Science Experiment Kit,Toys,Educational Toys,847.76,895,6/24/2022,10:18 AM,Puff Plaid,77575 David Lane,Tarjeta de crédito
+Gluten-Free Bread,Food - Bakery,Breads,121.24,283,9/20/2022,4:33 PM,Ivan Lortz,01 Montana Avenue,Tarjeta de crédito
+Portable Phone Mug Holder,Automotive,Automotive Accessories,951.22,549,2/22/2022,11:19 PM,Phil Brownstein,1 Harbort Street,Tarjeta de crédito
+Sweet Pea Hummus,Food - Dips,Vegetable Dips,434.99,282,6/13/2022,12:55 AM,,9 Northland Drive,Tarjeta de crédito
+Classic Caesar Salad Kit,Food - Salads,Salad Kits,809.25,876,4/2/2022,11:41 AM,Geraldine Magne,60716 Mifflin Avenue,Efectivo
+Sea Salt Caramel Brownie,,Desserts,256.61,241,1/9/2022,9:43 AM,Casi Gabbotts,5227 Almo Hill,Efectivo
+Pepperoni Pizza Rolls,Food - Snacks,Savory Snacks,771.42,922,11/29/2022,1:07 AM,Drew Gillingwater,1 Surrey Road,Tarjeta de crédito
+Peanut Butter Banana Smoothie,Food - Beverages,,308.89,209,11/7/2022,6:18 AM,Fons Corston,44704 Heath Park,Tarjeta de crédito
+Rice Noodles,Food - Grains,Pasta,459.23,182,9/1/2022,2:38 AM,Ilsa Yakunkin,2 Mallory Terrace,Transferencia bancaria
+Spicy Italian Sausage,Food - Meat & Seafood,Meat Products,596.6,623,2/8/2022,4:20 PM,Averell Worboy,29937 Oneill Trail,Efectivo
+Adjustable Pet Grooming Table,Pets,Grooming Supplies,635.01,474,4/29/2022,4:23 AM,Janek Saker,28733 Hovde Crossing,Tarjeta de crédito
+Dill Pickle Chips,Food - Condiments,,764.83,711,8/23/2022,2:42 AM,Abby Boake,8543 Hanson Terrace,Transferencia bancaria
+Energy Bites,Food - Snacks,,823.42,675,9/17/2022,10:31 PM,Vilhelmina Cadwaladr,14978 Merrick Center,Transferencia bancaria
+Digital Photo Frame,,Decorative Wall Art & Accessories,918.95,752,9/15/2022,3:15 PM,Brander Curragh,21741 Ohio Terrace,Efectivo
+Vegan Tacos,,Frozen Vegan Meals,212.0,301,5/31/2022,5:11 AM,Ebonee Podmore,54890 Declaration Place,Tarjeta de crédito
+Bamboo Utensil Set,Kitchen,,897.61,565,9/15/2022,5:44 AM,Avrom Downey,971 Brentwood Place,Tarjeta de crédito
+Fitness Mat,Fitness,Fitness Accessories,952.69,947,5/20/2022,9:12 PM,Lucio Gook,32835 Blue Bill Park Terrace,Transferencia bancaria
+Leather Wallet,Accessories,Wallets,222.94,662,5/19/2022,9:28 PM,Pansie Malpass,82 Barby Way,Efectivo
+Sesame Noodles,Food - Grab-and-Go,Noodles,227.41,925,2/4/2022,5:45 AM,Charlene Ashbee,70002 Melvin Pass,Efectivo
+Cordless Water Flosser,Health,Oral Care & Hygiene,349.22,462,9/18/2022,8:27 AM,Rolfe Earpe,4 Melvin Parkway,Tarjeta de crédito
+Lemon Pepper Seasoning,Food - Seasonings,Citrus Seasonings,446.81,486,6/10/2022,6:39 AM,Lidia Quarrell,55799 Cardinal Park,Transferencia bancaria
+Gardening Tool Belt,Garden,Gardening Accessories,475.44,209,5/20/2022,9:18 AM,Whitman Biasotti,7 Hagan Road,Efectivo
+Fitbit Activity Tracker,Fitness,Wearable Technology,357.96,,5/17/2022,2:07 AM,Xavier Apperley,2322 Eastwood Alley,Efectivo
+White Rice,Food - Grains,,269.41,480,12/8/2022,10:11 AM,Minette Bartrum,59691 Gulseth Drive,Tarjeta de crédito
+Peanut Butter Pretzel Bites,Food - Snacks,Nut-Based Snacks,857.19,451,2/10/2022,6:00 AM,Halley Tuxwell,4388 Briar Crest Terrace,Efectivo
+Pet Leash,Pets,Pet Accessories,7.08,967,9/27/2022,4:10 PM,Cornelius Moorwood,249 Eggendart Street,Tarjeta de crédito
+Collapsible Water Bottle,,Hydration Gear,108.3,35,7/28/2022,7:01 PM,Alanah Praten,93 Kim Road,Transferencia bancaria
+Portable Pet Bathing Tool,,Grooming Supplies,732.71,910,1/31/2022,6:16 AM,Ginger Saward,39161 Annamark Lane,Efectivo
+Instant Read Meat Thermometer,Kitchen,Cooking Tools & Utensils,745.68,,12/28/2022,11:46 PM,Wendeline Szymczyk,09 Brentwood Pass,Efectivo
+Kids' Gardening Tools Set,,,711.03,718,10/13/2022,5:36 PM,Barclay Ritmeier,219 Bonner Court,Efectivo
+Water-Resistant Bluetooth Speaker,Audio,Portable Speakers,348.81,157,2/13/2022,4:43 PM,Mirna Hares,8 Namekagon Place,Tarjeta de crédito
+Sunflower Seeds,Food - Nuts,Seeds & Nuts,190.41,865,3/6/2022,4:39 PM,Calvin Icom,885 Nobel Avenue,Transferencia bancaria
+Portable Leaf Blower,Outdoor,Garden Supplies,533.76,35,12/12/2022,7:40 AM,,0904 Havey Junction,Tarjeta de crédito
+Ergonomic Gaming Chair,Gaming,Gaming Accessories,194.07,808,5/11/2022,9:11 AM,Nahum Shugg,2598 Spenser Trail,Tarjeta de crédito
+Safety Goggles,Safety,Personal Protective Equipment (PPE) & Disaster Preparedness,37.22,296,11/28/2022,12:47 PM,Giovanni Chesnay,51931 Graceland Center,Efectivo
+Pine Nuts,Food - Nuts,,27.35,805,4/4/2022,9:19 AM,Case Rudeyeard,933 Bonner Drive,Transferencia bancaria
+Ginger Turmeric Tea,,Herbal Tea,47.95,520,5/5/2022,6:57 PM,Keary Jekyll,8 Arrowood Junction,Efectivo
+Vegetable Korma,Food - Frozen,,818.11,674,3/5/2022,4:19 AM,Keene Ummfrey,07 Blue Bill Park Street,Efectivo
+Handcrafted Wooden Coasters,Home,Decorative Wall Art & Accessories,366.24,94,10/23/2022,11:18 AM,Duffie Niemiec,2 Huxley Trail,Efectivo
+Memory Foam Mattress Topper,Home,Bedding & Linens,145.4,339,6/28/2022,11:56 AM,Suzanne Gascoyen,96 Steensland Way,Efectivo
+Mediterranean Olives,Food - Condiments,Olive Products,80.25,129,3/18/2022,1:17 AM,Hettie O'Connel,712 Kedzie Junction,Efectivo
+Window A/C Unit,Home Appliances,Cooling Appliances,562.69,415,3/24/2022,1:52 AM,Brockie Arbuckle,473 Dawn Lane,Tarjeta de crédito
+Sweet Potato Mash,Food - Frozen Foods,Frozen Vegetables,116.27,759,3/7/2022,2:45 PM,Veronique Witty,8910 Cambridge Junction,Transferencia bancaria
+Comfort Flats,Clothing - Shoes,Casual Footwear,915.34,286,3/12/2022,7:35 PM,Alfonse Kidds,553 Charing Cross Drive,Efectivo
+Pet Food Storage Container,Pets,Pet Accessories,869.83,991,8/19/2022,3:14 AM,Annabella Niblock,4688 Carey Center,Efectivo
+Wall-Mounted Organizer,Home,Home Organization,232.94,153,6/23/2022,11:17 PM,Sebastiano Gibson,2 Melvin Junction,Transferencia bancaria
+Pet Activity Tracker,,Pet Health and Care,392.05,34,12/7/2022,11:24 PM,Karon Gabbitus,011 4th Way,Transferencia bancaria
+Trendy Bomber Jacket,Clothing - Outerwear,Jackets,612.67,761,5/30/2022,4:36 PM,Fernando Rickardsson,777 Montana Alley,Efectivo
+Classic Pumps,Clothing - Footwear,Women's Dress Shoes,781.84,526,7/2/2022,5:14 AM,Jewell Regler,00297 Valley Edge Pass,Transferencia bancaria
+Pet Tracking Collar,,Pet Accessories,660.62,301,6/24/2022,10:03 PM,Ingaberg Vautrey,621 Debs Court,Tarjeta de crédito
+LED Flashing Pet Collar,Pets,Pet Accessories,578.06,20,6/6/2022,7:51 AM,Carmon Froschauer,9 8th Way,Efectivo
+Ginger Tea,Food - Beverages,Herbal Tea,598.48,762,4/15/2022,1:56 AM,Ileane Frear,1680 Springview Street,Tarjeta de crédito
+Lemon Dill Chicken Skewers,Food - Meat,Marinated Poultry,135.12,391,8/13/2022,12:18 PM,Windy Kurtis,58 Kropf Crossing,Transferencia bancaria
+Patterned Knit Scarf,Clothing - Accessories,Scarves,150.57,730,4/24/2022,5:58 AM,Gage Pratty,0 Columbus Plaza,Tarjeta de crédito
+Homemade Salsa,Food - Condiments,,622.41,951,9/11/2022,9:14 AM,Aldridge Kolczynski,4 Granby Lane,Efectivo
+Beet Salad,Food - Prepared Foods,Salads,930.63,459,10/14/2022,12:45 PM,Arv Peddar,24368 Eastlawn Point,Efectivo
+Portable Massage Table,Health,Massage Therapy,907.21,330,10/19/2022,2:10 AM,Elka Dykes,3051 Crest Line Place,Transferencia bancaria
+Travel Luggage Scale,Travel,,316.16,405,3/23/2022,10:38 AM,Dominique Fawlks,22 Vera Way,Transferencia bancaria
+Satin Slip Dress,Clothing - Dresses,Evening Wear,758.39,,1/18/2022,8:52 PM,Land Allibon,24590 Main Point,Tarjeta de crédito
+Garlic Herb Grilled Chicken,Food - Frozen Foods,Frozen Chicken Meals,367.11,472,7/29/2022,10:32 PM,Micaela Esmonde,73 Summer Ridge Road,Tarjeta de crédito
+Organic Whole Wheat Flour,Food - Baking Goods,,371.87,,8/28/2022,6:03 PM,Stepha Arendsen,401 Hagan Road,Transferencia bancaria
+Creamy Spinach Dip,Food - Prepared Foods,Dips and Spreads,459.09,778,5/18/2022,6:38 AM,Hatti Brickett,938 Gina Center,Transferencia bancaria
+Inflatable Pool Float,Outdoor,Outdoor Recreation,909.66,635,5/31/2022,10:36 AM,Clo Whitebread,224 Loomis Alley,Transferencia bancaria
+Window Bird Feeder,Outdoor,,39.78,,2/1/2022,8:18 AM,Amalie Dimmick,16 Ridgeway Court,Efectivo
+Personal Blender with Travel Cup,Kitchen,Small Appliances,910.39,76,6/18/2022,9:43 PM,Decca Ephson,8512 Melby Drive,Efectivo
+Whole Wheat Pita Bread,Food - Bread,Whole Grain Breads,557.68,316,6/26/2022,6:01 PM,Helaina Fullerlove,0346 Bowman Street,Tarjeta de crédito
+Organic Coconut Water,Food - Beverages,Natural Beverages,745.34,223,3/14/2022,2:58 PM,Pollyanna Trever,64418 Killdeer Avenue,Transferencia bancaria
+Peanut Butter Pretzel Nuggets,Food - Snacks,Candy,970.93,581,10/30/2022,5:13 AM,Zea Riddel,550 Northfield Court,Transferencia bancaria
+Buttermilk Pancakes,Food - Breakfast,Pancakes & Waffles,454.83,326,2/6/2022,6:55 PM,Sharai Clapham,2 Killdeer Way,Transferencia bancaria
+Adjustable Kitchen Broom Stand,Home,Kitchen Accessories,782.47,272,9/26/2022,2:48 AM,Cesar Carlson,2488 Paget Pass,Efectivo
+Organic Quinoa,Food - Grains,Whole Grains,479.46,469,10/15/2022,4:59 PM,Gretchen Cruikshanks,04 Caliangt Way,Tarjeta de crédito
+Cucumber,Food - Produce,Fruits & Vegetables,569.5,890,2/21/2022,1:57 PM,Linn Kitman,090 Northridge Center,Tarjeta de crédito
+Classic BBQ Sauce,Food - Condiments,BBQ Sauces,177.29,711,11/22/2022,11:28 AM,,5 Buena Vista Parkway,Tarjeta de crédito
+Digital Drawing Tablet,Art Supplies,Digital Art Supplies,374.09,894,12/28/2022,3:14 PM,Angel Spafford,1246 Chinook Plaza,Efectivo
+Slingback Sandals,Clothing - Footwear,Women's Footwear,392.13,970,3/17/2022,3:38 PM,Robinett Ramsdale,0154 Fordem Street,Tarjeta de crédito
+Curried Lentil Salad,Food - Salads,Vegetarian Salads,564.4,818,12/16/2022,1:27 PM,Adeline Huitt,1 Clove Lane,Efectivo
+Car Trash Can,Automotive,Automotive Accessories,137.52,136,2/20/2022,7:17 PM,Hetty Ventham,545 Pennsylvania Road,Efectivo
+Red Lentil Pasta,Food - Pasta,,195.72,999,10/18/2022,6:16 PM,Nathanial Schrieves,87101 Nelson Trail,Transferencia bancaria
+Cinnamon Raisin Bread,Food - Bakery,Breads,953.72,814,3/15/2022,3:41 PM,Gwendolyn Flay,451 Pine View Court,Transferencia bancaria
+Vegetable Broth,Food - Canned Goods,Soups & Broths,412.01,80,10/3/2022,4:30 AM,Moishe Sexton,21 Bayside Lane,Efectivo
+Grilled Vegetable Medley,Food - Vegetables,Vegetable Dishes,581.56,630,8/23/2022,11:11 PM,Morgun Shill,49529 Thierer Road,Efectivo
+Adjustable Skipping Rope,Fitness,,259.82,,3/20/2022,6:33 PM,Van Edlington,85642 Lighthouse Bay Point,Efectivo
+Frozen Berry Blend,Food - Frozen Foods,,918.16,845,1/15/2022,10:33 PM,Stephie Tregido,346 Springview Lane,Tarjeta de crédito
+Portable Refrigerator Freezer,Outdoor,Camping Equipment,920.5,1000,1/15/2022,6:08 PM,Brodie Capeling,9429 Macpherson Alley,Efectivo
+Garlic Butter Sauce,Food - Condiments,Sauces,639.41,783,5/21/2022,9:56 AM,Bridget De La Haye,740 Vidon Trail,Efectivo
+Sliced Cheese,Food - Dairy,Cheese,140.34,573,7/29/2022,6:55 PM,Annmaria Rodell,80 Westridge Terrace,Efectivo
+Ultra-Thin Laptop Sleeve,Accessories,Laptop Accessories,102.7,904,6/17/2022,5:37 AM,Daniella Housego,3 Reindahl Way,Transferencia bancaria
+Peanut Butter Filled Pretzels,Food - Snacks,,857.21,831,5/6/2022,1:51 PM,Yalonda Snibson,28612 Transport Pass,Transferencia bancaria
+Peanut Butter Banana Smoothie Mix,Food - Beverages,Smoothies,711.21,546,5/14/2022,2:40 AM,Peterus Conew,343 Express Trail,Efectivo
+Electric Butter Churn,Kitchen,Small Appliances,300.85,172,2/1/2022,10:35 AM,Evanne Sainsberry,9273 Sugar Alley,Transferencia bancaria
+Nordic Berry Smoothie,Food - Frozen Foods,Frozen Fruit Smoothies,149.56,418,6/23/2022,8:29 PM,Victor Gocke,3425 Ruskin Avenue,Tarjeta de crédito
+Window Bird Feeder with Suction Cups,Outdoor,Bird Feeding Accessories,404.47,893,2/22/2022,10:58 PM,Tamar Glancey,329 Grover Way,Efectivo
+Adjustable Yoga Mat Strap,Fitness,Yoga Equipment,35.27,848,2/1/2022,7:54 PM,Perri Thurston,1 Gerald Center,Tarjeta de crédito
+Travel Document Organizer,Travel,Travel Accessories,214.43,723,7/26/2022,3:28 PM,Rozina Hembery,2375 Lakewood Center,Efectivo
+Smartphone Car Mount with Wireless Charging,Automotive,Phone Accessories,247.29,619,12/7/2022,1:41 PM,Pansie Attew,5336 Glacier Hill Pass,Tarjeta de crédito
+Heat-Resistant Silicone Mat,Kitchen,Baking Accessories,160.26,163,5/15/2022,1:44 AM,Josephine Thirwell,7 Anderson Road,Transferencia bancaria
+Breathable Face Mask Set,Health,Safety & Protection,120.12,892,9/1/2022,7:01 PM,Dorice Leithgoe,37 Towne Center,Transferencia bancaria
+Sweet Potato Chips,Food - Snacks,Savory Snacks,524.04,947,9/30/2022,7:04 PM,Alene Tant,5839 Warner Center,Tarjeta de crédito
+Wine Decanter,,Kitchen Accessories,673.17,845,2/3/2022,9:50 PM,Salli Kingswood,3764 Granby Junction,Efectivo
+Recipe Book Stand,Kitchen,Kitchen Accessories,729.95,121,5/8/2022,1:33 AM,Davidde Blything,1 Esker Park,Efectivo
+Fishing Rod,Outdoor,Fishing Equipment,709.89,511,9/22/2022,2:31 AM,Berne Walbrun,17386 Jenna Road,Transferencia bancaria
+Ginger Tea,Food - Beverages,Herbal Tea,220.01,457,3/31/2022,3:59 AM,Josie Bourhill,9 Manley Place,Efectivo
+Portable Refrigerator Freezer,Outdoor,Camping Equipment,28.29,841,5/30/2022,3:35 PM,Athena Barczynski,957 6th Crossing,Tarjeta de crédito
+Whisk Set,Kitchen,Baking Accessories,266.44,579,10/25/2022,7:00 AM,Ronni Roden,10 Pierstorff Center,Efectivo
+LED Table Lamp,Home,Lighting & Lamps,837.4,203,7/10/2022,9:17 AM,Claresta Draco,41916 Grasskamp Point,Transferencia bancaria
+Wireless Earbud Silicone Covers,Accessories,,241.11,404,12/12/2022,2:44 AM,Clayson Cazalet,7 Pine View Trail,Efectivo
+Cauliflower Rice Stir-Fry,Food - Frozen Foods,Frozen Vegetables,617.59,,6/10/2022,4:47 PM,Bernarr Blenkinsopp,62 Marcy Street,Transferencia bancaria
+Carrot and Celery Sticks,Food - Produce,Fresh Vegetables,895.57,750,7/8/2022,6:52 AM,Nathan Brammar,305 Warrior Junction,Transferencia bancaria
+Black Bean Salsa,Food - Snacks,Salsas and Dips,95.21,655,5/6/2022,9:51 AM,Adan Bonifazio,81598 Grim Center,Efectivo
+Asian Stir-Fry Kit,Food - Frozen Meals,Frozen Asian Meals,741.02,779,9/10/2022,5:26 AM,Oswald Littrell,977 Homewood Point,Transferencia bancaria
+Wall Decals for Kids,Home,Home Decor,222.51,722,6/4/2022,5:13 AM,Vale Lillford,19 Loomis Junction,Efectivo
+Rechargeable Hand Warmer,,Personal Care,402.67,971,11/21/2022,4:48 PM,Jenna Jorg,2006 Pepper Wood Hill,Efectivo
+Herb Seasoned Couscous,Food - Grains,,295.74,40,2/15/2022,10:13 AM,Nataniel Matiasek,02 Homewood Way,Tarjeta de crédito
+Garlic Breadsticks,Food - Sides,Bread & Rolls,139.74,238,6/11/2022,3:48 PM,Rawley Habershaw,2230 Holy Cross Crossing,Tarjeta de crédito
+Ceramic Bakeware Set,Kitchen,,391.27,672,6/20/2022,8:50 AM,Libby Simak,664 Transport Drive,Transferencia bancaria
+Digital Bullet Journal,Apps,Productivity,786.33,450,4/9/2022,7:34 PM,Florence MacAlees,58 Moland Point,Transferencia bancaria
+Digital Wireless Meat Thermometer,Kitchen,Cooking Tools & Utensils,252.9,151,10/18/2022,6:58 AM,Kenny McTurley,198 Fulton Avenue,Tarjeta de crédito
+Indian Curry Sauce,Food - Condiments,,832.05,302,5/22/2022,9:26 PM,,781 West Plaza,Efectivo
+Nail Polish Set,Beauty,Nail Care,393.46,212,5/11/2022,1:48 PM,Odell Ismay,78239 Dahle Avenue,Tarjeta de crédito
+Zucchini Noodles,Food - Vegetables,Pasta Alternatives,938.81,211,3/7/2022,3:11 PM,Katharyn Gudeman,094 Anzinger Court,Transferencia bancaria
+Portable Solar Path Lights,Outdoor,Garden Supplies,168.71,153,6/15/2022,11:07 AM,Chevy Marunchak,1 Dayton Lane,Transferencia bancaria
+Striped Long Sleeve Shirt,Clothing - Shirts,Casual Shirts,798.64,838,4/30/2022,3:33 AM,Freda Govenlock,579 Crescent Oaks Terrace,Transferencia bancaria
+Garlic Breadsticks,Food - Sides,Bread & Rolls,339.41,34,3/28/2022,12:22 PM,Jodi Finci,2818 Forest Run Center,Efectivo
+Trendy Bomber Jacket,Clothing - Outerwear,Jackets,222.79,,3/9/2022,10:58 PM,Chantalle Hobson,0555 Center Pass,Tarjeta de crédito
+Ice Pack,Health,Wellness & Relaxation,379.18,,11/4/2022,7:42 AM,Aguie Hemerijk,38880 Tony Pass,Tarjeta de crédito
+Cinnamon Sugar Tortilla Chips,Food - Snacks,Sweet Snacks,886.23,385,4/13/2022,11:40 PM,Derick Berre,68 Sage Drive,Transferencia bancaria
+Ceramic Bakeware Set,Kitchen,Cookware,724.84,,4/2/2022,8:07 AM,,633 Grover Trail,Efectivo
+Miso Soup Mix,Food - Soups,Instant Soups,813.72,987,7/1/2022,2:15 PM,Regan McGann,488 Sage Plaza,Transferencia bancaria
+Pet Reflective Vest,,Pet Safety Gear,799.07,44,10/7/2022,1:49 PM,Jerry Hugk,93 Independence Center,Transferencia bancaria
+Vegan Mayonnaise,Food - Condiments,Plant-Based Condiments,729.02,,3/10/2022,9:59 AM,Arturo Costen,20 Holmberg Circle,Tarjeta de crédito
+Customizable Name Plate,,Office Supplies,850.15,936,6/29/2022,11:11 AM,Tab Dix,25270 Hanover Park,Transferencia bancaria
+Travel Pillow,Travel,Travel Accessories,153.99,318,4/7/2022,1:31 AM,Dorey Lepard,96 Lakeland Lane,Transferencia bancaria
+BBQ Jackfruit,Food - Prepared Foods,Plant-Based Meals,388.37,665,5/23/2022,5:26 PM,Etta Cisar,96891 Cambridge Hill,Transferencia bancaria
+Sliced Cucumbers,Food - Produce,Fresh Cut Vegetables,687.25,457,5/18/2022,2:01 AM,Barry Laxon,1 Union Circle,Efectivo
+Ice Cube Tray with Lid,Kitchen,Ice Cube Trays,372.62,677,7/26/2022,2:02 PM,Jazmin Rayworth,92485 Prairie Rose Parkway,Transferencia bancaria
+Wireless Charger Stand,Electronics,Charging Accessories,428.27,193,5/2/2022,1:07 AM,Heinrick Bumfrey,8 Hallows Place,Tarjeta de crédito
+Survival Gear Kit,Outdoor,Outdoor Accessories,629.66,430,7/14/2022,8:23 PM,Hermia Riccardini,399 Heath Alley,Tarjeta de crédito
+Leather Crossbody Bag,Clothing - Bags,Handbags,986.68,333,2/17/2022,9:51 PM,Erie Rolance,3 Truax Plaza,Tarjeta de crédito
+Garden Hoses with Expandable Features,Garden,Garden Supplies,730.65,209,11/6/2022,11:05 PM,Shane Kensall,4681 Bashford Court,Transferencia bancaria
+Non-Toxic Crayons for Kids,Toys,Art Supplies,709.21,632,1/1/2022,12:39 AM,Rod Moxsom,4283 Vernon Park,Transferencia bancaria
+Pet Tracking Collar,Pets,Pet Accessories,291.65,420,1/7/2022,3:30 AM,Taffy Sherrock,94 Duke Alley,Transferencia bancaria
+Portable Ice Maker,Kitchen,Small Appliances,711.59,410,8/13/2022,3:33 AM,Khalil Lakeland,63 Pond Hill,Efectivo
+Peanut Butter Pretzel Nuggets,,Candy,191.07,282,12/12/2022,6:43 PM,Algernon Malpas,0 Melvin Point,Tarjeta de crédito
+Sunglasses Case,Accessories,Eyewear,367.75,210,1/6/2022,5:36 PM,Taylor Sandcroft,18611 Dottie Junction,Tarjeta de crédito
+Spinach Feta Wraps,Food - Deli,Wraps/Rolls,826.35,251,8/2/2022,4:27 AM,Franni Gunbie,3862 Warrior Parkway,Efectivo
+Blueberry Muffin Mix,Food - Baking,Mixes,560.8,924,11/18/2022,6:07 PM,Artie Gouldsmith,289 Cottonwood Hill,Tarjeta de crédito
+Granola Clusters,Food - Cereal,Granola,107.17,618,8/3/2022,3:51 AM,Lenard Penrith,83 Cambridge Street,Tarjeta de crédito
+DIY Lip Balm Kit,Crafts,DIY Crafts,768.69,382,7/25/2022,11:23 PM,Jada Haggarty,01 Straubel Junction,Efectivo
+DIY Lip Balm Making Kit,Crafts,DIY Crafts,747.84,457,3/23/2022,12:55 AM,Koralle Easum,2 Oak Valley Road,Tarjeta de crédito
+Portable Bluetooth Speaker,Audio,Wireless Speakers,341.04,145,12/28/2022,8:09 PM,Siusan Iseton,49348 Barby Hill,Efectivo
+Magnetic Chess Set,Toys,,952.91,90,10/23/2022,10:49 PM,Joel Arbor,0105 Mariners Cove Terrace,Tarjeta de crédito
+Sesame Ginger Dressing,,Dressing,12.61,787,11/21/2022,11:34 PM,Alyse Matyugin,8 Messerschmidt Lane,Tarjeta de crédito
+Brownie Bites,Food - Baked Goods,Desserts,520.68,714,9/8/2022,4:04 PM,Craggy Strowger,871 Helena Drive,Tarjeta de crédito
+Chicken Fajita Kit,Food - Prepared Foods,,567.22,118,2/4/2022,2:14 PM,Tommi Katte,77054 Knutson Trail,Efectivo
+Sweet Pea Hummus,Food - Dips,Vegetable Dips,948.5,181,12/24/2022,1:53 AM,,5 Erie Drive,Efectivo
+Solar Charger,Electronics,Portable Power Solutions,910.32,767,2/12/2022,1:18 AM,Wilfrid Prawle,38562 Emmet Plaza,Transferencia bancaria
+Artisan Cornbread Mix,,Mixes,206.69,610,6/14/2022,9:32 PM,Kenyon Rosenblad,99 Dunning Junction,Tarjeta de crédito
+Elderberry Syrup,Food - Supplements,Supplements,223.99,246,2/2/2022,3:16 PM,Thorin Cotter,4447 Corben Court,Transferencia bancaria
+Ethical Wool Scarf,Clothing - Accessories,Scarves,888.5,556,2/23/2022,8:55 PM,Oralle Heather,87 Jana Court,Efectivo
+Fitbit Activity Tracker,Fitness,Wearable Technology,71.11,78,9/14/2022,1:14 AM,Addie Monteith,8157 Knutson Way,Efectivo
+V-Neck Sweater,Clothing - Tops,Sweaters,565.11,627,2/28/2022,6:03 AM,Broddy Deakins,1896 Lighthouse Bay Avenue,Tarjeta de crédito
+Thai Basil Fried Rice,Food - Frozen,Frozen Meals,773.74,260,3/23/2022,11:31 PM,Peirce Liverock,0122 Sugar Pass,Efectivo
+Pet First Aid Kit,Pets,Pet Health and Care,433.8,932,9/27/2022,9:30 AM,Nelli Burdfield,5498 Burrows Drive,Efectivo
+Insulated Lunch Bag,Kitchen,Food Storage Solutions,803.2,453,10/6/2022,6:48 AM,Tamas Yakunchikov,06875 Evergreen Terrace,Efectivo
+Self-Massaging Pillow,Health,Sleep & Relaxation,828.97,969,11/9/2022,11:37 PM,Ambrose Vanderplas,351 Towne Alley,Tarjeta de crédito
+Children's Backpack,Accessories,Kids' Bags,276.28,271,4/29/2022,2:31 PM,Carie Antognoni,971 Ludington Plaza,Tarjeta de crédito
+Reusable Food Storage Bags,Kitchen,Food Storage Solutions,486.31,606,3/4/2022,12:02 AM,Meriel McMenemy,7 5th Way,Transferencia bancaria
+Nordic Berry Smoothie,Food - Frozen Foods,Frozen Fruit Smoothies,403.84,546,7/19/2022,3:36 PM,Vick McGee,24851 Lake View Hill,Tarjeta de crédito
+Turmeric Ginger Tea,Food - Beverages,,542.8,939,5/20/2022,4:25 AM,Sari Jakoubek,528 Bunker Hill Trail,Tarjeta de crédito
+Chocolate Covered Pretzels,Food - Snacks,Savory Snacks,375.56,449,12/18/2022,1:52 AM,Claudette Gransden,52 Marquette Alley,Efectivo
+Potting Soil,Garden,,892.02,113,3/30/2022,11:00 PM,Decca Thomassin,08952 Buell Terrace,Tarjeta de crédito
+Matcha Green Tea Powder,Food - Beverages,Tea,513.86,153,4/26/2022,10:09 AM,Gusty Dellenbrook,6229 Hanson Trail,Tarjeta de crédito
+Peanut Butter Chocolate Clusters,Food - Desserts,Chocolate Desserts,26.84,980,4/9/2022,4:21 PM,Maximo Rosoman,6627 Stoughton Parkway,Tarjeta de crédito
+Multi-Tool,Outdoor,Camping Equipment,473.84,118,2/11/2022,2:05 AM,Jozef Nolder,03017 Welch Park,Efectivo
+Self-Watering Planter,Garden,Planters,673.44,682,6/24/2022,11:03 PM,Samaria Brakespear,65449 Nobel Hill,Efectivo
+Blackberry Compote,Food - Condiments,Fruit Spreads,161.36,532,11/17/2022,5:12 PM,Shell Jacobbe,3888 Bartelt Court,Transferencia bancaria
+Pasta Portion Control Measure,Kitchen,Cooking Tools & Utensils,856.16,958,8/3/2022,7:49 PM,Gilberte Ings,2 Graceland Terrace,Efectivo
+Brownie Bites,Food - Baked Goods,Desserts,217.88,400,3/14/2022,6:11 PM,Paddie Blose,641 Marcy Point,Transferencia bancaria
+Wireless Gaming Headset,Gaming,Gaming Accessories,904.32,939,3/22/2022,1:55 AM,Myca Boydell,56 Nancy Park,Transferencia bancaria
+Creamy Avocado Dip,Food - Snacks,Dips and Spreads,631.13,679,7/25/2022,9:12 AM,,190 Kenwood Center,Transferencia bancaria
+Electric Fondue Pot,Kitchen,Small Appliances,475.84,351,11/11/2022,10:38 PM,Merle Longo,0 Orin Street,Tarjeta de crédito
+Sliced Olives,Food - Condiments,Olives,762.48,333,7/16/2022,5:18 PM,Wheeler Radeliffe,8 Graedel Place,Efectivo
+Electric Toothbrush Holder,,Oral Care & Hygiene,634.59,655,12/4/2022,12:56 AM,Emmaline Eynald,8338 Esker Trail,Transferencia bancaria
+Puzzle Game Set,Toys,Board Games,967.85,292,12/15/2022,1:39 AM,Duky Betho,1 Banding Plaza,Transferencia bancaria
+Garden Vegetable Chips,Food - Snacks,,583.24,244,9/23/2022,10:38 PM,Shaine Pashen,55 6th Crossing,Transferencia bancaria
+Luxury Bathrobe,Clothing,Loungewear,337.47,326,5/28/2022,7:56 PM,Durant Yitshak,742 Annamark Plaza,Efectivo
+Magnetic Spice Jars,Kitchen,Kitchen Storage & Organization,985.28,628,2/26/2022,3:32 AM,Steve Chard,47672 Starling Drive,Transferencia bancaria
+French Onion Dip,Food - Condiments,Dips & Spreads,627.38,501,8/13/2022,10:17 PM,Orren MacDermand,385 Anthes Parkway,Tarjeta de crédito
+Stylish Combat Boots,Clothing - Shoes,Footwear - Boots,889.38,653,1/18/2022,4:23 PM,Pammie Laybourne,60 Montana Plaza,Efectivo
+Artisan Bread Loaf,Food - Bakery,Breads,884.46,943,10/28/2022,10:22 PM,Sianna Jurczak,6552 Butternut Terrace,Tarjeta de crédito
+Smartphone Gimbal Stabilizer,Photography,,504.68,456,1/10/2022,2:43 AM,Corbett Guildford,74 Chinook Hill,Efectivo
+Fitness Smartwatch,Wearable Tech,Fitness Monitors,621.07,596,5/1/2022,5:52 AM,Cheston Jenken,539 Mandrake Point,Transferencia bancaria
+Toilet Paper (12 rolls),Food - Household,Household Supplies,981.21,741,7/30/2022,2:45 PM,Eugenia Rikkard,3 Hooker Drive,Efectivo
+Suede Ankle Booties,Clothing - Footwear,Boots,39.32,275,7/20/2022,5:32 AM,Newton Blancowe,23 Kropf Parkway,Tarjeta de crédito
+Craft Beer Mustard,Food - Condiments,Mustards,103.63,898,10/2/2022,9:27 PM,Maible Robbert,55024 Steensland Drive,Transferencia bancaria
+Maple Breakfast Sausage,Food - Meat,Processed Meats,367.65,969,4/27/2022,4:45 AM,,1661 Kipling Way,Tarjeta de crédito
+Shredded Cheese,Food - Dairy,Cheese,898.92,179,11/8/2022,3:34 AM,Silva Ren,4 Jackson Hill,Transferencia bancaria
+Weighted Jump Rope with Counter,Fitness,,269.4,92,5/29/2022,2:17 PM,Bordie Yeskin,29 Park Meadow Hill,Tarjeta de crédito
+Kale & Quinoa Salad Mix,Food - Salads,Ready-to-Eat Salads,30.04,270,3/21/2022,1:48 PM,Munroe Renault,83 Weeping Birch Point,Efectivo
+Honey Graham Crackers,Food - Snacks,Sweet Snacks,434.7,542,9/13/2022,10:14 AM,Kania Frankel,708 Marcy Pass,Efectivo
+Classic Pesto Sauce,Food - Sauces,Italian Sauces,584.23,125,5/2/2022,7:29 PM,Gussy Grzegorzewicz,7037 American Ash Court,Transferencia bancaria
+Sparkling Blood Orange Soda,Food - Beverages,Sparkling Beverages,732.81,170,5/1/2022,10:51 AM,Virgie Summerlad,21049 Hintze Park,Efectivo
+Kale Chips,Food - Snacks,Vegetable Snacks,595.05,803,6/1/2022,1:28 AM,Ennis Shallcross,14 Bowman Street,Efectivo
+Classic Leather Wallet,,Wallets,957.8,73,11/20/2022,10:00 AM,Beth Lindmark,43 Garrison Lane,Tarjeta de crédito
+Traditional Hummus,Food - Dips,Mediterranean Dips,993.73,618,10/31/2022,3:54 PM,Delphine Redwin,1145 Fordem Parkway,Transferencia bancaria
+Organic Brown Rice Cakes,Food - Snacks,Healthy Snacks,515.64,501,11/1/2022,8:38 AM,Mozelle Wallett,4948 Lakewood Gardens Place,Efectivo
+Utility Cargo Pants,Clothing - Pants,Work Pants,675.57,977,10/5/2022,3:12 PM,Harlene Hardeman,51 Warbler Plaza,Transferencia bancaria
+Rustic Italian Bread,,Breads,863.69,837,11/2/2022,8:39 PM,Walt Celiz,730 Utah Parkway,Transferencia bancaria
+Sun Protection Clothing,Clothing,Outdoor Apparel,414.11,705,5/22/2022,11:47 AM,Law Mattys,1 Clyde Gallagher Avenue,Efectivo
+Tahini,,Nut Butters,818.73,290,2/4/2022,6:32 PM,Byrann Wiggin,11 Stuart Plaza,Efectivo
+Cat Tree,Pets,,900.67,603,6/12/2022,8:39 PM,Isabelle Manifould,0 La Follette Circle,Transferencia bancaria
+Handcrafted Wooden Jewelry Box,Accessories,Jewelry Storage,283.68,590,12/23/2022,3:39 PM,Drusilla Erbe,28561 Londonderry Road,Efectivo
+Thermostatic Shower Valve Kit,Bathroom,Shower Fixtures,708.87,298,7/11/2022,5:05 PM,Scarlett Kinig,1 Hallows Court,Tarjeta de crédito
+Coffee Subscription Service,Food,Beverages,828.39,731,5/26/2022,7:29 AM,Rudy Brosio,97 Amoth Street,Tarjeta de crédito
+Handcrafted Wooden Coasters,Home,Decorative Wall Art & Accessories,693.93,141,5/5/2022,12:40 AM,Astrid Tavinor,71256 Morningstar Road,Transferencia bancaria
+Wall-Mounted Spice Rack,Kitchen,Kitchen Storage & Organization,253.62,416,10/24/2022,8:22 PM,Orv Denniston,7 Nevada Avenue,Transferencia bancaria
+Portable Electric Fan,,Home Appliances,681.28,733,1/29/2022,3:08 AM,Norine O'Mohun,69334 Kenwood Park,Transferencia bancaria
+Animal Paw Print Soap Dispenser,Home,Home Organization,365.45,222,4/22/2022,1:39 AM,Godiva Hall-Gough,48 Duke Pass,Transferencia bancaria
+Pumpkin Waffles,Food - Breakfast,,703.03,831,11/5/2022,12:38 AM,Bertrand Trass,3635 Armistice Alley,Transferencia bancaria
+Scented Candle Set,Home,Home Fragrance & Accessories,337.91,815,3/17/2022,3:11 AM,Merle Youd,51 Utah Plaza,Tarjeta de crédito
+Multi-Functional Rice Cooker,Kitchen,Small Appliances,431.71,197,3/23/2022,2:36 AM,Francklin Bydaway,43426 Chive Pass,Transferencia bancaria
+Electric Toothbrush,Health,Oral Care & Hygiene,932.59,336,11/5/2022,6:17 AM,Ivie Dingle,230 Atwood Place,Efectivo
+Cocktail Shaker Set,Kitchen,,169.72,405,10/12/2022,9:11 PM,Joline Grogor,74 Paget Way,Tarjeta de crédito
+Digital Wireless Camera,Home Security,Cameras,250.75,22,5/13/2022,5:28 AM,Rip Veysey,38 Ridgeway Park,Transferencia bancaria
+Waffle Maker,Kitchen,Small Appliances,960.12,332,10/28/2022,1:33 AM,Tonye Arents,2614 Kings Avenue,Efectivo
+Multifunctional Baby Bottle Warmer,Baby,Feeding Accessories,450.73,88,5/9/2022,1:15 AM,Janaye Munday,22705 Schlimgen Terrace,Transferencia bancaria
+Personalized Cutting Board,Kitchen,,508.72,,3/7/2022,3:55 AM,Joane Tourry,4 Dwight Place,Efectivo
+Jigsaw Puzzle,Toys,,487.41,69,2/11/2022,10:53 PM,Aviva Hains,17 Northview Trail,Transferencia bancaria
+Mint Chocolate Chip Ice Cream,Food - Frozen Desserts,Ice Cream Flavors,629.97,565,6/12/2022,12:44 AM,Fedora Testro,306 Loeprich Hill,Transferencia bancaria
+Quinoa & Black Bean Salad,Food - Salads,Healthy Salads,544.11,186,1/19/2022,12:56 PM,Sydelle Potticary,4 Commercial Crossing,Efectivo
+Chia Seed Pudding,Food - Snacks,Healthy Snacks,541.31,376,7/12/2022,8:16 AM,Tyrone Baudinet,8904 Moulton Circle,Tarjeta de crédito
+Blackberry Jam,Food - Condiments,Fruit Spreads,866.13,509,8/12/2022,11:37 AM,,36 Basil Plaza,Efectivo
+Pleated Midi Dress,Clothing - Dresses,Dresses,31.98,240,1/20/2022,4:30 AM,Fenelia Maly,3 Pierstorff Terrace,Tarjeta de crédito
+Organic Quinoa,Food - Grains,Whole Grains,443.69,555,10/26/2022,3:35 PM,Pamela Lemmanbie,1122 Memorial Point,Tarjeta de crédito
+Portable Hammock with Stand,Outdoor,Camping Equipment,393.65,96,6/15/2022,3:18 AM,Fairfax Nevet,5422 Artisan Alley,Efectivo
+Mediterranean Flatbread,Food - Bakery,Flatbreads,660.33,295,9/29/2022,6:58 PM,Ole Pryn,95 Delladonna Street,Efectivo
+Mango Salsa,Food - Condiments,Salsas,319.85,134,4/13/2022,9:19 AM,Agnesse Busse,1 Buell Pass,Transferencia bancaria
+Skincare Set,Beauty,,74.49,109,5/9/2022,4:26 AM,Cherrita Moy,2591 Washington Hill,Efectivo
+Adjustable Skipping Rope,Fitness,Cardio Equipment,156.48,203,5/20/2022,2:01 AM,Tabor Sawden,4025 Harbort Drive,Efectivo
+Hand Crank Blender,Kitchen,Small Appliances,316.35,857,1/19/2022,4:39 PM,Myrtice Crockley,5 Magdeline Parkway,Transferencia bancaria
+Multi-Purpose Marine Rope,Outdoor,Outdoor Recreation,932.2,302,11/14/2022,9:31 AM,Glenine Sporrij,263 Sunfield Circle,Transferencia bancaria
+Lentil Vegetable Stew,Food - Canned Soups,Soups,421.87,584,1/14/2022,8:22 AM,Cary Merigon,2 Forest Run Point,Transferencia bancaria
+Smart Light Switch,Smart Home,Smart Lighting,243.76,607,7/14/2022,12:44 AM,Ofelia Demangeot,2 Dapin Hill,Tarjeta de crédito
+Frozen Broccoli,Food - Frozen,Frozen Vegetables,282.18,544,6/29/2022,2:46 AM,Germayne Alexsandrev,19460 Lyons Crossing,Efectivo
+Sushi Rice,Food - Grains,Specialty Rice,254.88,386,12/29/2022,3:15 PM,Jere Willingam,05223 Muir Lane,Efectivo
+Outdoor Sports Backpack,Outdoor,Outdoor Accessories,583.49,785,12/26/2022,10:54 PM,Rutter Hardan,860 Summit Road,Tarjeta de crédito
+Travel Mug with Leak-Proof Lid,Kitchen,Drinkware,706.25,361,9/14/2022,1:05 PM,Leonard Folliott,18 Springview Street,Efectivo
+Portable Air Conditioner,Home Appliances,,386.76,856,1/23/2022,4:35 PM,Halsey Gietz,70851 Esch Place,Tarjeta de crédito
+Organic Almond Flour,Food - Baking,Flours & Meals,303.41,,3/9/2022,8:07 AM,Grace Pollack,4 Susan Hill,Tarjeta de crédito
+Plant Pot Drip Trays,Garden,Gardening Accessories,929.93,802,1/31/2022,8:11 PM,Jason Lindholm,80 Mockingbird Alley,Efectivo
+Toasted Coconut Granola,Food - Breakfast,Granola/Cereal,655.03,617,5/26/2022,11:59 AM,Baillie Lilliman,3956 Leroy Way,Efectivo
+Collapsible Water Bottle,Fitness,Hydration Gear,850.3,534,3/13/2022,8:25 PM,Ransom Lenard,1 Heffernan Park,Tarjeta de crédito
+Stylish Combat Boots,Clothing - Shoes,Footwear - Boots,275.55,39,11/28/2022,1:02 AM,Lockwood Osorio,3370 Garrison Plaza,Efectivo
+Buffalo Cauliflower Wings,Food - Frozen Foods,Frozen Appetizers,843.1,518,8/26/2022,6:53 PM,Quinton Paladini,27 Brickson Park Hill,Transferencia bancaria
+Pet First Aid Kit,Pets,,940.1,957,12/3/2022,11:10 AM,Zelda Letessier,108 Sunfield Pass,Efectivo
+Children's Gardening Set,,Outdoor Play Toys,265.82,37,1/9/2022,7:23 AM,Stuart Marginson,44 Buhler Center,Tarjeta de crédito
+Smartphone Car Mount with Wireless Charging,Automotive,Phone Accessories,81.74,380,2/20/2022,2:09 AM,Osbert Ewbank,1651 Maple Wood Court,Tarjeta de crédito
+Beef Taco Skillet,Food - Meal Kits,Mexican Cuisine Meal Kits,86.11,581,10/27/2022,6:53 PM,Harry Winckle,5474 Mallard Alley,Transferencia bancaria
+Coloring Books for Adults,Books,Arts & Crafts,767.5,518,11/2/2022,5:26 AM,Smitty Winchurst,95735 Cottonwood Pass,Transferencia bancaria
+Pocket Blanket,Outdoor,Camping Equipment,378.24,421,1/16/2022,10:06 AM,Wren Frugier,722 Jenifer Trail,Tarjeta de crédito
+Asian Salad Mix,Food - Produce,,408.82,803,3/29/2022,2:24 PM,Herculie Adshad,1 South Circle,Tarjeta de crédito
+Spicy Garlic Edamame,Food - Snacks,Savory Snacks,865.65,650,1/10/2022,7:40 AM,Aubrey Addenbrooke,3671 Commercial Parkway,Transferencia bancaria
+Comfortable Bed Pillow,Home,Bedding & Linens,570.52,237,8/14/2022,1:09 PM,,58 3rd Crossing,Transferencia bancaria
+Dark Chocolate Raisins,Food - Snacks,Chocolate Snacks,669.45,404,10/29/2022,8:26 PM,Odey Skellern,69716 Sutherland Terrace,Transferencia bancaria
+Cat Tree with Scratching Posts,Pets,Cat Furniture,507.97,937,11/6/2022,4:46 PM,,50203 Iowa Alley,Transferencia bancaria
+Stainless Steel BBQ Grill Set,Outdoor,Grilling Accessories,847.22,652,11/13/2022,12:32 PM,Victoria Fritzer,27 1st Place,Tarjeta de crédito
+Glass Water Bottle,Fitness,,170.19,340,6/7/2022,10:08 AM,Johnny Rosetti,8698 Valley Edge Place,Transferencia bancaria
+Pine Nuts,Food - Nuts,Seeds & Nuts,112.55,512,11/7/2022,12:43 PM,,1 Gerald Circle,Efectivo
+LED Makeup Mirror,Beauty,Mirrors,413.52,446,10/12/2022,6:14 AM,Cristal Blondel,350 Eliot Street,Transferencia bancaria
+Marinara Parmesan Baked Ziti,Food - Frozen Meals,Frozen Pasta Dishes,442.09,909,1/7/2022,6:50 PM,Dacy Bruff,33 Grim Lane,Transferencia bancaria
+Cork Yoga Mat,Fitness,Yoga Equipment,254.04,408,10/10/2022,6:05 AM,Cherye Kelinge,982 Chive Court,Efectivo
+Hydration Backpack,,Outdoor Accessories,933.72,397,12/16/2022,8:54 PM,Florinda Radnage,03068 Russell Court,Efectivo
+Himalayan Salt Grinder,Food - Spices,Salt & Seasoning,448.77,810,6/9/2022,4:28 PM,Callida Stalf,65 Dawn Place,Tarjeta de crédito
+Durable Hiking Boots,,,833.86,855,3/12/2022,4:47 PM,Hartwell Veazey,8939 Fairview Plaza,Efectivo
+Crispy Onion Rings,,Frozen Appetizers,293.92,,10/6/2022,1:15 AM,Shep Tylor,9223 Dwight Plaza,Efectivo
+Chipotle Lime Salsa,Food - Condiments,Salsas,623.92,666,3/14/2022,7:20 PM,Derick Eldrett,50 Monica Alley,Transferencia bancaria
+Under Desk Footrest,Office,,719.03,55,10/10/2022,7:09 AM,Neron Tolwood,4445 Graedel Street,Transferencia bancaria
+Personalized Keychain,Accessories,Custom Accessories,290.12,37,5/1/2022,4:41 AM,Wini Birnie,6 Buhler Alley,Transferencia bancaria
+Spicy Beef Taco Mix,Food - Condiments,Seasoning Blends,575.63,219,4/20/2022,10:35 AM,Joceline Tams,912 Comanche Crossing,Transferencia bancaria
+Sriracha Honey Glaze,Food - Sauces,Condiments,656.05,791,7/27/2022,7:52 AM,,4363 Nelson Parkway,Tarjeta de crédito
+Outdoor Mosquito Repellent Lantern,Outdoor,Garden Supplies,901.48,515,6/15/2022,5:42 PM,,349 Browning Place,Transferencia bancaria
+Roasted Garlic Mashed Potatoes,Food - Frozen Foods,Frozen Vegetables,457.69,935,4/3/2022,10:14 PM,Sunny Kitchiner,233 Lighthouse Bay Junction,Tarjeta de crédito
+Wine Glasses,Home,Kitchen Accessories,800.2,606,3/27/2022,5:40 PM,Louisette Sherwell,03560 Pleasure Plaza,Efectivo
+Whole Grain Cereal,Food - Breakfast,Breakfast Cereals,464.25,164,3/8/2022,7:38 PM,Claus Ladloe,8 South Court,Tarjeta de crédito
+Curried Lentil Salad,Food - Salads,Vegetarian Salads,2.09,48,9/1/2022,7:40 PM,Stanislaus Greene,62418 Loftsgordon Point,Efectivo
+Lightweight Workout Tank,,Tanks & Sleeveless Tops,996.78,193,3/19/2022,11:15 PM,Lynnelle Melton,9 Reinke Point,Tarjeta de crédito
+Wireless Charger Stand,Electronics,,60.25,726,2/26/2022,4:52 PM,Ichabod Gownge,1 Moose Lane,Transferencia bancaria
+High-Quality Yoga Mat,,Yoga Equipment,901.7,509,6/23/2022,8:14 AM,Gaylord Pierse,3 Rigney Drive,Transferencia bancaria
+Chili Lime Corn Chips,Food - Snacks,Savory Snacks,789.53,591,3/11/2022,6:57 PM,Gilburt Loding,198 Manitowish Junction,Transferencia bancaria
+Balsamic Vinegar,Food - Condiments,Vinegars,74.04,632,10/4/2022,3:34 PM,Cristiano Farnes,7300 Rusk Street,Transferencia bancaria
+Pineapple Coconut Yogurt,Food - Dairy,Yogurt,144.8,604,8/12/2022,10:50 PM,Tad Tebbe,69 Dixon Drive,Efectivo
+Handmade Leather Journal,Books,Journals,385.54,771,12/18/2022,8:40 PM,,60 8th Park,Transferencia bancaria
+Avocado Lime Dressing,Food - Condiments,Dressing,246.67,437,10/25/2022,3:10 AM,Omar Gowdie,9 Almo Street,Efectivo
+Veggie Chips Variety Pack,Food - Snacks,Healthy Snacks,164.51,575,4/1/2022,11:15 AM,Xaviera Pattle,106 Browning Junction,Tarjeta de crédito
+Pet Hair Removal Brush,Pets,Grooming Supplies,140.85,820,3/4/2022,8:21 AM,Violette Rentoul,8 Granby Court,Transferencia bancaria
+Pesto Pasta Sauce,Food - Sauces,Pasta Sauces,242.66,66,5/5/2022,8:55 PM,Gale Konmann,894 Stoughton Point,Transferencia bancaria
+Lentil Soup (canned),,Soups & Broths,673.44,430,1/8/2022,11:10 AM,Marc Djekic,3 Daystar Parkway,Transferencia bancaria
+Wireless Music Receiver,Audio,Audio Accessories,379.25,952,10/16/2022,2:22 AM,Benedikt MacPeice,80788 Heffernan Park,Transferencia bancaria
+Beef Tacos,Food - Meat,Prepared Meals,685.63,489,7/21/2022,1:30 PM,Florinda Tinner,03 Forest Road,Tarjeta de crédito
+Almond Flour Tortillas,Food - Baking & Cooking,Baking Ingredients,403.25,35,11/23/2022,10:24 PM,Margaux Thurby,7 Nova Parkway,Transferencia bancaria
+Sriracha Chili Sauce,Food - Condiments,Hot Sauces,250.82,429,4/19/2022,9:35 PM,Israel MacBean,3689 Hintze Plaza,Efectivo
+Dark Chocolate Raisins,Food - Snacks,Chocolate Snacks,621.21,630,4/17/2022,8:02 PM,Nissa McGarrity,4 Hoffman Place,Tarjeta de crédito
+Interactive Plush Toy,Toys,Educational Toys,572.65,747,10/21/2022,1:19 PM,Sheffield Peete,6397 Mesta Trail,Tarjeta de crédito
+Arcade Game Machine,Gaming,Arcade Machines & Cabinets,525.67,934,10/14/2022,1:35 PM,Dyane Whissell,716 School Lane,Tarjeta de crédito
+Blackberry Compote,,Fruit Spreads,39.8,600,9/9/2022,1:38 PM,Natal Campo,209 Kropf Trail,Efectivo
+Chickpea Salad,Food - Prepared Foods,Salads,875.12,492,10/31/2022,2:05 AM,Allayne Deppe,901 Ronald Regan Place,Tarjeta de crédito
+Yoga Mat Carrier,,,782.07,821,4/25/2022,10:20 PM,Clarette Ownsworth,3433 Coleman Lane,Tarjeta de crédito
+Buffalo Style Cauliflower Bites,Food - Frozen Vegetables,,813.71,597,11/8/2022,5:10 AM,Eolande Conachie,0 Sheridan Park,Efectivo
+Stainless Steel Travel Mug,Kitchen,Drinkware,637.51,394,6/27/2022,5:37 PM,Valentin Iannini,41 Sundown Terrace,Tarjeta de crédito
+Workstation Laptop Stand,Office,Laptop Accessories,470.2,211,6/29/2022,5:23 AM,Henriette Ashborn,80886 Cambridge Lane,Tarjeta de crédito
+LED Flashlight with Rechargeable Batteries,Outdoor,Camping Equipment,671.9,260,4/23/2022,7:57 AM,Elmer Isacsson,34580 Fairview Drive,Tarjeta de crédito
+Pasta Maker Machine,,Cooking Appliances,31.39,997,2/17/2022,12:11 PM,Lem Fulkes,0794 Forest Dale Circle,Efectivo
+Chewy Granola Bars,Food - Snacks,Healthy Snacks,889.94,108,4/26/2022,6:53 PM,Amelina Filyakov,4604 Bobwhite Parkway,Efectivo
+Portable Dog Water Bottle,Pets,Dog Accessories,576.72,627,8/1/2022,9:40 AM,Richie Daulton,7048 Buell Avenue,Tarjeta de crédito
+Couscous,Food - Grains,Pasta,139.3,9,3/18/2022,11:51 AM,Hurleigh Taylder,0 Quincy Road,Tarjeta de crédito
+Noise Reduction Headphones,Audio,Headphones & Earbuds,363.79,402,9/6/2022,12:39 AM,Reinhold Albarez,13 Gateway Parkway,Efectivo
+Fitness Resistance Bands,Fitness,Strength Training Equipment,799.79,470,1/29/2022,12:57 AM,Constance Lawden,089 Huxley Street,Tarjeta de crédito
+Jump Rope with Counter,Fitness,,280.12,243,6/19/2022,11:13 PM,Dorey Goldston,493 Independence Road,Efectivo
+Pumpkin Spice Coffee,Food - Beverages,Coffee,619.56,380,3/30/2022,1:12 PM,Dannye Feckey,37395 Warrior Parkway,Efectivo
+Graphic Hoodie,Clothing - Outerwear,,698.12,217,9/27/2022,2:59 AM,Giselle Pierucci,9670 Twin Pines Parkway,Efectivo
+Coconut Cream Pie,,Desserts,476.44,266,12/8/2022,6:20 PM,Susana Farryn,8996 Haas Crossing,Transferencia bancaria
+Caribbean Jerk Marinade,Food - Marinades,Marinades,623.39,763,7/12/2022,7:36 PM,Neill Usherwood,0842 Corscot Place,Transferencia bancaria
+Electric Blanket,,Bedding & Linens,213.12,274,5/31/2022,3:15 AM,Svend Lineker,1142 Towne Parkway,Transferencia bancaria
+Silicone Baking Mat Set,Kitchen,Baking Accessories,403.77,29,12/26/2022,10:58 AM,Nahum Snookes,4 Del Mar Lane,Efectivo
+Herbal Tea Infuser,Kitchen,Coffee Equipment,169.64,451,12/17/2022,1:19 PM,Nanine Rait,84 Packers Plaza,Transferencia bancaria
+Chino Shorts,,Bottoms,656.79,96,10/16/2022,2:24 PM,Bibby Cumberbatch,79 3rd Street,Transferencia bancaria
+Suction Cup Hooks,Home,,502.34,671,9/15/2022,4:12 AM,Kally Earl,2 Eliot Drive,Transferencia bancaria
+Noise Reduction Headphones,Audio,Headphones & Earbuds,392.55,568,4/1/2022,4:31 PM,Ruthi Bernat,169 Hayes Park,Efectivo
+Berry Smoothie Mix,Food - Frozen Foods,Frozen Fruit Blends,134.05,42,10/21/2022,8:00 PM,Trumann Bellison,80538 Rowland Point,Transferencia bancaria
+Pesto Pasta Salad,Food - Prepared Foods,Salads,41.53,976,11/2/2022,6:37 PM,Brittni Tuiller,86097 Esker Street,Transferencia bancaria
+Noise Reduction Headphones,Audio,Headphones & Earbuds,30.09,103,6/12/2022,10:25 AM,Talia Jiruch,2 Northwestern Circle,Efectivo
+DIY Organic Gardening Kit,Garden,Garden Supplies,582.62,539,5/29/2022,3:54 AM,Pattin Chinge de Hals,9 Eagan Circle,Efectivo
+Ground Cinnamon,Food - Spices,Herbs and Spices,522.72,766,8/29/2022,12:35 PM,Nedda Lingley,30369 Farwell Road,Tarjeta de crédito
+Personalized Cutting Board,Kitchen,Kitchen Accessories,212.47,789,4/10/2022,11:28 PM,Katuscha Stillgoe,95 Macpherson Alley,Efectivo
+Italian Marinara Sauce,Food - Sauces,Pasta Sauces,593.34,857,10/23/2022,1:53 AM,Sancho Swales,34303 Lawn Court,Transferencia bancaria
+Pumpkin Ice Cream,Food - Frozen Foods,Frozen Desserts,951.2,480,5/3/2022,4:27 PM,Christy Brownsworth,8855 Carpenter Lane,Efectivo
+Dog Waste Bag Dispenser,Pets,,8.18,683,11/26/2022,2:28 AM,Carlin Pinnick,68 Harper Junction,Tarjeta de crédito
+Water-Resistant Bluetooth Speaker,Audio,,684.67,802,4/23/2022,12:00 AM,Deina Brawn,8610 4th Place,Efectivo
+Sushi Rice,Food - Grains,Specialty Rice,114.1,294,3/27/2022,1:02 AM,Shirline Berthelmot,7 Ridgeview Parkway,Tarjeta de crédito
+Oven Mitts with Pocket,Kitchen,Cooking Tools & Utensils,78.72,174,6/26/2022,5:26 PM,Fawnia Tesche,8 Rutledge Crossing,Efectivo
+Striped Long Sleeve Shirt,Clothing - Shirts,Casual Shirts,596.61,71,8/30/2022,11:39 PM,Helen Eastment,72 Packers Way,Tarjeta de crédito
+Honey mustard chicken tenders,Food - Meat,,485.15,,4/22/2022,10:49 PM,Tobye O'Neary,9439 Roth Hill,Tarjeta de crédito
+Sriracha Hot Chili Sauce,,,581.96,85,5/4/2022,3:14 AM,Bastian Sheara,6605 Crest Line Hill,Efectivo
+Personalized Keychain,Accessories,Custom Accessories,690.06,23,12/12/2022,11:27 AM,,634 Leroy Road,Efectivo
+Gardening Fairy Figurines,Garden,Garden Decor,464.78,74,3/26/2022,10:26 AM,Chen Styles,64084 2nd Crossing,Tarjeta de crédito
+Cauliflower Pizza Crust,Food - Frozen Foods,Frozen Pizza Crusts,906.3,654,10/1/2022,4:34 PM,Giffard Dobbie,26 Moulton Drive,Efectivo
+Underwater Camera,Photography,Marine Photography Equipment,585.45,775,12/14/2022,2:12 PM,Mikel Eblein,70 Waywood Trail,Tarjeta de crédito
+Mixed Berry Smoothie Pack,Food - Frozen Food,Frozen Fruits,46.54,470,12/4/2022,11:10 PM,Allx Cosham,82920 Lukken Center,Efectivo
+Fruit Infuser Water Bottle,Fitness,Hydration Gear,913.32,621,10/3/2022,6:54 PM,Bourke Howroyd,863 Sheridan Court,Transferencia bancaria
+Corn Tortillas,Food - Bakery,Breads,322.97,473,7/30/2022,4:11 AM,,248 Debs Hill,Efectivo
+Apple Cinnamon Oatmeal,Food - Breakfast,Instant Breakfast,499.76,44,12/9/2022,9:34 AM,Lissa Mathiot,9 East Plaza,Efectivo
+Wireless HDMI Receiver,Electronics,Wireless Video Transmission,392.67,763,12/3/2022,5:32 AM,Inigo Booij,076 Stang Trail,Tarjeta de crédito
+Pecan Nuts,Food - Snacks,,255.46,548,10/9/2022,12:59 AM,Cosette Reddyhoff,8 Ronald Regan Avenue,Transferencia bancaria
+Coffee Capsule Dispenser,,Coffee Accessories,887.23,141,3/9/2022,4:33 AM,Krysta Kenewel,99218 Jenifer Plaza,Transferencia bancaria
+Shower Curtain Hooks,Home,Home Organization,757.45,492,3/26/2022,3:47 PM,Felipa O'Riordan,774 American Ash Point,Transferencia bancaria
+Wall-Mounted Bookshelf,Home,Home Furnishings,329.16,724,3/13/2022,3:02 AM,Catharina Gayton,61629 Kropf Plaza,Transferencia bancaria
+Guitar Tuner,Music,Accessories,616.96,825,6/30/2022,1:37 AM,Charil Carillo,08368 Gateway Way,Transferencia bancaria
+Organic Tomato Soup,Food - Canned Goods,,862.33,395,12/14/2022,7:20 PM,Emera Culleton,20 Tony Hill,Efectivo
+Homestyle Beef Stew,Food - Canned Soups,Soups,660.71,127,6/11/2022,10:04 AM,Isaac Rochell,53480 Merchant Parkway,Tarjeta de crédito
+Herbal Tea Infuser,Kitchen,Coffee Equipment,211.72,385,5/11/2022,8:32 AM,Melisande Poynter,198 Vahlen Street,Efectivo
+Outdoor Fire Pit,Outdoor,Outdoor Accessories,383.42,,6/4/2022,9:28 PM,Lynn Moens,38 Johnson Plaza,Efectivo
+Ginger Snaps,Food - Confectionery,Cookies & Biscuits,812.63,649,6/12/2022,10:41 PM,Royall McHarry,87 Dahle Park,Tarjeta de crédito
+Chicken Broth,Food - Canned Goods,Soups & Broths,133.54,,8/21/2022,8:28 AM,,7649 Melrose Avenue,Efectivo
+Almond Flour Bread Mix,Food - Baking,Mixes,781.37,438,7/16/2022,11:36 AM,Daryn Tellwright,4 Saint Paul Place,Tarjeta de crédito
+Pineapple Coconut Bars,Food - Snacks,Sweet Snacks,813.88,838,2/17/2022,8:39 PM,Etta Blacker,22 Atwood Hill,Transferencia bancaria
+Window Bird Feeder with Suction Cups,Outdoor,Bird Feeding Accessories,93.58,159,4/18/2022,12:49 AM,Bran Stamp,92 Hanson Place,Transferencia bancaria
+Pumpkin Pie Spice,Food - Baking,,189.86,761,12/5/2022,10:09 AM,Marcy Lawrenson,82192 Paget Court,Tarjeta de crédito
+Pistachios,Food - Nuts,Nuts,40.51,169,7/10/2022,2:19 AM,Rafi Braithwait,34423 Burrows Circle,Efectivo
+Chili Lime Corn Chips,Food - Snacks,Savory Snacks,699.88,927,2/27/2022,6:14 AM,Janine Merill,97 Pearson Trail,Transferencia bancaria
+Wall Art Stickers,Home,,265.63,926,2/3/2022,10:45 AM,Nixie Nare,5292 Jenifer Way,Transferencia bancaria
+LED Desk Lamp with USB Charging,Office,Lighting,210.18,753,2/26/2022,7:09 AM,Berk Katt,54 Delaware Park,Transferencia bancaria
+Cork Yoga Mat,Fitness,,999.72,131,9/10/2022,11:53 AM,Kit Borchardt,944 Esch Point,Transferencia bancaria
+Non-Toxic Concrete Sealer,Home Improvement,Exterior Sealers,827.79,880,4/19/2022,12:30 PM,Adda Fancutt,5387 Green Ridge Trail,Tarjeta de crédito
+Organic Coconut Sugar,Food - Baking Goods,Baking Ingredients,43.55,630,5/19/2022,3:42 AM,Logan Goodship,95 Redwing Drive,Efectivo
+Coconut Bowls Set,Kitchen,Dinnerware,515.69,949,2/14/2022,8:13 PM,Farley Scaplehorn,95891 Lotheville Lane,Transferencia bancaria
+Lemon Garlic Marinade,Food - Condiments,Marinades,901.74,500,11/28/2022,1:32 AM,Georgie Badby,60 Cottonwood Plaza,Efectivo
+Coconut Rice,Food - Frozen,Frozen Meals,828.34,298,3/21/2022,8:24 PM,Susie Gavozzi,8 Melvin Crossing,Transferencia bancaria
+Chipotle Seasoning Blend,Food - Spices,Regional Seasoning Blends,419.5,448,6/29/2022,9:13 AM,Jonathon Clubley,3 Pond Circle,Transferencia bancaria
+Digital Drawing Tablet,Art Supplies,Digital Art Supplies,207.85,248,12/24/2022,3:08 PM,Edita Bayley,9 Dunning Trail,Transferencia bancaria
+Foam Roller for Muscle Recovery,Fitness,Recovery Tools,916.47,799,12/3/2022,4:31 AM,Corri Slimm,559 Troy Court,Transferencia bancaria
+Barbecue Chicken Pizza,Food - Frozen Foods,Frozen Pizza,81.66,327,9/19/2022,6:41 AM,Niel Fawltey,8441 Elgar Plaza,Efectivo
+Italian Sausage and Peppers,Food - Meat,Prepared Meals,641.22,401,12/19/2022,7:22 PM,Amber Bourgour,11 Cottonwood Terrace,Tarjeta de crédito
+Lemon Garlic Shrimp,Food - Seafood,Prepared Seafood,203.02,824,1/2/2022,3:35 AM,Birgitta Dommett,58 Dawn Place,Efectivo
+Electric Knife,Kitchen,,435.58,192,8/8/2022,10:39 PM,Freddi Vieyra,16 Novick Trail,Tarjeta de crédito
+Scent Diffuser Oil,Home,Home Fragrance & Accessories,756.21,147,3/3/2022,10:16 AM,Ralina Rude,07152 Dryden Place,Transferencia bancaria
+Sliced Cheese,Food - Dairy,Cheese,202.01,970,5/27/2022,12:19 PM,Chryste Aukland,873 Buell Lane,Transferencia bancaria
+Dried Mango Slices,Food - Snacks,Dried Fruits,242.02,750,4/27/2022,8:56 AM,Tamarah Stutte,5 Warrior Lane,Tarjeta de crédito
+Ultraviolet Phone Sanitizer,Health,Health Devices,676.91,155,10/13/2022,5:28 AM,Garvy McBrearty,6 Scoville Avenue,Transferencia bancaria
+Kids' Learning Tablet,Electronics,Tablets for Kids,463.0,481,10/7/2022,10:09 PM,Henka Fryer,7779 Barby Crossing,Tarjeta de crédito
+Stainless Steel Water Pitcher,Kitchen,Drinkware,894.18,,4/5/2022,7:58 AM,Jocelyne Lauga,940 Golf Place,Transferencia bancaria
+Almond Butter,Food - Condiments,Nut Butters,947.9,441,4/16/2022,8:27 AM,Kennie Vedeshkin,21 Northwestern Crossing,Tarjeta de crédito
+Graphic Tee,Clothing,T-shirts,302.59,576,2/20/2022,9:37 AM,Katalin Westcot,06568 Clyde Gallagher Terrace,Tarjeta de crédito
+Personalized Keychain,,,8.22,38,10/23/2022,8:11 AM,Max Weed,96943 Roth Street,Transferencia bancaria
+Oven-Baked Chicken Tenders,Food - Meat,Poultry,30.96,297,4/23/2022,3:03 AM,Ricki O'Hengerty,88 Columbus Parkway,Tarjeta de crédito
+Key Finder,Accessories,Tech Accessories,35.94,986,7/11/2022,4:03 PM,Debor Fearnehough,428 Melvin Terrace,Transferencia bancaria
+Fresh Strawberries,Food - Produce,Fruits,42.55,404,2/7/2022,4:19 PM,Adriena Monk,9276 Di Loreto Road,Tarjeta de crédito
+Golf Putting Green,Sports,Golf,22.33,27,11/11/2022,7:04 AM,Corbet Deesly,63837 Truax Point,Tarjeta de crédito
+Travel Yoga Mat,Fitness,Yoga Equipment,587.66,900,8/31/2022,12:59 AM,Olenka Sarton,171 Messerschmidt Point,Tarjeta de crédito
+Coconut Curry Chicken,Food - Frozen Foods,,968.86,49,7/12/2022,6:41 AM,Leonhard Dakers,4634 Miller Center,Transferencia bancaria
+Butternut Squash Soup,Food - Soups,Vegetarian Soups,221.5,211,2/24/2022,1:43 PM,Elora Maharry,650 Valley Edge Road,Tarjeta de crédito
+Peas (frozen),Food - Frozen Foods,Frozen Vegetables,766.96,58,9/19/2022,6:11 AM,Shir Elwin,19438 Saint Paul Alley,Efectivo
+Vegetable Broth,Food - Canned Goods,Soups & Broths,165.53,161,9/7/2022,2:16 PM,Edita Willment,2433 Westridge Way,Tarjeta de crédito
+Coffee Capsule Dispenser,Kitchen,Coffee Accessories,631.48,149,8/5/2022,12:30 PM,Shaw Cazereau,76 5th Avenue,Tarjeta de crédito
+Shower Curtain Hooks,Home,Home Organization,421.59,999,8/19/2022,7:39 PM,Cindi Ginie,23 Dexter Center,Efectivo
+Chocolate Covered Pretzels,Food - Snacks,,721.95,620,8/8/2022,8:15 PM,Noelyn Geraldi,094 Carey Terrace,Transferencia bancaria
+Yoga Strap,Fitness,Yoga Equipment,987.7,85,6/1/2022,10:31 PM,Paulie Le Houx,6684 Vera Avenue,Transferencia bancaria
+Portable Laptop Table,Office,,214.53,638,11/9/2022,8:15 AM,Adrianne Gann,72894 Petterle Way,Tarjeta de crédito
+Coconut Curry Lentils,Food - Canned Goods,Canned Vegetarian Meals,14.35,169,10/23/2022,6:44 PM,Ivy Paxforde,3974 Dapin Drive,Transferencia bancaria
+Silicone Cooking Utensils Set,Kitchen,,968.73,700,1/13/2022,5:43 AM,Gaylor Gilvear,09572 Jackson Crossing,Efectivo
+Wireless Earbud Silicone Covers,Accessories,Tech Accessories,361.86,179,4/28/2022,5:48 AM,Camala Murrock,108 Emmet Road,Tarjeta de crédito
+Balsamic Vinegar,Food - Condiments,Vinegars,848.97,290,2/9/2022,8:49 PM,Milena Rizon,99985 Ohio Court,Efectivo
+Organic Tomato Ketchup,,,820.31,325,11/2/2022,3:54 PM,Onfre Mitcheson,98 Tennyson Way,Efectivo
+High-Low Hem Tee,Clothing - Tops,T-Shirts,380.25,395,11/24/2022,7:26 AM,Justinn Lampet,5 Raven Way,Transferencia bancaria
+Oven-Baked Sweet Potato Fries,Food - Frozen Foods,Frozen Vegetables,329.12,72,3/22/2022,11:26 AM,Laird Herche,684 Kedzie Park,Efectivo
+Compressible Packing Cubes,Travel,Travel Accessories,357.18,247,7/9/2022,9:44 AM,Jamie Scheu,67298 Hovde Parkway,Tarjeta de crédito
+Fashionable Scarves Set,Clothing,Accessories,397.35,207,5/19/2022,9:35 PM,Rafferty Straine,2755 Fulton Trail,Tarjeta de crédito
+Active Racerback Tank,Clothing - Tops,Activewear,65.62,35,5/26/2022,4:54 PM,Salvidor Hoyles,3540 Mariners Cove Lane,Transferencia bancaria
+Lemonade Mix,,Drink Mixes,166.58,972,7/6/2022,4:56 PM,Livvie Duggan,8224 Southridge Avenue,Tarjeta de crédito
+Baked Potato Chips,Food - Snacks,Healthy Snacks,849.36,456,5/1/2022,7:24 PM,Rowena Salman,507 Mcbride Point,Transferencia bancaria
+Camping Lantern,Outdoor,Camping Equipment,366.33,586,12/6/2022,10:07 PM,Juliet Amey,68 Petterle Court,Transferencia bancaria
+Canvas High-Top Sneakers,Clothing - Footwear,Casual Footwear,773.85,713,7/20/2022,5:55 PM,Johna Salman,845 Rusk Drive,Efectivo
+Face Mask Set,Health,Personal Care & Grooming,773.09,284,12/15/2022,4:49 PM,Barnabas Narducci,757 Almo Trail,Efectivo
+Comfortable Bed Pillow,Home,Bedding & Linens,642.84,78,9/8/2022,8:19 AM,Prue Tremelling,6659 Burning Wood Drive,Transferencia bancaria
+Foldable Picnic Table,Outdoor,Outdoor Furniture,16.03,319,7/26/2022,11:49 AM,Tera Lamberti,0287 Novick Crossing,Efectivo
+Baked Falafel,Food - Vegetarian,Snacks,69.59,982,6/17/2022,9:44 AM,Ashlee Crommett,3 Blue Bill Park Hill,Efectivo
+Samsung Galaxy Smartwatch,Wearable Tech,Smartwatches,271.82,533,6/24/2022,9:14 PM,Camilla Pyzer,453 Springview Park,Efectivo
+Cinnamon Apple Sauce,Food - Canned Goods,Sauces & Condiments,220.24,333,10/14/2022,2:53 AM,Elle Attewill,04821 Harper Alley,Efectivo
+Kids' Science Experiment Kit,Toys,,793.38,930,6/12/2022,2:19 PM,Noelani Foakes,8540 Merchant Park,Tarjeta de crédito
+Organic Apples,Food - Produce,Fruits,528.7,349,11/22/2022,5:13 AM,Margarita Gianilli,46004 Onsgard Crossing,Efectivo
+Fitbit Activity Tracker,Fitness,Wearable Technology,946.35,840,10/9/2022,2:11 PM,Amil Strudwick,18 Village Parkway,Efectivo
+Memory Foam Mattress Pad,Home,Bedding & Linens,556.94,552,10/14/2022,11:44 AM,Putnem Keynes,0360 Mayfield Lane,Tarjeta de crédito
+Set of Decorative Storage Bins,,Home Organization,496.02,658,7/21/2022,4:11 PM,Reagen Jenk,13370 Menomonie Lane,Transferencia bancaria
+Hiking Boots,Footwear,Outdoor Footwear,752.58,456,9/4/2022,5:09 PM,Neil Labin,5 Carpenter Avenue,Tarjeta de crédito
+Sweet and Spicy Barbecue Sauce,,BBQ Sauces,450.2,821,4/18/2022,5:54 AM,Sonya Scoines,3 Pawling Center,Transferencia bancaria
+Electric Wine Opener,Kitchen,Barware,392.93,199,3/25/2022,9:18 PM,Sherill Tretter,08874 Mayer Park,Efectivo
+Car Escape Tool,Automotive,Safety and Emergency Supplies,188.37,245,5/31/2022,5:41 PM,Orson Phalp,475 Forest Pass,Tarjeta de crédito
+Pepperoni Pizza Rolls,Food - Snacks,Savory Snacks,79.84,985,5/3/2022,5:53 PM,Jeni Goodere,3 Village Green Junction,Efectivo
+Nutty Trail Mix,Food - Snacks,Healthy Snacks,323.24,,4/23/2022,8:38 AM,Alysia Keene,87559 Columbus Avenue,Efectivo
+Taro Chips,Food - Snacks,Savory Snacks,858.84,422,5/5/2022,12:57 PM,Chrisy Kesey,9927 Eggendart Plaza,Tarjeta de crédito
+Mediterranean Chickpea Salad,Food - Salads,,739.01,517,4/26/2022,1:28 PM,Caz Ibel,966 Northport Street,Tarjeta de crédito
+Buffalo Stilton Cheese,Food - Cheese,Specialty Cheeses,259.19,529,3/19/2022,2:58 PM,Kim Riddle,8 Monument Park,Tarjeta de crédito
+Bamboo Cutting Board Set,Kitchen,Kitchen Gadgets,107.58,307,7/9/2022,3:41 PM,Kelly Atthowe,96888 American Ash Place,Transferencia bancaria
+Solar Charger,Electronics,Portable Power Solutions,156.28,348,8/4/2022,7:00 AM,Nanon Manchester,550 Starling Street,Transferencia bancaria
+Workstation Laptop Stand,Office,Laptop Accessories,13.37,109,6/23/2022,1:10 AM,Dorisa Lerway,98066 Prairie Rose Terrace,Tarjeta de crédito
+Insulated Lunch Bag,Kitchen,Food Storage Solutions,129.6,334,11/3/2022,8:12 PM,Nap Puttergill,2391 Northview Terrace,Tarjeta de crédito
+Berries Medley,Food - Produce,Fresh Fruits,406.98,401,3/15/2022,2:29 AM,Dominic Wigmore,26447 Buhler Trail,Tarjeta de crédito
+Decorative Wall Tapestry,Home,Wall Art,106.62,726,1/17/2022,5:32 AM,Maggi Dunning,86806 Warner Avenue,Efectivo
+Watering Can with Nozzle,,Garden Tools,92.7,697,2/17/2022,5:11 AM,Anselma Gherardesci,3 Eagle Crest Hill,Transferencia bancaria
+Children's Backpack,Accessories,Kids' Bags,272.22,934,8/19/2022,10:17 PM,Carce Merrigans,59919 Lake View Circle,Transferencia bancaria
+Spicy Italian Sausage,Food - Meat & Seafood,Meat Products,16.48,99,3/3/2022,10:42 PM,Josefa Lidington,37 Hoffman Street,Tarjeta de crédito
+Dried Fruit Medley,Food - Snacks,Sweet Snacks,586.58,41,6/8/2022,2:40 PM,Devon Gilbanks,3 Dorton Pass,Tarjeta de crédito
+Savory Oatmeal Cups,Food - Breakfast,Savory Breakfast Options,742.85,332,11/2/2022,6:58 AM,Marrissa Cleyne,4 Anzinger Parkway,Efectivo
+Weighted Jump Rope with Counter,Fitness,Cardio Equipment,655.3,332,1/4/2022,9:39 PM,,3365 Knutson Pass,Transferencia bancaria
+Spicy Tuna Salad,Food - Seafood,,319.02,838,12/1/2022,6:37 PM,Berty Ensten,12 Farwell Road,Tarjeta de crédito
+Magnetic Phone Case,Accessories,Mobile Accessories,89.16,989,6/6/2022,9:22 AM,Tamas Winterscale,88 Cherokee Drive,Tarjeta de crédito
+Himalayan Salt Grinder,Food - Spices,Salt & Seasoning,903.72,245,7/22/2022,4:07 AM,Nesta Tilt,36758 Bartillon Circle,Tarjeta de crédito
