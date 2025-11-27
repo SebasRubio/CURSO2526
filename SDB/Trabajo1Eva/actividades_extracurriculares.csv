@@ -1,0 +1,443 @@
+estudiante_id,actividad_tipo,horas_semana,participacion_anios,logros
+EST001,Debate,4,4,Participación torneo
+EST002,Debate,4,2,Finalista torneo
+EST003,Debate,1,2,Campeón autonómico
+EST003,Deportes,4,2,Equipo escolar
+EST004,Periodismo,2,1,Editor joven
+EST005,Debate,5,4,Campeón autonómico
+EST006,Robótica,5,4,Primer puesto nacional
+EST007,Voluntariado,6,3,Programa social
+EST008,Debate,5,2,Campeón autonómico
+EST009,Debate,1,1,Semifinalista
+EST009,Voluntariado,3,1,Programa social
+EST009,Deportes,6,4,Liga municipal
+EST010,Música,6,4,Concierto escolar
+EST011,Teatro,3,4,Obra teatral
+EST011,Debate,5,4,Finalista torneo
+EST011,Voluntariado,1,3,Programa social
+EST015,Voluntariado,3,2,Programa comunitario
+EST015,Teatro,4,3,Festival escolar
+EST016,Deportes,2,2,Equipo escolar
+EST016,Música,4,4,Concierto benéfico
+EST016,Debate,3,4,Semifinalista
+EST017,Teatro,4,4,Festival escolar
+EST018,Voluntariado,6,3,Programa social
+EST018,Teatro,6,1,Festival escolar
+EST020,Periodismo,3,4,Editor joven
+EST020,Música,3,1,Concierto orquesta
+EST021,Voluntariado,2,4,Programa social
+EST021,Robótica,2,1,Participación inicial
+EST022,Periodismo,5,4,Editor joven
+EST022,Voluntariado,2,3,Programa social
+EST022,Teatro,1,2,Festival escolar
+EST023,Robótica,3,1,Participación concurso
+EST024,Robótica,5,2,Segundo puesto concurso
+EST024,Música,6,3,Concierto benéfico
+EST025,Música,5,1,Concierto orquesta
+EST025,Periodismo,4,4,Editor joven
+EST026,Teatro,6,3,Obra escolar
+EST026,Deportes,4,2,Equipo escolar
+EST028,Robótica,1,3,Primer puesto nacional
+EST029,Debate,6,3,Finalista torneo
+EST029,Música,3,1,Concierto escolar
+EST029,Periodismo,6,2,Editor joven
+EST030,Música,4,4,Concierto orquesta
+EST030,Teatro,2,3,Festival escolar
+EST031,Periodismo,3,4,Editor joven
+EST031,Debate,6,1,Campeón autonómico
+EST032,Voluntariado,4,2,Programa social
+EST032,Música,3,1,Cor escolar
+EST034,Periodismo,1,1,Revista escolar
+EST034,Teatro,1,2,Obra teatral
+EST034,Robótica,4,4,Primer puesto nacional
+EST037,Teatro,1,4,Festival escolar
+EST037,Robótica,5,3,Participación inicial
+EST038,Debate,5,4,Campeón autonómico
+EST040,Voluntariado,4,1,Programa social
+EST040,Deportes,3,2,Torneo local
+EST041,Periodismo,3,3,Editor joven
+EST045,Robótica,6,2,Participación concurso
+EST047,Deportes,6,4,Primera división juvenil
+EST048,Debate,1,4,Finalista torneo
+EST048,Voluntariado,6,1,Programa comunitario
+EST051,Deportes,1,2,Liga municipal
+EST051,Música,4,4,Cor escolar
+EST051,Teatro,3,3,Obra teatral
+EST052,Periodismo,2,2,Editor joven
+EST053,Teatro,1,3,Obra teatral
+EST053,Debate,5,1,Participación torneo
+EST054,Voluntariado,6,4,Programa social
+EST054,Deportes,1,1,Equipo escolar
+EST056,Debate,5,2,Semifinalista
+EST058,Teatro,2,3,Obra teatral
+EST058,Música,3,4,Concierto orquesta
+EST058,Deportes,4,3,Torneo local
+EST059,Deportes,3,3,Primera división juvenil
+EST061,Deportes,5,1,Liga municipal
+EST063,Voluntariado,2,4,Programa social
+EST063,Teatro,2,1,Festival escolar
+EST064,Teatro,6,3,Festival escolar
+EST064,Robótica,3,1,Participación inicial
+EST065,Teatro,3,2,Obra escolar
+EST068,Debate,3,4,Finalista torneo
+EST068,Periodismo,6,3,Revista escolar
+EST069,Teatro,1,1,Obra teatral
+EST070,Música,1,2,Concierto sinfónico
+EST070,Periodismo,5,4,Editor joven
+EST071,Deportes,5,2,Liga municipal
+EST072,Debate,3,3,Finalista torneo
+EST073,Deportes,5,1,Torneo local
+EST073,Debate,3,1,Campeón autonómico
+EST074,Música,2,1,Concierto escolar
+EST076,Teatro,2,1,Obra teatral
+EST076,Robótica,3,1,Primer puesto nacional
+EST077,Música,6,2,Concierto escolar
+EST077,Deportes,6,4,Primera división juvenil
+EST079,Robótica,5,1,Primer puesto nacional
+EST080,Deportes,3,3,Primera división juvenil
+EST081,Debate,5,3,Participación torneo
+EST081,Música,4,4,Concierto orquesta
+EST082,Teatro,2,3,Obra teatral
+EST082,Periodismo,3,3,Revista escolar
+EST083,Deportes,3,1,Primera división juvenil
+EST084,Música,6,2,Concierto sinfónico
+EST085,Debate,2,3,Finalista torneo
+EST085,Robótica,5,3,Segundo puesto concurso
+EST086,Robótica,4,4,Participación inicial
+EST086,Periodismo,5,1,Editor joven
+EST087,Teatro,2,1,Obra teatral
+EST087,Deportes,1,4,Primera división juvenil
+EST089,Periodismo,5,4,Editor joven
+EST090,Voluntariado,3,1,Programa social
+EST093,Periodismo,3,1,Revista escolar
+EST094,Robótica,4,3,Primer puesto nacional
+EST096,Debate,5,3,Semifinalista
+EST096,Voluntariado,3,2,Programa social
+EST097,Teatro,1,1,Obra teatral
+EST097,Voluntariado,6,2,Programa comunitario
+EST098,Voluntariado,3,4,Programa social
+EST098,Robótica,6,4,Participación concurso
+EST103,Música,2,4,Concierto orquesta
+EST104,Periodismo,2,4,Editor joven
+EST104,Teatro,5,1,Obra escolar
+EST106,Voluntariado,5,3,Programa social
+EST106,Robótica,5,4,Participación concurso
+EST106,Periodismo,3,1,Editor joven
+EST107,Música,6,3,Concierto benéfico
+EST108,Debate,1,2,Semifinalista
+EST109,Música,3,1,Concierto orquesta
+EST110,Debate,4,3,Finalista torneo
+EST111,Deportes,2,4,Liga municipal
+EST111,Música,6,4,Concierto benéfico
+EST113,Robótica,1,2,Primer puesto regional
+EST113,Voluntariado,1,4,Programa comunitario
+EST118,Robótica,3,3,Primer puesto regional
+EST119,Voluntariado,4,2,Programa comunitario
+EST119,Música,3,4,Concierto benéfico
+EST119,Deportes,4,1,Primera división juvenil
+EST120,Teatro,3,1,Festival escolar
+EST121,Periodismo,1,4,Revista escolar
+EST121,Teatro,3,2,Obra escolar
+EST121,Deportes,4,1,Torneo local
+EST122,Periodismo,4,3,Revista escolar
+EST123,Periodismo,5,4,Revista escolar
+EST124,Teatro,1,2,Obra escolar
+EST124,Debate,6,4,Finalista torneo
+EST126,Teatro,5,3,Obra teatral
+EST126,Voluntariado,6,1,Programa comunitario
+EST128,Voluntariado,5,2,Programa comunitario
+EST133,Deportes,5,2,Liga municipal
+EST133,Voluntariado,6,2,Programa social
+EST135,Música,6,2,Concierto sinfónico
+EST135,Deportes,5,4,Primera división juvenil
+EST137,Deportes,5,2,Primera división juvenil
+EST137,Teatro,3,3,Festival escolar
+EST138,Voluntariado,4,4,Programa social
+EST138,Debate,2,3,Campeón autonómico
+EST139,Teatro,2,3,Obra teatral
+EST140,Música,3,2,Concierto benéfico
+EST141,Debate,2,4,Semifinalista
+EST141,Robótica,3,1,Primer puesto regional
+EST144,Voluntariado,2,4,Programa social
+EST146,Voluntariado,6,3,Programa comunitario
+EST147,Teatro,4,4,Festival escolar
+EST148,Teatro,3,4,Obra teatral
+EST148,Música,4,1,Cor escolar
+EST149,Robótica,2,3,Segundo puesto concurso
+EST149,Debate,1,3,Semifinalista
+EST149,Teatro,4,4,Festival escolar
+EST150,Música,3,1,Concierto orquesta
+EST150,Teatro,6,4,Obra teatral
+EST151,Voluntariado,5,4,Programa social
+EST152,Teatro,4,1,Obra escolar
+EST152,Debate,6,2,Campeón autonómico
+EST152,Periodismo,5,2,Revista escolar
+EST153,Periodismo,6,2,Editor joven
+EST153,Voluntariado,4,4,Programa comunitario
+EST157,Periodismo,3,1,Editor joven
+EST157,Teatro,6,1,Obra escolar
+EST161,Teatro,5,2,Obra escolar
+EST161,Robótica,3,3,Primer puesto regional
+EST161,Debate,5,4,Semifinalista
+EST162,Debate,6,4,Semifinalista
+EST163,Debate,5,4,Finalista torneo
+EST164,Robótica,3,1,Segundo puesto concurso
+EST165,Periodismo,4,4,Editor joven
+EST165,Voluntariado,6,3,Programa social
+EST167,Música,4,1,Cor escolar
+EST167,Voluntariado,4,1,Programa social
+EST168,Robótica,3,2,Primer puesto nacional
+EST168,Música,1,3,Concierto orquesta
+EST168,Voluntariado,1,4,Programa social
+EST170,Voluntariado,1,2,Programa social
+EST170,Robótica,1,1,Participación inicial
+EST170,Música,5,3,Concierto escolar
+EST171,Debate,3,1,Campeón autonómico
+EST173,Teatro,1,1,Obra teatral
+EST173,Robótica,3,2,Segundo puesto concurso
+EST174,Periodismo,4,4,Editor joven
+EST174,Teatro,6,2,Obra escolar
+EST174,Voluntariado,4,1,Programa social
+EST175,Música,5,1,Concierto escolar
+EST177,Periodismo,1,4,Revista escolar
+EST177,Teatro,1,3,Obra escolar
+EST177,Voluntariado,2,1,Programa social
+EST178,Voluntariado,6,3,Programa social
+EST180,Robótica,2,4,Primer puesto nacional
+EST181,Robótica,5,4,Primer puesto nacional
+EST182,Voluntariado,2,3,Programa comunitario
+EST182,Robótica,1,3,Primer puesto nacional
+EST183,Debate,6,3,Finalista torneo
+EST185,Deportes,2,2,Campeonato regional
+EST185,Teatro,4,4,Festival escolar
+EST186,Música,4,1,Cor escolar
+EST187,Música,1,3,Concierto orquesta
+EST187,Voluntariado,1,2,Programa social
+EST189,Música,4,4,Concierto benéfico
+EST190,Voluntariado,2,2,Programa comunitario
+EST190,Deportes,4,1,Equipo escolar
+EST191,Robótica,4,2,Primer puesto regional
+EST191,Teatro,4,3,Festival escolar
+EST191,Deportes,3,2,Equipo escolar
+EST196,Debate,6,1,Campeón autonómico
+EST197,Robótica,1,1,Primer puesto nacional
+EST198,Robótica,5,4,Primer puesto nacional
+EST198,Periodismo,4,1,Editor joven
+EST198,Debate,4,1,Finalista torneo
+EST199,Deportes,5,1,Equipo escolar
+EST199,Periodismo,4,2,Revista escolar
+EST200,Robótica,5,2,Segundo puesto concurso
+EST200,Música,1,3,Cor escolar
+EST201,Periodismo,5,3,Revista escolar
+EST202,Debate,3,4,Finalista torneo
+EST203,Teatro,2,1,Obra teatral
+EST203,Robótica,5,2,Primer puesto nacional
+EST203,Música,2,3,Concierto orquesta
+EST204,Robótica,6,3,Primer puesto regional
+EST204,Debate,6,1,Finalista torneo
+EST206,Deportes,6,1,Torneo local
+EST207,Teatro,5,1,Festival escolar
+EST209,Música,3,4,Cor escolar
+EST210,Música,4,2,Concierto orquesta
+EST212,Voluntariado,6,3,Programa comunitario
+EST212,Robótica,4,1,Primer puesto nacional
+EST213,Teatro,3,1,Festival escolar
+EST214,Robótica,2,4,Participación concurso
+EST216,Deportes,1,3,Equipo escolar
+EST216,Debate,1,1,Campeón autonómico
+EST217,Periodismo,2,2,Revista escolar
+EST217,Teatro,6,4,Obra escolar
+EST218,Voluntariado,5,3,Programa social
+EST219,Debate,5,4,Semifinalista
+EST219,Voluntariado,1,3,Programa comunitario
+EST220,Periodismo,6,2,Revista escolar
+EST220,Música,6,1,Concierto escolar
+EST221,Periodismo,3,1,Editor joven
+EST222,Teatro,2,2,Obra teatral
+EST223,Debate,2,4,Semifinalista
+EST223,Teatro,6,4,Obra escolar
+EST224,Periodismo,3,3,Revista escolar
+EST225,Periodismo,6,3,Editor joven
+EST225,Voluntariado,2,3,Programa comunitario
+EST226,Robótica,1,4,Participación concurso
+EST226,Debate,3,1,Semifinalista
+EST227,Voluntariado,4,3,Programa social
+EST227,Deportes,2,2,Equipo escolar
+EST229,Música,4,1,Concierto orquesta
+EST230,Voluntariado,6,4,Programa comunitario
+EST233,Deportes,1,2,Equipo escolar
+EST233,Periodismo,1,1,Editor joven
+EST233,Voluntariado,5,1,Programa comunitario
+EST234,Deportes,1,2,Liga municipal
+EST235,Debate,6,2,Finalista torneo
+EST236,Voluntariado,6,4,Programa social
+EST237,Voluntariado,4,1,Programa comunitario
+EST239,Música,4,2,Concierto escolar
+EST239,Periodismo,1,3,Editor joven
+EST240,Voluntariado,5,4,Programa social
+EST240,Periodismo,4,1,Editor joven
+EST241,Periodismo,3,3,Editor joven
+EST242,Teatro,6,1,Obra teatral
+EST243,Música,3,1,Concierto orquesta
+EST243,Deportes,3,4,Liga municipal
+EST244,Periodismo,5,4,Editor joven
+EST245,Voluntariado,6,2,Programa social
+EST246,Debate,3,1,Participación torneo
+EST247,Robótica,6,4,Participación concurso
+EST248,Teatro,1,2,Obra teatral
+EST249,Periodismo,4,3,Editor joven
+EST250,Robótica,4,4,Participación inicial
+EST251,Voluntariado,5,3,Programa social
+EST251,Teatro,2,2,Festival escolar
+EST256,Voluntariado,1,1,Programa comunitario
+EST258,Robótica,4,1,Segundo puesto concurso
+EST259,Debate,1,1,Participación torneo
+EST260,Teatro,2,3,Obra escolar
+EST260,Música,6,1,Concierto orquesta
+EST261,Música,5,4,Concierto sinfónico
+EST263,Debate,5,2,Participación torneo
+EST266,Música,6,2,Concierto escolar
+EST266,Debate,2,3,Participación torneo
+EST267,Teatro,1,2,Obra teatral
+EST267,Deportes,2,4,Primera división juvenil
+EST268,Teatro,2,3,Obra teatral
+EST270,Teatro,2,2,Obra teatral
+EST270,Música,2,1,Concierto benéfico
+EST271,Teatro,3,1,Obra escolar
+EST271,Debate,5,3,Participación torneo
+EST272,Voluntariado,6,1,Programa social
+EST272,Periodismo,3,4,Editor joven
+EST273,Voluntariado,5,1,Programa social
+EST276,Robótica,2,3,Primer puesto regional
+EST279,Deportes,6,3,Equipo escolar
+EST279,Voluntariado,3,1,Programa comunitario
+EST280,Debate,2,1,Semifinalista
+EST281,Periodismo,4,3,Editor joven
+EST281,Música,6,3,Concierto benéfico
+EST283,Música,2,1,Concierto benéfico
+EST285,Voluntariado,1,3,Programa social
+EST285,Debate,1,4,Semifinalista
+EST287,Periodismo,3,1,Revista escolar
+EST287,Robótica,6,1,Primer puesto nacional
+EST288,Voluntariado,6,4,Programa social
+EST288,Debate,5,2,Semifinalista
+EST290,Deportes,1,1,Primera división juvenil
+EST290,Voluntariado,5,4,Programa comunitario
+EST292,Voluntariado,6,2,Programa social
+EST293,Robótica,2,3,Participación inicial
+EST294,Deportes,1,1,Torneo local
+EST295,Deportes,2,3,Equipo escolar
+EST296,Deportes,1,4,Torneo local
+EST296,Periodismo,6,2,Editor joven
+EST298,Robótica,3,3,Participación concurso
+EST299,Deportes,2,3,Torneo local
+EST299,Música,4,2,Concierto orquesta
+EST299,Voluntariado,6,2,Programa social
+EST301,Deportes,2,3,Liga municipal
+EST301,Debate,3,4,Participación torneo
+EST302,Voluntariado,5,3,Programa social
+EST303,Deportes,6,1,Equipo escolar
+EST303,Periodismo,1,2,Revista escolar
+EST305,Voluntariado,1,4,Programa comunitario
+EST305,Robótica,3,2,Primer puesto nacional
+EST307,Deportes,6,2,Campeonato regional
+EST308,Música,6,1,Concierto benéfico
+EST308,Robótica,3,4,Primer puesto nacional
+EST310,Teatro,3,4,Festival escolar
+EST311,Deportes,5,3,Torneo local
+EST315,Periodismo,2,3,Revista escolar
+EST315,Deportes,3,4,Torneo local
+EST318,Periodismo,3,4,Revista escolar
+EST319,Periodismo,2,3,Revista escolar
+EST319,Robótica,2,1,Participación inicial
+EST320,Periodismo,6,3,Revista escolar
+EST320,Voluntariado,5,3,Programa comunitario
+EST320,Deportes,3,1,Torneo local
+EST322,Voluntariado,5,3,Programa social
+EST323,Teatro,1,3,Obra escolar
+EST323,Música,4,3,Concierto orquesta
+EST323,Voluntariado,1,1,Programa comunitario
+EST324,Deportes,1,4,Torneo local
+EST325,Música,5,3,Cor escolar
+EST325,Deportes,4,4,Equipo escolar
+EST329,Debate,2,1,Campeón autonómico
+EST330,Debate,3,1,Participación torneo
+EST330,Periodismo,3,3,Revista escolar
+EST331,Robótica,2,1,Participación inicial
+EST331,Música,6,1,Concierto escolar
+EST333,Robótica,2,2,Primer puesto nacional
+EST334,Voluntariado,5,2,Programa comunitario
+EST335,Teatro,6,1,Obra teatral
+EST335,Robótica,2,2,Primer puesto regional
+EST336,Debate,4,1,Campeón autonómico
+EST337,Música,3,2,Cor escolar
+EST337,Deportes,2,2,Primera división juvenil
+EST337,Voluntariado,4,4,Programa comunitario
+EST338,Debate,4,1,Semifinalista
+EST339,Teatro,6,4,Obra teatral
+EST339,Periodismo,6,4,Editor joven
+EST339,Música,4,3,Concierto escolar
+EST340,Periodismo,4,2,Revista escolar
+EST340,Debate,1,4,Semifinalista
+EST343,Deportes,2,2,Campeonato regional
+EST344,Robótica,6,4,Segundo puesto concurso
+EST344,Deportes,3,4,Liga municipal
+EST344,Periodismo,3,3,Revista escolar
+EST347,Periodismo,6,2,Revista escolar
+EST348,Voluntariado,4,2,Programa social
+EST349,Música,5,1,Concierto sinfónico
+EST351,Teatro,2,4,Obra teatral
+EST352,Periodismo,6,2,Editor joven
+EST353,Debate,5,1,Participación torneo
+EST354,Periodismo,1,3,Revista escolar
+EST355,Música,3,4,Concierto orquesta
+EST356,Teatro,5,3,Obra teatral
+EST357,Voluntariado,6,4,Programa comunitario
+EST357,Deportes,6,1,Liga municipal
+EST358,Robótica,4,1,Primer puesto regional
+EST358,Periodismo,1,4,Revista escolar
+EST361,Teatro,3,4,Obra escolar
+EST361,Robótica,3,4,Participación concurso
+EST361,Voluntariado,5,4,Programa social
+EST362,Deportes,2,1,Torneo local
+EST363,Robótica,5,3,Participación inicial
+EST363,Deportes,3,3,Torneo local
+EST364,Música,3,3,Cor escolar
+EST366,Voluntariado,2,1,Programa social
+EST367,Robótica,3,1,Participación inicial
+EST369,Robótica,1,1,Primer puesto nacional
+EST371,Robótica,1,2,Participación concurso
+EST373,Periodismo,5,1,Editor joven
+EST374,Robótica,1,4,Segundo puesto concurso
+EST375,Música,2,2,Cor escolar
+EST376,Voluntariado,6,4,Programa social
+EST377,Deportes,6,2,Liga municipal
+EST377,Periodismo,6,1,Revista escolar
+EST377,Música,5,1,Concierto benéfico
+EST379,Teatro,5,2,Festival escolar
+EST380,Robótica,6,4,Primer puesto regional
+EST381,Voluntariado,1,1,Programa comunitario
+EST382,Robótica,4,2,Participación concurso
+EST382,Teatro,2,1,Obra escolar
+EST383,Voluntariado,2,1,Programa comunitario
+EST383,Música,5,4,Concierto orquesta
+EST384,Deportes,6,3,Primera división juvenil
+EST384,Debate,3,1,Finalista torneo
+EST386,Deportes,2,4,Torneo local
+EST386,Teatro,5,3,Obra teatral
+EST386,Voluntariado,1,1,Programa comunitario
+EST387,Teatro,2,3,Obra escolar
+EST388,Deportes,4,1,Liga municipal
+EST388,Teatro,5,3,Festival escolar
+EST388,Voluntariado,1,4,Programa social
+EST390,Periodismo,2,1,Editor joven
+EST390,Música,5,4,Concierto escolar
+EST391,Música,3,2,Cor escolar
+EST391,Deportes,6,4,Torneo local
+EST392,Música,3,2,Concierto escolar
+EST392,Robótica,1,4,Primer puesto regional
+EST393,Deportes,1,3,Equipo escolar
+EST397,Música,3,3,Cor escolar
+EST398,Debate,5,3,Campeón autonómico
+EST400,Música,6,2,Concierto orquesta
+EST400,Periodismo,5,3,Editor joven

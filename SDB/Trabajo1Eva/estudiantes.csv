@@ -1,0 +1,401 @@
+estudiante_id,edad,genero,ciudad,nivel_educativo,estrato_socioeconomico,tipo_colegio,idioma_nativo
+EST001,14,M,Granada,Secundaria,Bajo,Público,Español
+EST002,14,M,Gijón,Secundaria,Bajo,Público,Español
+EST003,15,M,Madrid,Secundaria,Alto,Público,Español
+EST004,18,F,Murcia,Bachillerato,Medio,Público,Español
+EST005,14,M,Gijón,Secundaria,Medio,Público,Español
+EST006,15,F,Sevilla,Secundaria,Bajo,Público,Español
+EST007,16,F,Granada,Secundaria,Bajo,Concertado,Español
+EST008,18,M,Vigo,Bachillerato,Bajo,Público,Gallego
+EST009,18,F,Málaga,Bachillerato,Alto,Público,Español
+EST010,15,F,Valencia,Secundaria,Bajo,Concertado,Valenciano
+EST011,17,F,Palma de Mallorca,Bachillerato,Alto,Concertado,Catalán
+EST012,15,F,Valladolid,Secundaria,Bajo,Concertado,Español
+EST013,14,M,Murcia,Secundaria,Bajo,Público,Español
+EST014,16,M,Córdoba,Secundaria,Bajo,Público,Español
+EST015,14,F,Vigo,Secundaria,Medio,Público,Gallego
+EST016,18,F,Málaga,Bachillerato,Alto,Público,Español
+EST017,17,M,Granada,Bachillerato,Bajo,Público,Español
+EST018,18,F,Gijón,Bachillerato,Alto,Público,Español
+EST019,15,M,Santa Cruz de Tenerife,Secundaria,Bajo,Concertado,Español
+EST020,14,M,Zaragoza,Secundaria,Alto,Público,Español
+EST021,14,F,Vigo,Secundaria,Alto,Privado,Gallego
+EST022,18,F,Madrid,Bachillerato,Alto,Concertado,Español
+EST023,18,F,Córdoba,Bachillerato,Bajo,Público,Español
+EST024,15,F,Madrid,Secundaria,Alto,Concertado,Español
+EST025,16,M,Sevilla,Secundaria,Alto,Público,Español
+EST026,18,M,Bilbao,Bachillerato,Medio,Concertado,Euskera
+EST027,18,M,Córdoba,Bachillerato,Medio,Público,Español
+EST028,16,F,Murcia,Secundaria,Bajo,Público,Español
+EST029,18,M,Valencia,Bachillerato,Alto,Público,Valenciano
+EST030,14,M,Bilbao,Secundaria,Alto,Público,Euskera
+EST031,18,M,Granada,Bachillerato,Alto,Concertado,Español
+EST032,17,M,Málaga,Bachillerato,Alto,Público,Español
+EST033,16,F,Palma de Mallorca,Secundaria,Bajo,Público,Catalán
+EST034,14,F,Madrid,Secundaria,Alto,Público,Español
+EST035,18,M,Madrid,Bachillerato,Bajo,Concertado,Español
+EST036,14,M,Valencia,Secundaria,Bajo,Concertado,Valenciano
+EST037,14,M,Granada,Secundaria,Alto,Público,Español
+EST038,18,M,Santa Cruz de Tenerife,Bachillerato,Bajo,Concertado,Español
+EST039,17,M,Sevilla,Bachillerato,Bajo,Concertado,Español
+EST040,16,F,Gijón,Secundaria,Medio,Concertado,Español
+EST041,14,M,Barcelona,Secundaria,Medio,Concertado,Catalán
+EST042,14,M,Málaga,Secundaria,Bajo,Público,Español
+EST043,15,F,Zaragoza,Secundaria,Medio,Público,Español
+EST044,14,F,Sevilla,Secundaria,Bajo,Concertado,Español
+EST045,18,M,Valencia,Bachillerato,Bajo,Público,Valenciano
+EST046,17,F,Málaga,Bachillerato,Medio,Privado,Español
+EST047,15,F,Madrid,Secundaria,Medio,Público,Español
+EST048,17,F,Gijón,Bachillerato,Alto,Privado,Español
+EST049,18,F,Bilbao,Bachillerato,Bajo,Público,Euskera
+EST050,14,M,Córdoba,Secundaria,Bajo,Público,Español
+EST051,17,M,Barcelona,Bachillerato,Alto,Público,Catalán
+EST052,15,M,Valencia,Secundaria,Alto,Concertado,Valenciano
+EST053,17,M,Murcia,Bachillerato,Alto,Público,Español
+EST054,18,M,Gijón,Bachillerato,Alto,Público,Español
+EST055,18,F,Granada,Bachillerato,Bajo,Concertado,Español
+EST056,16,M,Granada,Secundaria,Medio,Público,Español
+EST057,16,F,Córdoba,Secundaria,Bajo,Público,Español
+EST058,18,M,Valencia,Bachillerato,Alto,Público,Valenciano
+EST059,16,M,Valladolid,Secundaria,Bajo,Concertado,Español
+EST060,16,F,Zaragoza,Secundaria,Medio,Concertado,Español
+EST061,16,M,Alicante,Secundaria,Alto,Público,Valenciano
+EST062,15,F,Sevilla,Secundaria,Bajo,Concertado,Español
+EST063,15,F,Alicante,Secundaria,Alto,Público,Valenciano
+EST064,16,M,Granada,Secundaria,Alto,Público,Español
+EST065,14,M,Gijón,Secundaria,Medio,Público,Español
+EST066,16,M,Granada,Secundaria,Bajo,Concertado,Español
+EST067,18,F,Madrid,Bachillerato,Bajo,Público,Español
+EST068,15,M,Valladolid,Secundaria,Alto,Público,Español
+EST069,17,M,Barcelona,Bachillerato,Medio,Público,Catalán
+EST070,14,F,Málaga,Secundaria,Alto,Público,Español
+EST071,14,F,Gijón,Secundaria,Alto,Concertado,Español
+EST072,15,M,Zaragoza,Secundaria,Medio,Público,Español
+EST073,16,F,Murcia,Secundaria,Medio,Público,Español
+EST074,14,F,Barcelona,Secundaria,Medio,Público,Catalán
+EST075,17,F,Alicante,Bachillerato,Bajo,Público,Valenciano
+EST076,15,F,Córdoba,Secundaria,Medio,Concertado,Español
+EST077,16,F,Vigo,Secundaria,Alto,Privado,Gallego
+EST078,18,F,Madrid,Bachillerato,Bajo,Concertado,Español
+EST079,16,M,Granada,Secundaria,Bajo,Público,Español
+EST080,17,F,Córdoba,Bachillerato,Medio,Concertado,Español
+EST081,18,M,Vigo,Bachillerato,Alto,Público,Gallego
+EST082,14,F,Madrid,Secundaria,Alto,Privado,Español
+EST083,18,M,Valladolid,Bachillerato,Medio,Público,Español
+EST084,16,F,Sevilla,Secundaria,Alto,Privado,Español
+EST085,18,F,Gijón,Bachillerato,Medio,Público,Español
+EST086,16,M,Málaga,Secundaria,Medio,Concertado,Español
+EST087,17,M,Alicante,Bachillerato,Medio,Público,Valenciano
+EST088,14,F,Alicante,Secundaria,Bajo,Público,Valenciano
+EST089,18,F,Palma de Mallorca,Bachillerato,Medio,Público,Catalán
+EST090,15,F,Zaragoza,Secundaria,Alto,Público,Español
+EST091,18,F,Valencia,Bachillerato,Bajo,Concertado,Valenciano
+EST092,15,M,Bilbao,Secundaria,Bajo,Público,Euskera
+EST093,17,M,Palma de Mallorca,Bachillerato,Medio,Concertado,Catalán
+EST094,18,M,Vigo,Bachillerato,Medio,Público,Gallego
+EST095,15,M,Sevilla,Secundaria,Medio,Público,Español
+EST096,18,F,Barcelona,Bachillerato,Alto,Público,Catalán
+EST097,14,F,Bilbao,Secundaria,Medio,Concertado,Euskera
+EST098,18,F,Palma de Mallorca,Bachillerato,Alto,Concertado,Catalán
+EST099,18,F,Palma de Mallorca,Bachillerato,Bajo,Concertado,Catalán
+EST100,17,F,Granada,Bachillerato,Bajo,Concertado,Español
+EST101,16,F,Murcia,Secundaria,Medio,Público,Español
+EST102,16,M,Granada,Secundaria,Medio,Público,Español
+EST103,18,M,Bilbao,Bachillerato,Bajo,Público,Euskera
+EST104,15,M,Valencia,Secundaria,Medio,Público,Valenciano
+EST105,18,F,Gijón,Bachillerato,Bajo,Público,Español
+EST106,17,F,Madrid,Bachillerato,Alto,Público,Español
+EST107,14,F,Alicante,Secundaria,Medio,Concertado,Valenciano
+EST108,17,M,Santa Cruz de Tenerife,Bachillerato,Bajo,Público,Español
+EST109,17,M,Vigo,Bachillerato,Medio,Concertado,Gallego
+EST110,17,M,Palma de Mallorca,Bachillerato,Bajo,Privado,Catalán
+EST111,18,M,Vigo,Bachillerato,Alto,Público,Gallego
+EST112,14,M,Gijón,Secundaria,Bajo,Concertado,Español
+EST113,15,M,Granada,Secundaria,Medio,Público,Español
+EST114,17,F,Córdoba,Bachillerato,Medio,Público,Español
+EST115,17,F,Valencia,Bachillerato,Medio,Público,Valenciano
+EST116,18,M,Valladolid,Bachillerato,Bajo,Concertado,Español
+EST117,14,M,Murcia,Secundaria,Bajo,Concertado,Español
+EST118,18,M,Murcia,Bachillerato,Bajo,Público,Español
+EST119,14,M,Palma de Mallorca,Secundaria,Alto,Público,Catalán
+EST120,16,M,Sevilla,Secundaria,Bajo,Privado,Español
+EST121,14,M,Alicante,Secundaria,Alto,Concertado,Valenciano
+EST122,17,F,Málaga,Bachillerato,Bajo,Público,Español
+EST123,15,M,Alicante,Secundaria,Alto,Concertado,Valenciano
+EST124,14,M,Valladolid,Secundaria,Alto,Público,Español
+EST125,16,M,Córdoba,Secundaria,Bajo,Concertado,Español
+EST126,17,M,Gijón,Bachillerato,Medio,Concertado,Español
+EST127,17,M,Gijón,Bachillerato,Bajo,Concertado,Español
+EST128,16,F,Palma de Mallorca,Secundaria,Medio,Concertado,Catalán
+EST129,18,F,Córdoba,Bachillerato,Bajo,Concertado,Español
+EST130,14,F,Palma de Mallorca,Secundaria,Bajo,Concertado,Catalán
+EST131,18,F,Córdoba,Bachillerato,Bajo,Público,Español
+EST132,16,M,Santa Cruz de Tenerife,Secundaria,Bajo,Público,Español
+EST133,16,F,Granada,Secundaria,Alto,Concertado,Español
+EST134,16,M,Málaga,Secundaria,Bajo,Público,Español
+EST135,17,F,Murcia,Bachillerato,Alto,Público,Español
+EST136,17,F,Madrid,Bachillerato,Bajo,Público,Español
+EST137,17,M,Alicante,Bachillerato,Alto,Público,Valenciano
+EST138,17,F,Gijón,Bachillerato,Alto,Público,Español
+EST139,16,F,Granada,Secundaria,Medio,Público,Español
+EST140,14,M,Córdoba,Secundaria,Bajo,Concertado,Español
+EST141,15,M,Málaga,Secundaria,Alto,Público,Español
+EST142,18,F,Sevilla,Bachillerato,Bajo,Público,Español
+EST143,16,M,Alicante,Secundaria,Bajo,Concertado,Valenciano
+EST144,15,F,Barcelona,Secundaria,Bajo,Público,Catalán
+EST145,15,F,Sevilla,Secundaria,Bajo,Público,Español
+EST146,17,F,Palma de Mallorca,Bachillerato,Medio,Público,Catalán
+EST147,14,F,Santa Cruz de Tenerife,Secundaria,Bajo,Concertado,Español
+EST148,17,F,Valencia,Bachillerato,Alto,Concertado,Valenciano
+EST149,14,M,Bilbao,Secundaria,Alto,Privado,Euskera
+EST150,14,M,Sevilla,Secundaria,Alto,Concertado,Español
+EST151,18,M,Vigo,Bachillerato,Medio,Privado,Gallego
+EST152,16,F,Alicante,Secundaria,Alto,Concertado,Valenciano
+EST153,18,M,Málaga,Bachillerato,Alto,Público,Español
+EST154,14,M,Murcia,Secundaria,Bajo,Público,Español
+EST155,15,M,Gijón,Secundaria,Medio,Concertado,Español
+EST156,17,F,Barcelona,Bachillerato,Bajo,Público,Catalán
+EST157,16,F,Valencia,Secundaria,Alto,Público,Valenciano
+EST158,16,M,Gijón,Secundaria,Bajo,Público,Español
+EST159,15,F,Bilbao,Secundaria,Bajo,Público,Euskera
+EST160,16,F,Palma de Mallorca,Secundaria,Bajo,Público,Catalán
+EST161,16,F,Granada,Secundaria,Alto,Público,Español
+EST162,17,M,Barcelona,Bachillerato,Medio,Concertado,Catalán
+EST163,18,F,Madrid,Bachillerato,Bajo,Público,Español
+EST164,18,M,Granada,Bachillerato,Alto,Público,Español
+EST165,15,F,Palma de Mallorca,Secundaria,Medio,Público,Catalán
+EST166,18,F,Santa Cruz de Tenerife,Bachillerato,Bajo,Público,Español
+EST167,17,F,Córdoba,Bachillerato,Alto,Público,Español
+EST168,15,F,Gijón,Secundaria,Alto,Público,Español
+EST169,17,M,Palma de Mallorca,Bachillerato,Bajo,Público,Catalán
+EST170,16,M,Vigo,Secundaria,Alto,Concertado,Gallego
+EST171,14,F,Gijón,Secundaria,Bajo,Público,Español
+EST172,16,F,Palma de Mallorca,Secundaria,Bajo,Público,Catalán
+EST173,18,M,Alicante,Bachillerato,Medio,Concertado,Valenciano
+EST174,17,M,Madrid,Bachillerato,Alto,Concertado,Español
+EST175,15,M,Alicante,Secundaria,Alto,Público,Valenciano
+EST176,17,M,Murcia,Bachillerato,Bajo,Público,Español
+EST177,14,M,Santa Cruz de Tenerife,Secundaria,Alto,Público,Español
+EST178,16,F,Santa Cruz de Tenerife,Secundaria,Medio,Público,Español
+EST179,18,M,Vigo,Bachillerato,Bajo,Privado,Gallego
+EST180,18,M,Valencia,Bachillerato,Medio,Concertado,Valenciano
+EST181,17,F,Granada,Bachillerato,Bajo,Público,Español
+EST182,16,F,Bilbao,Secundaria,Medio,Público,Euskera
+EST183,16,F,Vigo,Secundaria,Medio,Privado,Gallego
+EST184,15,M,Vigo,Secundaria,Bajo,Concertado,Gallego
+EST185,17,M,Córdoba,Bachillerato,Alto,Público,Español
+EST186,17,F,Bilbao,Bachillerato,Medio,Privado,Euskera
+EST187,15,F,Sevilla,Secundaria,Medio,Público,Español
+EST188,17,M,Bilbao,Bachillerato,Medio,Concertado,Euskera
+EST189,15,M,Santa Cruz de Tenerife,Secundaria,Medio,Público,Español
+EST190,17,M,Córdoba,Bachillerato,Alto,Concertado,Español
+EST191,17,F,Santa Cruz de Tenerife,Bachillerato,Alto,Público,Español
+EST192,14,M,Alicante,Secundaria,Bajo,Concertado,Valenciano
+EST193,17,M,Sevilla,Bachillerato,Medio,Público,Español
+EST194,16,M,Barcelona,Secundaria,Medio,Concertado,Catalán
+EST195,16,F,Valladolid,Secundaria,Medio,Público,Español
+EST196,18,F,Zaragoza,Bachillerato,Bajo,Público,Español
+EST197,18,F,Murcia,Bachillerato,Medio,Privado,Español
+EST198,15,M,Palma de Mallorca,Secundaria,Alto,Público,Catalán
+EST199,16,M,Palma de Mallorca,Secundaria,Medio,Concertado,Catalán
+EST200,15,M,Palma de Mallorca,Secundaria,Medio,Privado,Catalán
+EST201,16,F,Granada,Secundaria,Medio,Concertado,Español
+EST202,15,F,Santa Cruz de Tenerife,Secundaria,Bajo,Público,Español
+EST203,18,F,Alicante,Bachillerato,Alto,Público,Valenciano
+EST204,17,F,Madrid,Bachillerato,Alto,Concertado,Español
+EST205,14,F,Alicante,Secundaria,Bajo,Concertado,Valenciano
+EST206,16,M,Málaga,Secundaria,Alto,Público,Español
+EST207,15,M,Barcelona,Secundaria,Medio,Concertado,Catalán
+EST208,14,F,Bilbao,Secundaria,Bajo,Privado,Euskera
+EST209,16,F,Zaragoza,Secundaria,Bajo,Público,Español
+EST210,18,F,Granada,Bachillerato,Bajo,Público,Español
+EST211,17,F,Córdoba,Bachillerato,Bajo,Público,Español
+EST212,14,M,Murcia,Secundaria,Alto,Concertado,Español
+EST213,17,F,Valencia,Bachillerato,Medio,Público,Valenciano
+EST214,18,M,Palma de Mallorca,Bachillerato,Medio,Concertado,Catalán
+EST215,16,F,Valladolid,Secundaria,Bajo,Concertado,Español
+EST216,17,M,Córdoba,Bachillerato,Alto,Público,Español
+EST217,14,F,Alicante,Secundaria,Alto,Público,Valenciano
+EST218,15,M,Barcelona,Secundaria,Medio,Privado,Catalán
+EST219,14,M,Murcia,Secundaria,Alto,Público,Español
+EST220,17,F,Gijón,Bachillerato,Alto,Concertado,Español
+EST221,15,F,Sevilla,Secundaria,Medio,Concertado,Español
+EST222,16,M,Valladolid,Secundaria,Bajo,Público,Español
+EST223,15,F,Sevilla,Secundaria,Alto,Público,Español
+EST224,16,M,Vigo,Secundaria,Medio,Público,Gallego
+EST225,14,F,Valencia,Secundaria,Alto,Público,Valenciano
+EST226,18,M,Barcelona,Bachillerato,Medio,Público,Catalán
+EST227,15,M,Valencia,Secundaria,Alto,Público,Valenciano
+EST228,15,M,Córdoba,Secundaria,Bajo,Concertado,Español
+EST229,18,M,Granada,Bachillerato,Bajo,Privado,Español
+EST230,18,F,Zaragoza,Bachillerato,Bajo,Concertado,Español
+EST231,14,M,Madrid,Secundaria,Medio,Concertado,Español
+EST232,15,F,Madrid,Secundaria,Bajo,Público,Español
+EST233,15,F,Sevilla,Secundaria,Alto,Público,Español
+EST234,17,F,Sevilla,Bachillerato,Medio,Público,Español
+EST235,18,M,Alicante,Bachillerato,Medio,Concertado,Valenciano
+EST236,14,M,Santa Cruz de Tenerife,Secundaria,Medio,Público,Español
+EST237,14,F,Palma de Mallorca,Secundaria,Bajo,Concertado,Catalán
+EST238,16,M,Valencia,Secundaria,Bajo,Público,Valenciano
+EST239,18,F,Vigo,Bachillerato,Alto,Público,Gallego
+EST240,17,F,Sevilla,Bachillerato,Alto,Público,Español
+EST241,18,M,Gijón,Bachillerato,Medio,Concertado,Español
+EST242,17,F,Palma de Mallorca,Bachillerato,Medio,Público,Catalán
+EST243,14,F,Gijón,Secundaria,Medio,Concertado,Español
+EST244,16,M,Santa Cruz de Tenerife,Secundaria,Bajo,Público,Español
+EST245,14,M,Gijón,Secundaria,Bajo,Concertado,Español
+EST246,16,M,Barcelona,Secundaria,Alto,Privado,Catalán
+EST247,18,F,Sevilla,Bachillerato,Medio,Público,Español
+EST248,17,M,Alicante,Bachillerato,Alto,Público,Valenciano
+EST249,14,M,Bilbao,Secundaria,Alto,Público,Euskera
+EST250,14,F,Valladolid,Secundaria,Bajo,Concertado,Español
+EST251,18,M,Gijón,Bachillerato,Alto,Privado,Español
+EST252,18,M,Granada,Bachillerato,Bajo,Público,Español
+EST253,16,F,Valladolid,Secundaria,Bajo,Público,Español
+EST254,15,F,Valencia,Secundaria,Bajo,Concertado,Valenciano
+EST255,14,M,Málaga,Secundaria,Medio,Público,Español
+EST256,16,M,Valladolid,Secundaria,Medio,Concertado,Español
+EST257,18,M,Barcelona,Bachillerato,Bajo,Público,Catalán
+EST258,18,M,Valencia,Bachillerato,Medio,Público,Valenciano
+EST259,17,F,Palma de Mallorca,Bachillerato,Medio,Público,Catalán
+EST260,18,M,Valladolid,Bachillerato,Medio,Público,Español
+EST261,18,F,Alicante,Bachillerato,Bajo,Público,Valenciano
+EST262,18,M,Madrid,Bachillerato,Bajo,Público,Español
+EST263,15,M,Granada,Secundaria,Medio,Público,Español
+EST264,14,F,Gijón,Secundaria,Bajo,Público,Español
+EST265,18,M,Valladolid,Bachillerato,Bajo,Público,Español
+EST266,14,F,Madrid,Secundaria,Medio,Privado,Español
+EST267,16,F,Vigo,Secundaria,Alto,Concertado,Gallego
+EST268,16,M,Vigo,Secundaria,Bajo,Privado,Gallego
+EST269,15,F,Valladolid,Secundaria,Bajo,Público,Español
+EST270,14,M,Gijón,Secundaria,Alto,Público,Español
+EST271,14,F,Alicante,Secundaria,Alto,Público,Valenciano
+EST272,16,M,Valencia,Secundaria,Alto,Concertado,Valenciano
+EST273,18,M,Valladolid,Bachillerato,Medio,Concertado,Español
+EST274,15,M,Sevilla,Secundaria,Bajo,Público,Español
+EST275,15,M,Valencia,Secundaria,Bajo,Privado,Valenciano
+EST276,17,F,Palma de Mallorca,Bachillerato,Alto,Privado,Catalán
+EST277,18,F,Córdoba,Bachillerato,Bajo,Público,Español
+EST278,17,F,Alicante,Bachillerato,Medio,Público,Valenciano
+EST279,16,M,Alicante,Secundaria,Medio,Público,Valenciano
+EST280,14,F,Alicante,Secundaria,Bajo,Concertado,Valenciano
+EST281,14,F,Palma de Mallorca,Secundaria,Alto,Público,Catalán
+EST282,14,F,Málaga,Secundaria,Medio,Concertado,Español
+EST283,18,M,Barcelona,Bachillerato,Medio,Público,Catalán
+EST284,16,M,Zaragoza,Secundaria,Bajo,Público,Español
+EST285,17,F,Zaragoza,Bachillerato,Medio,Público,Español
+EST286,16,F,Gijón,Secundaria,Medio,Concertado,Español
+EST287,14,F,Valencia,Secundaria,Medio,Público,Valenciano
+EST288,17,F,Granada,Bachillerato,Alto,Concertado,Español
+EST289,18,M,Córdoba,Bachillerato,Bajo,Público,Español
+EST290,15,F,Alicante,Secundaria,Alto,Concertado,Valenciano
+EST291,17,M,Valencia,Bachillerato,Medio,Público,Valenciano
+EST292,16,M,Valencia,Secundaria,Alto,Concertado,Valenciano
+EST293,18,F,Madrid,Bachillerato,Medio,Público,Español
+EST294,15,F,Santa Cruz de Tenerife,Secundaria,Bajo,Público,Español
+EST295,15,M,Valencia,Secundaria,Medio,Concertado,Valenciano
+EST296,14,M,Córdoba,Secundaria,Alto,Público,Español
+EST297,17,M,Zaragoza,Bachillerato,Bajo,Concertado,Español
+EST298,18,M,Palma de Mallorca,Bachillerato,Bajo,Público,Catalán
+EST299,15,F,Alicante,Secundaria,Alto,Concertado,Valenciano
+EST300,15,M,Alicante,Secundaria,Medio,Privado,Valenciano
+EST301,15,F,Palma de Mallorca,Secundaria,Medio,Concertado,Catalán
+EST302,17,F,Zaragoza,Bachillerato,Bajo,Concertado,Español
+EST303,15,F,Barcelona,Secundaria,Alto,Público,Catalán
+EST304,16,M,Sevilla,Secundaria,Medio,Público,Español
+EST305,15,F,Palma de Mallorca,Secundaria,Alto,Público,Catalán
+EST306,17,M,Murcia,Bachillerato,Medio,Concertado,Español
+EST307,14,F,Barcelona,Secundaria,Medio,Público,Catalán
+EST308,15,F,Valencia,Secundaria,Medio,Público,Valenciano
+EST309,16,M,Córdoba,Secundaria,Bajo,Público,Español
+EST310,16,F,Bilbao,Secundaria,Alto,Público,Euskera
+EST311,18,M,Valencia,Bachillerato,Bajo,Público,Valenciano
+EST312,15,F,Sevilla,Secundaria,Medio,Público,Español
+EST313,14,M,Murcia,Secundaria,Medio,Concertado,Español
+EST314,18,F,Valencia,Bachillerato,Bajo,Concertado,Valenciano
+EST315,17,M,Murcia,Bachillerato,Alto,Público,Español
+EST316,17,M,Valladolid,Bachillerato,Bajo,Público,Español
+EST317,15,M,Valladolid,Secundaria,Bajo,Privado,Español
+EST318,18,M,Vigo,Bachillerato,Medio,Público,Gallego
+EST319,17,F,Granada,Bachillerato,Alto,Público,Español
+EST320,14,F,Murcia,Secundaria,Alto,Concertado,Español
+EST321,14,F,Bilbao,Secundaria,Bajo,Público,Euskera
+EST322,16,M,Palma de Mallorca,Secundaria,Alto,Público,Catalán
+EST323,15,M,Valencia,Secundaria,Alto,Concertado,Valenciano
+EST324,17,M,Alicante,Bachillerato,Bajo,Público,Valenciano
+EST325,15,M,Córdoba,Secundaria,Medio,Público,Español
+EST326,18,F,Granada,Bachillerato,Bajo,Concertado,Español
+EST327,15,F,Valladolid,Secundaria,Bajo,Concertado,Español
+EST328,16,F,Sevilla,Secundaria,Medio,Público,Español
+EST329,17,F,Vigo,Bachillerato,Medio,Privado,Gallego
+EST330,17,F,Valladolid,Bachillerato,Alto,Público,Español
+EST331,14,F,Valencia,Secundaria,Medio,Concertado,Valenciano
+EST332,15,F,Córdoba,Secundaria,Bajo,Público,Español
+EST333,16,F,Palma de Mallorca,Secundaria,Alto,Concertado,Catalán
+EST334,15,F,Valladolid,Secundaria,Medio,Público,Español
+EST335,16,F,Granada,Secundaria,Alto,Privado,Español
+EST336,14,M,Vigo,Secundaria,Medio,Público,Gallego
+EST337,15,M,Bilbao,Secundaria,Alto,Concertado,Euskera
+EST338,17,M,Bilbao,Bachillerato,Bajo,Público,Euskera
+EST339,16,F,Vigo,Secundaria,Alto,Público,Gallego
+EST340,15,F,Valladolid,Secundaria,Medio,Público,Español
+EST341,14,M,Valladolid,Secundaria,Medio,Público,Español
+EST342,16,M,Sevilla,Secundaria,Bajo,Concertado,Español
+EST343,17,F,Sevilla,Bachillerato,Medio,Concertado,Español
+EST344,17,M,Alicante,Bachillerato,Alto,Privado,Valenciano
+EST345,17,M,Sevilla,Bachillerato,Bajo,Concertado,Español
+EST346,17,M,Palma de Mallorca,Bachillerato,Bajo,Concertado,Catalán
+EST347,16,F,Valencia,Secundaria,Alto,Público,Valenciano
+EST348,16,M,Zaragoza,Secundaria,Medio,Público,Español
+EST349,14,M,Bilbao,Secundaria,Bajo,Concertado,Euskera
+EST350,14,F,Valladolid,Secundaria,Medio,Concertado,Español
+EST351,18,M,Valencia,Bachillerato,Bajo,Público,Valenciano
+EST352,17,F,Gijón,Bachillerato,Alto,Público,Español
+EST353,16,M,Palma de Mallorca,Secundaria,Medio,Concertado,Catalán
+EST354,16,M,Zaragoza,Secundaria,Bajo,Público,Español
+EST355,14,M,Bilbao,Secundaria,Medio,Público,Euskera
+EST356,16,M,Valladolid,Secundaria,Alto,Concertado,Español
+EST357,14,F,Málaga,Secundaria,Alto,Privado,Español
+EST358,16,M,Alicante,Secundaria,Alto,Público,Valenciano
+EST359,18,M,Bilbao,Bachillerato,Bajo,Concertado,Euskera
+EST360,18,F,Barcelona,Bachillerato,Bajo,Público,Catalán
+EST361,18,F,Málaga,Bachillerato,Alto,Público,Español
+EST362,14,F,Alicante,Secundaria,Alto,Privado,Valenciano
+EST363,17,M,Vigo,Bachillerato,Medio,Público,Gallego
+EST364,14,M,Palma de Mallorca,Secundaria,Medio,Público,Catalán
+EST365,15,F,Bilbao,Secundaria,Medio,Concertado,Euskera
+EST366,16,F,Vigo,Secundaria,Bajo,Concertado,Gallego
+EST367,18,M,Córdoba,Bachillerato,Bajo,Público,Español
+EST368,16,F,Murcia,Secundaria,Bajo,Público,Español
+EST369,16,F,Gijón,Secundaria,Bajo,Privado,Español
+EST370,15,F,Córdoba,Secundaria,Bajo,Concertado,Español
+EST371,17,F,Santa Cruz de Tenerife,Bachillerato,Medio,Público,Español
+EST372,14,F,Palma de Mallorca,Secundaria,Bajo,Público,Catalán
+EST373,16,M,Barcelona,Secundaria,Medio,Público,Catalán
+EST374,17,F,Madrid,Bachillerato,Bajo,Público,Español
+EST375,16,F,Vigo,Secundaria,Medio,Público,Gallego
+EST376,14,M,Valladolid,Secundaria,Alto,Público,Español
+EST377,17,F,Granada,Bachillerato,Alto,Concertado,Español
+EST378,14,M,Sevilla,Secundaria,Medio,Público,Español
+EST379,16,F,Bilbao,Secundaria,Bajo,Concertado,Euskera
+EST380,17,M,Barcelona,Bachillerato,Bajo,Público,Catalán
+EST381,16,F,Palma de Mallorca,Secundaria,Bajo,Concertado,Catalán
+EST382,18,M,Córdoba,Bachillerato,Alto,Público,Español
+EST383,17,F,Córdoba,Bachillerato,Alto,Concertado,Español
+EST384,18,F,Alicante,Bachillerato,Medio,Concertado,Valenciano
+EST385,16,F,Sevilla,Secundaria,Medio,Público,Español
+EST386,14,F,Granada,Secundaria,Alto,Concertado,Español
+EST387,18,M,Barcelona,Bachillerato,Alto,Público,Catalán
+EST388,18,F,Bilbao,Bachillerato,Alto,Público,Euskera
+EST389,18,M,Málaga,Bachillerato,Bajo,Público,Español
+EST390,17,M,Gijón,Bachillerato,Alto,Público,Español
+EST391,18,F,Barcelona,Bachillerato,Alto,Público,Catalán
+EST392,15,F,Santa Cruz de Tenerife,Secundaria,Alto,Público,Español
+EST393,15,F,Córdoba,Secundaria,Alto,Público,Español
+EST394,16,F,Málaga,Secundaria,Bajo,Público,Español
+EST395,16,M,Alicante,Secundaria,Medio,Concertado,Valenciano
+EST396,17,F,Santa Cruz de Tenerife,Bachillerato,Medio,Público,Español
+EST397,16,F,Sevilla,Secundaria,Alto,Concertado,Español
+EST398,17,F,Valladolid,Bachillerato,Bajo,Público,Español
+EST399,16,M,Valladolid,Secundaria,Medio,Concertado,Español
+EST400,17,M,Málaga,Bachillerato,Alto,Público,Español
